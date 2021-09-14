@@ -31,10 +31,11 @@ Exact scoring formula is given below
     else:
         return ((timer / dungTimers[0]) * (timed_score - up_score)) + up_score
 ```
+This should give similar scores like in raider.io BfA Season 4 
 
 ### My runs doesnt show up?
 
-If your run doesn't appear on website, I can't parse that. Also keep in mind there _could_ be some mistakes parsing in algorithm.
+If your run doesn't appear on website, I can't parse that. Also keep in mind there _could_ be some mistakes parsing in algorithm. I'll be fixing those whenever I notice.
 
 ### When data is gonna be parsed again?
 
