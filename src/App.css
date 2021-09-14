@@ -35,6 +35,8 @@
 }
 
 .accordion-alt-item {
+  margin-right: 3px;
+  margin-left: 3px;
   align-items: flex-start;
 
 }
