@@ -12,7 +12,6 @@ function returnPlayerRuns(rids, currentRuns){
       }
     }
   }
-  runs.sort()
   return runs
 };
 
