@@ -35,12 +35,12 @@ This should give similar scores like in raider.io BfA Season 4
 
 ### My runs doesnt show up?
 
-If your run doesn't appear on website, I can't parse that. Also keep in mind there _could_ be some mistakes parsing in algorithm. I'll be fixing those whenever I notice.
+If your run doesn't appear on Firestorm website, I can't parse that. Also keep in mind there _could_ be some mistakes parsing in algorithm. I'll be fixing those whenever I notice.
 
 ### When data is gonna be parsed again?
 
 Right now, I parse all the data **manually**. Soon I'll implement Github Workflow for automated parsing in every 3/6 hours.
 
-### How can i contact you?
+### How can I contact you?
 
 Discord: keepdying#5821
