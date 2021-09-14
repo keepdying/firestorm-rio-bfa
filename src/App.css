@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.app-header {
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: large;
+}
+.App input {
+  margin-bottom: 10px;
+  width: 150px;
+  height: 20px;
+  padding-left: 6px;
+}
+
+.accordion-item {
+  margin-bottom: 9px;
+  align-items: center;
+}
+
+.accordion-title {
+  font-size: medium;
+  align-items: flex-start;
+
+}
+
+.accordion-content {
+  align-items: flex-start;
+  display: inline-flex;
+}
+
+.accordion-alt-item {
+  align-items: flex-start;
+
+}
+
+.accordion-alt-title {
+  font-size: small;
+  align-items: flex-start;
+
+}
+
+.accordion-alt-content {
+  align-items: flex-start;
+  font-size: small;
+}
+
+

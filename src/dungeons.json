@@ -1,0 +1,62 @@
+[{
+        "abbr": "ML",
+        "id": "1594_247",
+        "name": "The MOTHERLODE!!",
+        "timer": [2340, 1872, 1404]
+    }, {
+        "abbr": "FH",
+        "id": "1754_245",
+        "name": "Freehold",
+        "timer": [1980, 1584, 1188]
+    }, {
+        "abbr": "KR",
+        "id": "1762_249",
+        "name": "King's Rest",
+        "timer": [2520, 2016, 1512]
+    }, {
+        "abbr": "ATAL",
+        "id": "1763_244",
+        "name": "Atal'Dazar",
+        "timer": [1800, 1440, 1080]
+    }, {
+        "abbr": "TD",
+        "id": "1771_246",
+        "name": "Tol Dagor",
+        "timer": [2160, 1728, 1296]
+    }, {
+        "abbr": "SOB",
+        "id": "1822_353",
+        "name": "Siege of Boralus",
+        "timer": [2160, 1728, 1296]
+    }, {
+        "abbr": "UR",
+        "id": "1841_251",
+        "name": "The Underrot",
+        "timer": [1980, 1584, 1188]
+    }, {
+        "abbr": "WM",
+        "id": "1862_248",
+        "name": "Waycrest Manor",
+        "timer": [2340, 1872, 1404]
+    }, {
+        "abbr": "SOTS",
+        "id": "1864_252",
+        "name": "Shrine of the Storm",
+        "timer": [2520, 2016, 1512]
+    }, {
+        "abbr": "TOS",
+        "id": "1877_250",
+        "name": "Temple of Sethraliss",
+        "timer": [2160, 1728, 1296]
+    }, {
+        "abbr": "OMJY",
+        "id": "2097_369",
+        "name": "Operation: Mechagon (Junkyard)",
+        "timer": [2280, 1824, 1358]
+    }, {
+        "abbr": "OMWS",
+        "id": "2097_370",
+        "name": "Operation: Mechagon (Workshop)",
+        "timer": [1920, 1536, 1152]
+    }
+]
