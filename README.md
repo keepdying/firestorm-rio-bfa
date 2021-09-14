@@ -28,7 +28,7 @@ Exact scoring formula is given below
     elif max_time > timer > dungTimers[0]: # if depleted
         return (((timer - max_time) / (max_time - dungTimers[0])) * (deplete_score - timed_score)) + deplete_score
         
-    else:
+    else: # if timed
         return ((timer / dungTimers[0]) * (timed_score - up_score)) + up_score
 ```
 This should give similar scores like in raider.io BfA Season 4 
