@@ -11,7 +11,7 @@ All data is **parsed** from Firestorm's website (https://firestorm-servers.com/e
 
 ### How do you score runs?
 
-Exact scoring formula is given below
+Exact scoring formula is given below:
 
 ```
     dungTimers = [+1 Timer, +2 Timer, +3 Timer]
@@ -31,7 +31,7 @@ Exact scoring formula is given below
     else: # if timed
         return ((timer / dungTimers[0]) * (timed_score - up_score)) + up_score
 ```
-This should give similar scores like in raider.io BfA Season 4 
+This should give similar scores like in raider.io BfA Season 4.
 
 ### My runs doesnt show up?
 
