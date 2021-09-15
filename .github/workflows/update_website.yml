@@ -6,24 +6,21 @@ name: Update Website
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
-
 jobs:
   build:
-
     runs-on: ubuntu-latest
-    
     steps:
-    - uses: actions/checkout@v2
-    - name: Deploy website
-      uses: actions/setup-node@v2
-      with:
-        node-version: 14.x
-        cache: 'npm'
-    - run: |   
-        git config --global remote.origin.url "https://keepdying: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@github.com/keepdying/firestorm-rio"
-        git config --global user.name "Github Actions"
-        git config --global user.email "yunusemre34tr@gmail.com"
-    - run: npm ci
-    - run: npm run deploy
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1
+
+      - name: Install and Build 🔧 # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
+        run: |
+          npm install
+          npm run build
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.5
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: build # The folder the action should deploy.
+
