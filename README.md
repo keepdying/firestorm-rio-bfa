@@ -41,7 +41,7 @@ Keep in mind current data is gathered over 2-3 weeks by parsing manually so If y
 
 ### When data is gonna be parsed again?
 
-It is set to update in every 5 mins. But Github Actions gets delayed because of high load. You can check actions for latest updates.
+It is set to update in every 15 mins. But Github Actions can be delayed because of high load. You can check actions for latest updates.
 
 ### How can I contact you?
 
