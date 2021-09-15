@@ -60706,5 +60706,215 @@
         "lvl": 15,
         "time": 2147,
         "score": 161.93
+    },
+    {
+        "rid": 1631752431.0,
+        "pids": [
+            "7698393",
+            "1222985",
+            "2688371",
+            "4368117",
+            "6806917"
+        ],
+        "pnames": [
+            "Andruila",
+            "Northfurion",
+            "Sleazzk",
+            "Manhý",
+            "Panzeosolo"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 2031,
+        "score": 288.83
+    },
+    {
+        "rid": 1631752141.0,
+        "pids": [
+            "3216332",
+            "3684",
+            "4258621",
+            "8000138",
+            "8586411"
+        ],
+        "pnames": [
+            "Zétsu",
+            "Ремонтлиц",
+            "Rhøonin",
+            "Novospamlolx",
+            "Moondjinx"
+        ],
+        "dung": 247,
+        "lvl": 14,
+        "time": 1741,
+        "score": 149.84
+    },
+    {
+        "rid": 1631752753.0,
+        "pids": [
+            "6363244",
+            "242192",
+            "4964293",
+            "8547946",
+            "8576412"
+        ],
+        "pnames": [
+            "Meikö",
+            "Inyx",
+            "Auronplays",
+            "Galacat",
+            "Rompeogtstlv"
+        ],
+        "dung": 247,
+        "lvl": 13,
+        "time": 2353,
+        "score": 132.5
+    },
+    {
+        "rid": 1631753872.0,
+        "pids": [
+            "6624830",
+            "5723384",
+            "4648683",
+            "7256270",
+            "8383191"
+        ],
+        "pnames": [
+            "Tienshi",
+            "Dearts",
+            "Blaackkser",
+            "Nayethirus",
+            "Sían"
+        ],
+        "dung": 246,
+        "lvl": 19,
+        "time": 3472,
+        "score": 195.01
+    },
+    {
+        "rid": 1631752559.0,
+        "pids": [
+            "2959016",
+            "6593620",
+            "2565853",
+            "7779945",
+            "8457248"
+        ],
+        "pnames": [
+            "Úlfur",
+            "Copyrate",
+            "Lopunny",
+            "Watercycle",
+            "Aligyeri"
+        ],
+        "dung": 246,
+        "lvl": 11,
+        "time": 2159,
+        "score": 110.01
+    },
+    {
+        "rid": 1631751755.0,
+        "pids": [
+            "2052233",
+            "6102215",
+            "349094",
+            "4956701",
+            "8281189"
+        ],
+        "pnames": [
+            "Kuroakuma",
+            "Alvià",
+            "Peponcito",
+            "Sucumbe",
+            "Isthatasupra"
+        ],
+        "dung": 353,
+        "lvl": 9,
+        "time": 1355,
+        "score": 93.73
+    },
+    {
+        "rid": 1631751963.0,
+        "pids": [
+            "2589962",
+            "6003500",
+            "1310006",
+            "4037078",
+            "6707281"
+        ],
+        "pnames": [
+            "Halint",
+            "Ultralight",
+            "Hakkan",
+            "Leonelefi",
+            "Võrg"
+        ],
+        "dung": 251,
+        "lvl": 15,
+        "time": 1563,
+        "score": 164.37
+    },
+    {
+        "rid": 1631752859.0,
+        "pids": [
+            "8357175",
+            "8693331",
+            "3688918",
+            "4649037",
+            "8393606"
+        ],
+        "pnames": [
+            "Luccimorning",
+            "Lamatafeos",
+            "Dyxdämon",
+            "Juanchovil",
+            "Vanicadc"
+        ],
+        "dung": 252,
+        "lvl": 12,
+        "time": 2459,
+        "score": 121.29
+    },
+    {
+        "rid": 1631752636.0,
+        "pids": [
+            "1684529",
+            "8138156",
+            "1732295",
+            "3094517",
+            "8753375"
+        ],
+        "pnames": [
+            "Luisillø",
+            "Saionora",
+            "Draculemiha",
+            "Bilito",
+            "Eneara"
+        ],
+        "dung": 369,
+        "lvl": 15,
+        "time": 2236,
+        "score": 161.31
+    },
+    {
+        "rid": 1631751918.0,
+        "pids": [
+            "7330506",
+            "5705477",
+            "4340840",
+            "6359200",
+            "8590704"
+        ],
+        "pnames": [
+            "Cørdelia",
+            "Ypokamp",
+            "Potatomasta",
+            "Byos",
+            "Kittyh"
+        ],
+        "dung": 370,
+        "lvl": 16,
+        "time": 1518,
+        "score": 180.77
     }
 ]
