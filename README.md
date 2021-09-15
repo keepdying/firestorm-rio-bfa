@@ -35,11 +35,13 @@ This should give similar scores like in raider.io BfA Season 4.
 
 ### Some of my runs is missing?
 
-If your run doesn't appear on Firestorm website, I can't parse that. Also keep in mind there _could_ be some mistakes parsing in algorithm. I'll be fixing those whenever I notice.
+If your run doesn't appear on Firestorm website, I can't parse that. Also If your run didn't get parsed before weekly reset, You won't be able to see it.
+
+Keep in mind current data is gathered over 2-3 weeks by parsing manually so If you don't see your run 3 months ago don't blame me. 
 
 ### When data is gonna be parsed again?
 
-Right now, I parse all the data **manually**. Soon I'll implement Github Workflow for automated parsing in every 3/6 hours.
+It is set to update in every 5 mins. But Github Actions gets delayed because of high load. You can check actions for latest updates.
 
 ### How can I contact you?
 
