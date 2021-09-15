@@ -16,10 +16,13 @@ jobs:
     
     steps:
     - uses: actions/checkout@v2
-    - name: Install Node.js 14.x and "run npm run deploy"
+    - name: Deploy website
       uses: actions/setup-node@v2
       with:
         node-version: 14.x
         cache: 'npm'
+    - run: |   
+        git config --global user.name "Github Actions"
+        git config --global user.email "yunusemre34tr@gmail.com"
     - run: npm ci
     - run: npm run deploy
