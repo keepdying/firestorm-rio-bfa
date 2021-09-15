@@ -59931,5 +59931,213 @@
         "lvl": 14,
         "time": 1909,
         "score": 146.09
+    },
+    {
+        "rid": 1631665601.0,
+        "pids": [
+            "6347708",
+            "7179568",
+            "1159573",
+            "5560258",
+            "7834346"
+        ],
+        "pnames": [
+            "Morrdekay",
+            "Lekingtyt",
+            "Retsü",
+            "Soynesz",
+            "Donferyen"
+        ],
+        "dung": 245,
+        "lvl": 16,
+        "time": 1601,
+        "score": 180.45
+    },
+    {
+        "rid": 1631752764.0,
+        "pids": [
+            "8374546",
+            "8547338",
+            "1108591",
+            "5472564",
+            "5609518"
+        ],
+        "pnames": [
+            "Назад",
+            "Halbein",
+            "Indulgencia",
+            "Slicéndice",
+            "Ashnikkó"
+        ],
+        "dung": 249,
+        "lvl": 18,
+        "time": 2364,
+        "score": 215.36
+    },
+    {
+        "rid": 1631752488.0,
+        "pids": [
+            "5046247",
+            "8085659",
+            "8694811",
+            "8795690",
+            "8833496"
+        ],
+        "pnames": [
+            "Jaden",
+            "Curasotecuro",
+            "Tauritoz",
+            "Zadkieel",
+            "Neopolitann"
+        ],
+        "dung": 249,
+        "lvl": 8,
+        "time": 2088,
+        "score": 81.71
+    },
+    {
+        "rid": 1631665499.0,
+        "pids": [
+            "5415519",
+            "5038512",
+            "1224468",
+            "4649941",
+            "8372981"
+        ],
+        "pnames": [
+            "Wêlls",
+            "Yulissá",
+            "Shessith",
+            "Bøgøtá",
+            "Lwym"
+        ],
+        "dung": 244,
+        "lvl": 21,
+        "time": 1499,
+        "score": 289.85
+    },
+    {
+        "rid": 1631665672.0,
+        "pids": [
+            "5883127",
+            "4199909",
+            "5712655",
+            "7520938",
+            "8737358"
+        ],
+        "pnames": [
+            "Soulwizar",
+            "Onnophris",
+            "Xandriss",
+            "Shiniqami",
+            "Rampagepov"
+        ],
+        "dung": 251,
+        "lvl": 15,
+        "time": 1672,
+        "score": 163.49
+    },
+    {
+        "rid": 1631666395.0,
+        "pids": [
+            "7992255",
+            "6763454",
+            "2506381",
+            "2902599",
+            "5613433"
+        ],
+        "pnames": [
+            "Zwanfiahbwoy",
+            "Tokkïo",
+            "Edmé",
+            "Iblacksoull",
+            "Miguelisimo"
+        ],
+        "dung": 252,
+        "lvl": 20,
+        "time": 2395,
+        "score": 260.29
+    },
+    {
+        "rid": 1631665939.0,
+        "pids": [
+            "1264473",
+            "6634600",
+            "1792748",
+            "6072226",
+            "6213646"
+        ],
+        "pnames": [
+            "Lheiton",
+            "Wendelina",
+            "Toulom",
+            "Kuinshi",
+            "Hagreda"
+        ],
+        "dung": 250,
+        "lvl": 15,
+        "time": 1939,
+        "score": 162.64
+    },
+    {
+        "rid": 1631753446.0,
+        "pids": [
+            "2363866",
+            "6413915",
+            "7794176",
+            "7922055",
+            "8484396"
+        ],
+        "pnames": [
+            "Kongas",
+            "Vanivy",
+            "Diviot",
+            "Samsårra",
+            "Shard"
+        ],
+        "dung": 250,
+        "lvl": 12,
+        "time": 3046,
+        "score": 100.01
+    },
+    {
+        "rid": 1631665332.0,
+        "pids": [
+            "8402777",
+            "8007263",
+            "6466137",
+            "7021604",
+            "8612082"
+        ],
+        "pnames": [
+            "Rohellec",
+            "Нубоед",
+            "Khyouko",
+            "Cheana",
+            "Alepsa"
+        ],
+        "dung": 250,
+        "lvl": 10,
+        "time": 1332,
+        "score": 103.83
+    },
+    {
+        "rid": 1631666123.0,
+        "pids": [
+            "6182905",
+            "8811928",
+            "8775035",
+            "8858599"
+        ],
+        "pnames": [
+            "Livingseed",
+            "Fabiyi",
+            "Xayanna",
+            "Revø"
+        ],
+        "dung": 370,
+        "lvl": 8,
+        "time": 2123,
+        "score": 73.24
     }
 ]
