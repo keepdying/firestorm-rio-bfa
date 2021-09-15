@@ -37,11 +37,11 @@ This should give similar scores like in raider.io BfA Season 4.
 
 If your run doesn't appear on Firestorm website, I can't parse that. Also If your run didn't get parsed before weekly reset, You won't be able to see it.
 
-Keep in mind current data is gathered over 2-3 weeks by parsing manually so If you don't see a run you did 3 months ago don't blame me. 
+Keep in mind current data is gathered over past weeks in development by running parser manually so If you don't see a run you did 3 months ago don't blame me. 
 
-### When data is gonna be parsed again?
+### When data is going to be parsed again?
 
-It is set to update in every 15 mins. But Github Actions can be delayed because of high load. You can check actions for latest updates.
+It is set to update in every 15 mins. But Github Actions can be delayed because of high load. You can check GitHub Actions for latest updates.
 
 ### How can I contact you?
 
