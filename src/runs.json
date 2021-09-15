@@ -58650,5 +58650,236 @@
         "lvl": 2,
         "time": 710,
         "score": 26.3
+    },
+    {
+        "rid": 1631666122.0,
+        "pids": [
+            "8846286",
+            "8830085",
+            "7438247",
+            "7940369",
+            "8688465"
+        ],
+        "pnames": [
+            "Прессор",
+            "Ramoawao",
+            "Robbocop",
+            "Echthe",
+            "Mgrogert"
+        ],
+        "dung": 247,
+        "lvl": 8,
+        "time": 2122,
+        "score": 80.93
+    },
+    {
+        "rid": 1631666255.0,
+        "pids": [
+            "7347990",
+            "6668115",
+            "6546788",
+            "7438396",
+            "8157500"
+        ],
+        "pnames": [
+            "Славаа",
+            "Tisse",
+            "Elibael",
+            "Metò",
+            "Illidemen"
+        ],
+        "dung": 245,
+        "lvl": 19,
+        "time": 2255,
+        "score": 217.21
+    },
+    {
+        "rid": 1631666569.0,
+        "pids": [
+            "7888452",
+            "8289724",
+            "2876315",
+            "5142192",
+            "8097319"
+        ],
+        "pnames": [
+            "Kuzansuki",
+            "Откен",
+            "Sahuronn",
+            "Tofft",
+            "Diablolindo"
+        ],
+        "dung": 249,
+        "lvl": 5,
+        "time": 2569,
+        "score": 48.37
+    },
+    {
+        "rid": 1631665755.0,
+        "pids": [
+            "5828617",
+            "7093095",
+            "3727742",
+            "7041629",
+            "7218532"
+        ],
+        "pnames": [
+            "Nhaisha",
+            "Kristela",
+            "Bjørnlodbrok",
+            "Dankemercy",
+            "Shyser"
+        ],
+        "dung": 244,
+        "lvl": 17,
+        "time": 1755,
+        "score": 195.47
+    },
+    {
+        "rid": 1631666142.0,
+        "pids": [
+            "857295",
+            "6898601",
+            "8353996",
+            "8522981",
+            "8820280"
+        ],
+        "pnames": [
+            "Fuyoku",
+            "Elemlightx",
+            "Celani",
+            "Veilovi",
+            "Pitchoubabe"
+        ],
+        "dung": 246,
+        "lvl": 13,
+        "time": 2142,
+        "score": 133.11
+    },
+    {
+        "rid": 1631665995.0,
+        "pids": [
+            "1226",
+            "2586916",
+            "151894",
+            "405854",
+            "3126355"
+        ],
+        "pnames": [
+            "Redention",
+            "Frehilda",
+            "Barajadinix",
+            "Yoquese",
+            "Kinochami"
+        ],
+        "dung": 246,
+        "lvl": 9,
+        "time": 1995,
+        "score": 90.76
+    },
+    {
+        "rid": 1631665226.0,
+        "pids": [
+            "8258602",
+            "4861430",
+            "6952015",
+            "8468993",
+            "8809910"
+        ],
+        "pnames": [
+            "Elpropiø",
+            "Holyxá",
+            "Hringeia",
+            "Lilmalfurion",
+            "Danthash"
+        ],
+        "dung": 248,
+        "lvl": 15,
+        "time": 1226,
+        "score": 168.62
+    },
+    {
+        "rid": 1631665445.0,
+        "pids": [
+            "8166372",
+            "4897832",
+            "844457",
+            "4106685",
+            "8785092"
+        ],
+        "pnames": [
+            "Trencendence",
+            "Shyvo",
+            "Héntaigírl",
+            "Graveheárt",
+            "Mårkis"
+        ],
+        "dung": 248,
+        "lvl": 15,
+        "time": 1445,
+        "score": 167.12
+    },
+    {
+        "rid": 1631666040.0,
+        "pids": [
+            "6133377",
+            "133389",
+            "4967767",
+            "6750430",
+            "8287728"
+        ],
+        "pnames": [
+            "Sifuruz",
+            "Uubi",
+            "Whulfghar",
+            "Kelltalass",
+            "Bláckpink"
+        ],
+        "dung": 248,
+        "lvl": 15,
+        "time": 2040,
+        "score": 163.05
+    },
+    {
+        "rid": 1631665748.0,
+        "pids": [
+            "8374546",
+            "5609518",
+            "1108591",
+            "5153376",
+            "6544440"
+        ],
+        "pnames": [
+            "Назад",
+            "Ashnikkó",
+            "Indulgencia",
+            "Bêsya",
+            "Malacriss"
+        ],
+        "dung": 369,
+        "lvl": 19,
+        "time": 1748,
+        "score": 241.37
+    },
+    {
+        "rid": 1631665241.0,
+        "pids": [
+            "5253196",
+            "2024358",
+            "4696197",
+            "8155090",
+            "8245803"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Lowearth",
+            "Vaintkatre",
+            "Zerdodh",
+            "Chipsett"
+        ],
+        "dung": 369,
+        "lvl": 14,
+        "time": 1241,
+        "score": 152.84
     }
 ]
