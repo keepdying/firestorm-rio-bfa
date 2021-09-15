@@ -33,7 +33,7 @@ Exact scoring formula is given below:
 ```
 This should give similar scores like in raider.io BfA Season 4.
 
-### My runs doesnt show up?
+### Some of my runs is missing?
 
 If your run doesn't appear on Firestorm website, I can't parse that. Also keep in mind there _could_ be some mistakes parsing in algorithm. I'll be fixing those whenever I notice.
 
