@@ -1,4 +1,4 @@
-# Firestorm RIO
+# Firestorm RIO [![Update DB](https://github.com/keepdying/firestorm-rio-backend/actions/workflows/update_db.yml/badge.svg)](https://github.com/keepdying/firestorm-rio-backend/actions/workflows/update_db.yml)
 
 A raider.io like M+ scoring system for Firestorm Servers.
 https://keepdying.github.io/firestorm-rio/
