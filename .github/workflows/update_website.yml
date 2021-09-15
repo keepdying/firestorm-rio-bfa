@@ -22,6 +22,7 @@ jobs:
         node-version: 14.x
         cache: 'npm'
     - run: |   
+        git config --global remote.origin.url "https://keepdying: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@github.com/keepdying/firestorm-rio.git"
         git config --global user.name "Github Actions"
         git config --global user.email "yunusemre34tr@gmail.com"
     - run: npm ci
