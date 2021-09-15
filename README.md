@@ -33,11 +33,11 @@ Exact scoring formula is given below:
 ```
 This should give similar scores like in raider.io BfA Season 4.
 
-### Some of my runs is missing?
+### Some of my runs are missing?
 
 If your run doesn't appear on Firestorm website, I can't parse that. Also If your run didn't get parsed before weekly reset, You won't be able to see it.
 
-Keep in mind current data is gathered over 2-3 weeks by parsing manually so If you don't see your run 3 months ago don't blame me. 
+Keep in mind current data is gathered over 2-3 weeks by parsing manually so If you don't see a run you did 3 months ago don't blame me. 
 
 ### When data is gonna be parsed again?
 
