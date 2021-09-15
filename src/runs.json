@@ -61189,5 +61189,297 @@
         "lvl": 8,
         "time": 1063,
         "score": 84.46
+    },
+    {
+        "rid": 1631752499.0,
+        "pids": [
+            "7276704",
+            "6838637",
+            "7013628",
+            "7329719"
+        ],
+        "pnames": [
+            "Ðâv",
+            "Ashdune",
+            "Raikuga",
+            "Éthérias"
+        ],
+        "dung": 247,
+        "lvl": 16,
+        "time": 2099,
+        "score": 178.85
+    },
+    {
+        "rid": 1631752889.0,
+        "pids": [
+            "7912843",
+            "1401016",
+            "463791",
+            "7024438",
+            "8143667"
+        ],
+        "pnames": [
+            "Donboya",
+            "Cerera",
+            "Sophiah",
+            "Chepooll",
+            "Jelouta"
+        ],
+        "dung": 247,
+        "lvl": 11,
+        "time": 2489,
+        "score": 105.04
+    },
+    {
+        "rid": 1631751989.0,
+        "pids": [
+            "69625",
+            "7953983",
+            "121690",
+            "7233269",
+            "8263370"
+        ],
+        "pnames": [
+            "Cckt",
+            "Alexssis",
+            "Yoshimo",
+            "Draavid",
+            "Roxaroxa"
+        ],
+        "dung": 245,
+        "lvl": 16,
+        "time": 1589,
+        "score": 180.55
+    },
+    {
+        "rid": 1631752240.0,
+        "pids": [
+            "3791348",
+            "3684",
+            "4258621",
+            "8000138",
+            "8091575"
+        ],
+        "pnames": [
+            "Aabrakadabra",
+            "Ремонтлиц",
+            "Rhøonin",
+            "Novospamlolx",
+            "Øgginonmiva"
+        ],
+        "dung": 245,
+        "lvl": 16,
+        "time": 1840,
+        "score": 178.27
+    },
+    {
+        "rid": 1631753920.0,
+        "pids": [
+            "7992255",
+            "6763454",
+            "2902599",
+            "5619828",
+            "6074033"
+        ],
+        "pnames": [
+            "Zwanfiahbwoy",
+            "Tokkïo",
+            "Iblacksoull",
+            "Cómpañere",
+            "Kriegel"
+        ],
+        "dung": 249,
+        "lvl": 21,
+        "time": 3520,
+        "score": 236.01
+    },
+    {
+        "rid": 1631752216.0,
+        "pids": [
+            "7044946",
+            "8842869",
+            "4186345",
+            "5570967",
+            "6195001"
+        ],
+        "pnames": [
+            "Kofon",
+            "Goldhealerr",
+            "Belvigor",
+            "Heavenley",
+            "Pandarki"
+        ],
+        "dung": 249,
+        "lvl": 10,
+        "time": 1816,
+        "score": 102.79
+    },
+    {
+        "rid": 1631752068.0,
+        "pids": [
+            "1771360",
+            "7609174",
+            "6557558",
+            "7626784",
+            "8157715"
+        ],
+        "pnames": [
+            "Bérsérker",
+            "Allyestira",
+            "Tuptuup",
+            "Endeavòr",
+            "Evotec"
+        ],
+        "dung": 244,
+        "lvl": 17,
+        "time": 1668,
+        "score": 196.39
+    },
+    {
+        "rid": 1631752521.0,
+        "pids": [
+            "5170897",
+            "6408615",
+            "644167",
+            "6331544",
+            "7611916"
+        ],
+        "pnames": [
+            "Itankyoukill",
+            "Beboko",
+            "Ishîda",
+            "Sarfdh",
+            "Utcher"
+        ],
+        "dung": 246,
+        "lvl": 22,
+        "time": 2121,
+        "score": 314.56
+    },
+    {
+        "rid": 1631752484.0,
+        "pids": [
+            "8144115",
+            "7256381",
+            "6280180",
+            "8084741",
+            "8272019"
+        ],
+        "pnames": [
+            "Malfurío",
+            "Nebrask",
+            "Damihan",
+            "Krèxt",
+            "Navyx"
+        ],
+        "dung": 353,
+        "lvl": 15,
+        "time": 2084,
+        "score": 161.56
+    },
+    {
+        "rid": 1631752312.0,
+        "pids": [
+            "7944877",
+            "6102215",
+            "618139",
+            "5875666",
+            "8457248"
+        ],
+        "pnames": [
+            "Moewcow",
+            "Alvià",
+            "Gatokiller",
+            "Orchana",
+            "Aligyeri"
+        ],
+        "dung": 353,
+        "lvl": 11,
+        "time": 1912,
+        "score": 111.26
+    },
+    {
+        "rid": 1631753109.0,
+        "pids": [
+            "7320322",
+            "8493289",
+            "2682042",
+            "8680339",
+            "8839988"
+        ],
+        "pnames": [
+            "Montucito",
+            "Maxoulaquin",
+            "Diosapallas",
+            "Maglinka",
+            "Natanic"
+        ],
+        "dung": 252,
+        "lvl": 9,
+        "time": 2709,
+        "score": 83.7
+    },
+    {
+        "rid": 1631752523.0,
+        "pids": [
+            "2734399",
+            "205649",
+            "866729",
+            "7760006",
+            "7946098"
+        ],
+        "pnames": [
+            "Atroxen",
+            "Heliarion",
+            "Thecouxer",
+            "Arkastone",
+            "Zuthura"
+        ],
+        "dung": 250,
+        "lvl": 20,
+        "time": 2123,
+        "score": 259.45
+    },
+    {
+        "rid": 1631751778.0,
+        "pids": [
+            "7330506",
+            "5705477",
+            "1298432",
+            "8267425",
+            "8590704"
+        ],
+        "pnames": [
+            "Cørdelia",
+            "Ypokamp",
+            "Dax",
+            "Sadnéss",
+            "Kittyh"
+        ],
+        "dung": 250,
+        "lvl": 16,
+        "time": 1378,
+        "score": 183.52
+    },
+    {
+        "rid": 1631754390.0,
+        "pids": [
+            "5046247",
+            "8682043",
+            "2264895",
+            "2763555",
+            "8807253"
+        ],
+        "pnames": [
+            "Jaden",
+            "Samirloussif",
+            "Malkøm",
+            "Chrøños",
+            "Santaña"
+        ],
+        "dung": 250,
+        "lvl": 14,
+        "time": 3990,
+        "score": 121.01
     }
 ]
