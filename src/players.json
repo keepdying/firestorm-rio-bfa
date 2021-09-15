@@ -16917,6 +16917,18 @@
         "fsio": 527.53
     },
     {
+        "pid": "5409768",
+        "name": "Кадавр",
+        "pclass": null,
+        "spec": null,
+        "bruns": [
+            1631310649.0,
+            1631666296.0,
+            1631665596.0
+        ],
+        "fsio": 527.5
+    },
+    {
         "pid": "5710596",
         "name": "Lillychaos",
         "pclass": null,
@@ -22070,17 +22082,6 @@
         "fsio": 390.7
     },
     {
-        "pid": "5409768",
-        "name": "Кадавр",
-        "pclass": null,
-        "spec": null,
-        "bruns": [
-            1631310649.0,
-            1631666296.0
-        ],
-        "fsio": 390.37
-    },
-    {
         "pid": "8362707",
         "name": "Castmaster",
         "pclass": null,
@@ -24943,6 +24944,17 @@
         "fsio": 332.56
     },
     {
+        "pid": "8359487",
+        "name": "Кибератлет",
+        "pclass": null,
+        "spec": null,
+        "bruns": [
+            1631666296.0,
+            1631665596.0
+        ],
+        "fsio": 332.49
+    },
+    {
         "pid": "7342557",
         "name": "Lissaanaa",
         "pclass": null,
@@ -27170,6 +27182,17 @@
         "fsio": 270.3
     },
     {
+        "pid": "8394580",
+        "name": "Амаёри",
+        "pclass": null,
+        "spec": null,
+        "bruns": [
+            1631665991.0,
+            1631665596.0
+        ],
+        "fsio": 269.71
+    },
+    {
         "pid": "7008527",
         "name": "Trothar",
         "pclass": null,
@@ -27190,6 +27213,17 @@
             1631665923.0
         ],
         "fsio": 268.88
+    },
+    {
+        "pid": "6875165",
+        "name": "Solidarhoney",
+        "pclass": null,
+        "spec": null,
+        "bruns": [
+            1631666376.0,
+            1631665596.0
+        ],
+        "fsio": 268.75
     },
     {
         "pid": "1211891",
@@ -34542,16 +34576,6 @@
     {
         "pid": "8492845",
         "name": "Arãvin",
-        "pclass": null,
-        "spec": null,
-        "bruns": [
-            1631666296.0
-        ],
-        "fsio": 195.36
-    },
-    {
-        "pid": "8359487",
-        "name": "Кибератлет",
         "pclass": null,
         "spec": null,
         "bruns": [
@@ -47438,6 +47462,16 @@
         "fsio": 137.25
     },
     {
+        "pid": "5181363",
+        "name": "Nightförest",
+        "pclass": null,
+        "spec": null,
+        "bruns": [
+            1631665596.0
+        ],
+        "fsio": 137.13
+    },
+    {
         "pid": "8847279",
         "name": "Gundyrx",
         "pclass": null,
@@ -48929,16 +48963,6 @@
         "fsio": 132.58
     },
     {
-        "pid": "8394580",
-        "name": "Амаёри",
-        "pclass": null,
-        "spec": null,
-        "bruns": [
-            1631665991.0
-        ],
-        "fsio": 132.58
-    },
-    {
         "pid": "718024",
         "name": "Thunderfists",
         "pclass": null,
@@ -48967,16 +48991,6 @@
             1631666493.0
         ],
         "fsio": 132.13
-    },
-    {
-        "pid": "6875165",
-        "name": "Solidarhoney",
-        "pclass": null,
-        "spec": null,
-        "bruns": [
-            1631666376.0
-        ],
-        "fsio": 131.62
     },
     {
         "pid": "8052196",
@@ -54906,6 +54920,26 @@
         "spec": null,
         "bruns": [
             1631669175.0
+        ],
+        "fsio": 80.01
+    },
+    {
+        "pid": "2908481",
+        "name": "Inza",
+        "pclass": null,
+        "spec": null,
+        "bruns": [
+            1631667896.0
+        ],
+        "fsio": 80.01
+    },
+    {
+        "pid": "7343129",
+        "name": "Arhiz",
+        "pclass": null,
+        "spec": null,
+        "bruns": [
+            1631667896.0
         ],
         "fsio": 80.01
     },
