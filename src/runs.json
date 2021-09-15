@@ -57350,5 +57350,255 @@
         "lvl": 4,
         "time": 1017,
         "score": 44.7
+    },
+    {
+        "rid": 1631665969.0,
+        "pids": [
+            "5211978",
+            "8613594",
+            "5924037",
+            "7233269",
+            "7256270"
+        ],
+        "pnames": [
+            "Lightsteal",
+            "Norualy",
+            "Thariph",
+            "Draavid",
+            "Nayethirus"
+        ],
+        "dung": 246,
+        "lvl": 16,
+        "time": 1969,
+        "score": 178.59
+    },
+    {
+        "rid": 1631665680.0,
+        "pids": [
+            "7478709",
+            "7424392",
+            "496353",
+            "524592",
+            "8269049"
+        ],
+        "pnames": [
+            "Elajja",
+            "Roadbear",
+            "Justicare",
+            "Malganicus",
+            "Sacrodd"
+        ],
+        "dung": 246,
+        "lvl": 15,
+        "time": 1680,
+        "score": 164.56
+    },
+    {
+        "rid": 1631667059.0,
+        "pids": [
+            "4828450",
+            "2480321",
+            "458969",
+            "915346",
+            "6389759"
+        ],
+        "pnames": [
+            "Elphinas",
+            "Maenas",
+            "Elfaline",
+            "Sussumia",
+            "Pappychullo"
+        ],
+        "dung": 246,
+        "lvl": 14,
+        "time": 3059,
+        "score": 121.01
+    },
+    {
+        "rid": 1631666415.0,
+        "pids": [
+            "8367581",
+            "8326747",
+            "8756704",
+            "8774252",
+            "8788398"
+        ],
+        "pnames": [
+            "Taoreta",
+            "Yáoshi",
+            "Vagabundô",
+            "Sliinder",
+            "Regidama"
+        ],
+        "dung": 353,
+        "lvl": 7,
+        "time": 2415,
+        "score": 61.5
+    },
+    {
+        "rid": 1631665872.0,
+        "pids": [
+            "1076137",
+            "2707658",
+            "909870",
+            "4628051",
+            "7947705"
+        ],
+        "pnames": [
+            "Jindu",
+            "Kalimer",
+            "Windrift",
+            "Tatse",
+            "Blackkmagic"
+        ],
+        "dung": 251,
+        "lvl": 16,
+        "time": 1872,
+        "score": 177.98
+    },
+    {
+        "rid": 1631666335.0,
+        "pids": [
+            "8271190",
+            "8612981",
+            "6969171",
+            "8230017",
+            "8671191"
+        ],
+        "pnames": [
+            "Brandaowar",
+            "Ëluneh",
+            "Fonda",
+            "Devilzurca",
+            "Kardashiän"
+        ],
+        "dung": 251,
+        "lvl": 15,
+        "time": 2335,
+        "score": 144.44
+    },
+    {
+        "rid": 1631667216.0,
+        "pids": [
+            "6226047",
+            "7163564",
+            "6994907",
+            "7792266",
+            "8726722"
+        ],
+        "pnames": [
+            "Aksamgunesi",
+            "Greatergood",
+            "Flowèy",
+            "Rawhunt",
+            "Sneakyym"
+        ],
+        "dung": 251,
+        "lvl": 15,
+        "time": 3216,
+        "score": 133.01
+    },
+    {
+        "rid": 1631667673.0,
+        "pids": [
+            "3791348",
+            "1241860",
+            "5969587",
+            "6136373",
+            "8208365"
+        ],
+        "pnames": [
+            "Aabrakadabra",
+            "Gøldèn",
+            "Mesavina",
+            "Jafetxd",
+            "Kittaens"
+        ],
+        "dung": 252,
+        "lvl": 21,
+        "time": 3673,
+        "score": 236.01
+    },
+    {
+        "rid": 1631669690.0,
+        "pids": [
+            "4197402",
+            "3664902",
+            "5576246",
+            "5583037"
+        ],
+        "pnames": [
+            "Lazydead",
+            "Виззи",
+            "Lazyowl",
+            "Lazypeach"
+        ],
+        "dung": 252,
+        "lvl": 12,
+        "time": 5690,
+        "score": 100.01
+    },
+    {
+        "rid": 1631665585.0,
+        "pids": [
+            "6784789",
+            "6498318",
+            "1016317",
+            "5855873",
+            "5937514"
+        ],
+        "pnames": [
+            "Deprep",
+            "Holykiwa",
+            "Corsac",
+            "Chiicheñol",
+            "Rävëën"
+        ],
+        "dung": 369,
+        "lvl": 19,
+        "time": 1585,
+        "score": 243.01
+    },
+    {
+        "rid": 1631665783.0,
+        "pids": [
+            "8662025",
+            "8060732",
+            "1216516",
+            "6587752",
+            "8005043"
+        ],
+        "pnames": [
+            "Darkknigtth",
+            "Molomucho",
+            "Celior",
+            "Xpuctoc",
+            "Cammiejim"
+        ],
+        "dung": 370,
+        "lvl": 14,
+        "time": 1783,
+        "score": 147.07
+    },
+    {
+        "rid": 1631665273.0,
+        "pids": [
+            "2068318",
+            "8015245",
+            "4914753",
+            "7044480",
+            "8802252"
+        ],
+        "pnames": [
+            "Eppsilonn",
+            "Одисеи",
+            "Dhmix",
+            "Ïgnnis",
+            "Керивал"
+        ],
+        "dung": 370,
+        "lvl": 7,
+        "time": 1273,
+        "score": 73.37
     }
 ]
