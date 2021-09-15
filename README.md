@@ -3,7 +3,7 @@
 A raider.io like M+ scoring system for Firestorm Servers.
 https://keepdying.github.io/firestorm-rio/
 
-## FAQ
+## Frequently Asked Questions
 
 ### How does this work?
 
