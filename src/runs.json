@@ -59406,5 +59406,236 @@
         "lvl": 3,
         "time": 1581,
         "score": 31.77
+    },
+    {
+        "rid": 1631665802.0,
+        "pids": [
+            "7859539",
+            "8803258",
+            "4378417",
+            "8530096",
+            "8694547"
+        ],
+        "pnames": [
+            "Methees",
+            "Nandäa",
+            "Vyebrator",
+            "Gothurted",
+            "Nagatorö"
+        ],
+        "dung": 249,
+        "lvl": 12,
+        "time": 1802,
+        "score": 124.42
+    },
+    {
+        "rid": 1631666245.0,
+        "pids": [
+            "1226",
+            "405854",
+            "2586916",
+            "3184110",
+            "5029524"
+        ],
+        "pnames": [
+            "Redention",
+            "Yoquese",
+            "Frehilda",
+            "Kinomaru",
+            "Sildavia"
+        ],
+        "dung": 249,
+        "lvl": 10,
+        "time": 2245,
+        "score": 101.09
+    },
+    {
+        "rid": 1631665669.0,
+        "pids": [
+            "5969406",
+            "6721852",
+            "5315549",
+            "6944485",
+            "8687024"
+        ],
+        "pnames": [
+            "Notmega",
+            "Justiceqt",
+            "Rèywar",
+            "Hamtori",
+            "Spezzina"
+        ],
+        "dung": 353,
+        "lvl": 17,
+        "time": 1669,
+        "score": 199.32
+    },
+    {
+        "rid": 1631666224.0,
+        "pids": [
+            "3727742",
+            "8391268",
+            "2054541",
+            "6427526",
+            "6502901"
+        ],
+        "pnames": [
+            "Bjørnlodbrok",
+            "Эвва",
+            "Nagatö",
+            "Хорайзон",
+            "Дхунтер"
+        ],
+        "dung": 251,
+        "lvl": 17,
+        "time": 2224,
+        "score": 181.18
+    },
+    {
+        "rid": 1631665849.0,
+        "pids": [
+            "6624830",
+            "806737",
+            "6021989",
+            "6414270",
+            "8345231"
+        ],
+        "pnames": [
+            "Tienshi",
+            "Necrommance",
+            "Berserckerr",
+            "Hchily",
+            "Hipermax"
+        ],
+        "dung": 248,
+        "lvl": 13,
+        "time": 1849,
+        "score": 135.73
+    },
+    {
+        "rid": 1631666260.0,
+        "pids": [
+            "8108069",
+            "6594483",
+            "6898601",
+            "8001312",
+            "8175058"
+        ],
+        "pnames": [
+            "Heduin",
+            "Treyl",
+            "Elemlightx",
+            "Dermoos",
+            "Haryae"
+        ],
+        "dung": 248,
+        "lvl": 12,
+        "time": 2260,
+        "score": 121.41
+    },
+    {
+        "rid": 1631667264.0,
+        "pids": [
+            "8755897",
+            "8733323",
+            "1768798",
+            "8418423",
+            "8688465"
+        ],
+        "pnames": [
+            "Larcpala",
+            "Brohnx",
+            "Percevaall",
+            "Garoouu",
+            "Mgrogert"
+        ],
+        "dung": 252,
+        "lvl": 9,
+        "time": 3264,
+        "score": 70.01
+    },
+    {
+        "rid": 1631666238.0,
+        "pids": [
+            "7347990",
+            "6668115",
+            "7438396",
+            "8100888",
+            "8157500"
+        ],
+        "pnames": [
+            "Славаа",
+            "Tisse",
+            "Metò",
+            "Ласлас",
+            "Illidemen"
+        ],
+        "dung": 250,
+        "lvl": 19,
+        "time": 2238,
+        "score": 230.67
+    },
+    {
+        "rid": 1631667469.0,
+        "pids": [
+            "64343",
+            "7478709",
+            "85474",
+            "4646982",
+            "5035527"
+        ],
+        "pnames": [
+            "Lishap",
+            "Elajja",
+            "Hollyknight",
+            "Arkaneborne",
+            "Crazykurta"
+        ],
+        "dung": 369,
+        "lvl": 17,
+        "time": 3469,
+        "score": 161.01
+    },
+    {
+        "rid": 1631669926.0,
+        "pids": [
+            "8571742",
+            "8649846",
+            "4733519",
+            "8483131",
+            "8739311"
+        ],
+        "pnames": [
+            "Tempty",
+            "Baxué",
+            "Dairoz",
+            "Deltoide",
+            "Yamasakir"
+        ],
+        "dung": 369,
+        "lvl": 17,
+        "time": 5926,
+        "score": 161.01
+    },
+    {
+        "rid": 1631665941.0,
+        "pids": [
+            "8786860",
+            "137951",
+            "62188",
+            "1322732",
+            "2114405"
+        ],
+        "pnames": [
+            "Nazghulian",
+            "Swiftmend",
+            "Jedswife",
+            "Trivelia",
+            "Venaldin"
+        ],
+        "dung": 370,
+        "lvl": 7,
+        "time": 1941,
+        "score": 69.3
     }
 ]
