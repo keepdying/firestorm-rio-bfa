@@ -27,10 +27,11 @@ const PlayerRunsAcc = ({ playerRun }) => {
       <div style={{ backgroundImage: `url(${getDungeonImage(idToDungeon(playerRun["dung"]))})`}} className={styles.accordionAltItem}>
         <div className={styles.darkBackground} />
         <div className={styles.accordionAltTitle}>
-          {/* Score: {playerRun["score"]} */}
+          {/* Score:  */}
            <span>{idToDungeon(playerRun["dung"])}</span>
            <span>{playerRun["lvl"]}</span>
            <span>{secondsToHMS(playerRun["time"])}</span>
+           <span>{playerRun["score"]}pts.</span>
           {/* <div>{isActive ? '-' : '+'}</div> */}
         </div>
         <div className={styles.accordionAltContent}> {playerRun["pnames"][0]}, {playerRun["pnames"][1]}, {playerRun["pnames"][2]}, {playerRun["pnames"][3]}, {playerRun["pnames"][4]}</div>
