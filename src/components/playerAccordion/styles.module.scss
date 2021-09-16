@@ -33,10 +33,14 @@
 .accordionContent {
     background: #ffffff;
     margin: auto;
-    margin-top: 250px;
     display: flex !important;
     flex-wrap: wrap;
     padding: 0px !important;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    max-height: 95vh;
+    overflow-y: scroll;
 }
   
 
