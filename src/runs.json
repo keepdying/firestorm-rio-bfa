@@ -63262,5 +63262,171 @@
         "lvl": 9,
         "time": 2263,
         "score": 78.57
+    },
+    {
+        "rid": 1631752627.0,
+        "pids": [
+            "6629320",
+            "6585705",
+            "7070324",
+            "7157121",
+            "7716000"
+        ],
+        "pnames": [
+            "Zombeef",
+            "Slapdirt",
+            "Choken",
+            "Jeyem",
+            "Potaenamo"
+        ],
+        "dung": 247,
+        "lvl": 16,
+        "time": 2227,
+        "score": 177.87
+    },
+    {
+        "rid": 1631754276.0,
+        "pids": [
+            "8541700",
+            "8608102",
+            "8567450",
+            "8575171",
+            "8612500"
+        ],
+        "pnames": [
+            "Rfaa",
+            "Legendscol",
+            "Foxaz",
+            "Zulod",
+            "Diossoberbio"
+        ],
+        "dung": 245,
+        "lvl": 18,
+        "time": 3876,
+        "score": 177.01
+    },
+    {
+        "rid": 1631752148.0,
+        "pids": [
+            "7276704",
+            "6080704",
+            "7013628",
+            "7455778"
+        ],
+        "pnames": [
+            "Ðâv",
+            "Nocheñol",
+            "Raikuga",
+            "Saltyballz"
+        ],
+        "dung": 246,
+        "lvl": 16,
+        "time": 1748,
+        "score": 180.43
+    },
+    {
+        "rid": 1631753190.0,
+        "pids": [
+            "8815629",
+            "3411291",
+            "8297330",
+            "8311520",
+            "8376760"
+        ],
+        "pnames": [
+            "Tédio",
+            "Ðarkstronger",
+            "Ilpriestll",
+            "Queirooz",
+            "Lohalzera"
+        ],
+        "dung": 353,
+        "lvl": 19,
+        "time": 2790,
+        "score": 195.01
+    },
+    {
+        "rid": 1631752906.0,
+        "pids": [
+            "7966958",
+            "7974903",
+            "3095050",
+            "3892399",
+            "8141478"
+        ],
+        "pnames": [
+            "Makukog",
+            "Porthòs",
+            "Bilitø",
+            "Cusco",
+            "Båbåyågå"
+        ],
+        "dung": 353,
+        "lvl": 17,
+        "time": 2506,
+        "score": 175.4
+    },
+    {
+        "rid": 1631752351.0,
+        "pids": [
+            "8565377",
+            "8537886",
+            "2097169",
+            "2688338",
+            "7450299"
+        ],
+        "pnames": [
+            "Nosoyakhaus",
+            "Ridomgr",
+            "Garouch",
+            "Ragnäär",
+            "Dmyrrha"
+        ],
+        "dung": 369,
+        "lvl": 16,
+        "time": 1951,
+        "score": 179.6
+    },
+    {
+        "rid": 1631752283.0,
+        "pids": [
+            "8414844",
+            "6237957",
+            "6556424",
+            "8457731",
+            "8821323"
+        ],
+        "pnames": [
+            "Jeremykallss",
+            "Nivëa",
+            "Niikolasmage",
+            "Sagbott",
+            "Quasemortoo"
+        ],
+        "dung": 370,
+        "lvl": 14,
+        "time": 1883,
+        "score": 146.29
+    },
+    {
+        "rid": 1631752128.0,
+        "pids": [
+            "8674266",
+            "8799662",
+            "4677781",
+            "7497632",
+            "8076953"
+        ],
+        "pnames": [
+            "Punkysup",
+            "Jjassonn",
+            "Buencaza",
+            "Minalie",
+            "Kheldarel"
+        ],
+        "dung": 370,
+        "lvl": 8,
+        "time": 1728,
+        "score": 81.0
     }
 ]
