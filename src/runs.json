@@ -63722,5 +63722,213 @@
         "lvl": 20,
         "time": 1979,
         "score": 261.18
+    },
+    {
+        "rid": 1631751770.0,
+        "pids": [
+            "7276704",
+            "2718035",
+            "6080704",
+            "7500728",
+            "8192453"
+        ],
+        "pnames": [
+            "Ðâv",
+            "Dhelt",
+            "Nocheñol",
+            "Draqúito",
+            "Clhøë"
+        ],
+        "dung": 245,
+        "lvl": 16,
+        "time": 1370,
+        "score": 182.55
+    },
+    {
+        "rid": 1631752681.0,
+        "pids": [
+            "8099948",
+            "8251376",
+            "2583698",
+            "7624390",
+            "8141481"
+        ],
+        "pnames": [
+            "Lamambanegrà",
+            "Champera",
+            "Rukachan",
+            "Skalovisk",
+            "Scårlêtt"
+        ],
+        "dung": 249,
+        "lvl": 15,
+        "time": 2281,
+        "score": 162.52
+    },
+    {
+        "rid": 1631753904.0,
+        "pids": [
+            "8442610",
+            "3467097",
+            "1171667",
+            "8752273"
+        ],
+        "pnames": [
+            "Yueila",
+            "Tutancamoon",
+            "Yelenæ",
+            "Kïerza"
+        ],
+        "dung": 249,
+        "lvl": 9,
+        "time": 3504,
+        "score": 70.01
+    },
+    {
+        "rid": 1631752525.0,
+        "pids": [
+            "7920654",
+            "6735104",
+            "1291910",
+            "7839507",
+            "8694497"
+        ],
+        "pnames": [
+            "Dkiory",
+            "Mamurry",
+            "Wargrigg",
+            "Anubunrama",
+            "Chünchü"
+        ],
+        "dung": 244,
+        "lvl": 17,
+        "time": 2125,
+        "score": 176.59
+    },
+    {
+        "rid": 1631752199.0,
+        "pids": [
+            "8055514",
+            "65461",
+            "3727742",
+            "4677472",
+            "7301911"
+        ],
+        "pnames": [
+            "Qiong",
+            "Grosox",
+            "Bjørnlodbrok",
+            "Belesud",
+            "Rüsth"
+        ],
+        "dung": 251,
+        "lvl": 19,
+        "time": 1799,
+        "score": 238.1
+    },
+    {
+        "rid": 1631752816.0,
+        "pids": [
+            "8694134",
+            "2941580",
+            "71753",
+            "6678628",
+            "7865098"
+        ],
+        "pnames": [
+            "Komúgi",
+            "Tambör",
+            "Jothaka",
+            "Ethérias",
+            "Siovhan"
+        ],
+        "dung": 252,
+        "lvl": 14,
+        "time": 2416,
+        "score": 146.62
+    },
+    {
+        "rid": 1631753348.0,
+        "pids": [
+            "5760797",
+            "2299233",
+            "3097996",
+            "3209900",
+            "7192877"
+        ],
+        "pnames": [
+            "Jarfa",
+            "Cyprez",
+            "Belaidy",
+            "Katlash",
+            "Golimk"
+        ],
+        "dung": 250,
+        "lvl": 14,
+        "time": 2948,
+        "score": 121.01
+    },
+    {
+        "rid": 1631753357.0,
+        "pids": [
+            "3433498",
+            "5343693",
+            "6990694",
+            "7357016",
+            "8268163"
+        ],
+        "pnames": [
+            "Holyzerg",
+            "Maycro",
+            "Dhianabfa",
+            "Geroqba",
+            "Reitk"
+        ],
+        "dung": 369,
+        "lvl": 17,
+        "time": 2957,
+        "score": 161.01
+    },
+    {
+        "rid": 1631752226.0,
+        "pids": [
+            "7329189",
+            "6151861",
+            "7336335",
+            "8263370",
+            "8729107"
+        ],
+        "pnames": [
+            "Loreenxax",
+            "Rebino",
+            "Whitewarr",
+            "Roxaroxa",
+            "Ihanck"
+        ],
+        "dung": 370,
+        "lvl": 15,
+        "time": 1826,
+        "score": 161.78
+    },
+    {
+        "rid": 1631751838.0,
+        "pids": [
+            "821958",
+            "1982606",
+            "3074514",
+            "8090344",
+            "8641516"
+        ],
+        "pnames": [
+            "Stonner",
+            "Dudukmii",
+            "Devellbôy",
+            "Elvnorteño",
+            "Ghostflakes"
+        ],
+        "dung": 370,
+        "lvl": 9,
+        "time": 1438,
+        "score": 92.51
     }
 ]
