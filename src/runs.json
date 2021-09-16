@@ -64226,5 +64226,257 @@
         "lvl": 14,
         "time": 3103,
         "score": 121.01
+    },
+    {
+        "rid": 1631755004.0,
+        "pids": [
+            "8414844",
+            "7228756",
+            "6590666",
+            "7484239",
+            "8821323"
+        ],
+        "pnames": [
+            "Jeremykallss",
+            "Рэттлборо",
+            "Michaëla",
+            "Zedomatø",
+            "Quasemortoo"
+        ],
+        "dung": 247,
+        "lvl": 15,
+        "time": 4604,
+        "score": 133.01
+    },
+    {
+        "rid": 1631752780.0,
+        "pids": [
+            "3712037",
+            "2045707",
+            "444696",
+            "1649012",
+            "6645353"
+        ],
+        "pnames": [
+            "Cublee",
+            "Arktaurus",
+            "Palidho",
+            "Mirøkú",
+            "Falconseyes"
+        ],
+        "dung": 245,
+        "lvl": 20,
+        "time": 2380,
+        "score": 229.01
+    },
+    {
+        "rid": 1631752729.0,
+        "pids": [
+            "5211735",
+            "4551121",
+            "6723566",
+            "7553457",
+            "7628029"
+        ],
+        "pnames": [
+            "Azhathot",
+            "Pvtaasa",
+            "Darkmazter",
+            "Pentecos",
+            "Kyóò"
+        ],
+        "dung": 245,
+        "lvl": 17,
+        "time": 2329,
+        "score": 175.23
+    },
+    {
+        "rid": 1631753968.0,
+        "pids": [
+            "7241863",
+            "7239021",
+            "8687824",
+            "8697297",
+            "8766704"
+        ],
+        "pnames": [
+            "Ichitori",
+            "Mitzuuha",
+            "Baaxtrick",
+            "Femaleholy",
+            "Bleydwind"
+        ],
+        "dung": 249,
+        "lvl": 10,
+        "time": 3568,
+        "score": 80.01
+    },
+    {
+        "rid": 1631754495.0,
+        "pids": [
+            "8243793",
+            "7665205",
+            "881663",
+            "5927554",
+            "6311844"
+        ],
+        "pnames": [
+            "Mãple",
+            "Kytiasamurai",
+            "Nekoshöu",
+            "Benafflïc",
+            "Zunhha"
+        ],
+        "dung": 246,
+        "lvl": 16,
+        "time": 4095,
+        "score": 146.01
+    },
+    {
+        "rid": 1631753688.0,
+        "pids": [
+            "5191925",
+            "6599219",
+            "98136",
+            "5619828",
+            "7478714"
+        ],
+        "pnames": [
+            "Béréngier",
+            "Herbalifë",
+            "Redhaawk",
+            "Cómpañere",
+            "Castervill"
+        ],
+        "dung": 353,
+        "lvl": 21,
+        "time": 3288,
+        "score": 236.01
+    },
+    {
+        "rid": 1631756296.0,
+        "pids": [
+            "4371662",
+            "196203",
+            "902935",
+            "2705922",
+            "3399799"
+        ],
+        "pnames": [
+            "Chelitaja",
+            "Fosforitayan",
+            "Gaiamis",
+            "Dwarsniper",
+            "Histheria"
+        ],
+        "dung": 251,
+        "lvl": 19,
+        "time": 5896,
+        "score": 195.01
+    },
+    {
+        "rid": 1631753132.0,
+        "pids": [
+            "6624830",
+            "5622802",
+            "411793",
+            "7787396",
+            "8345231"
+        ],
+        "pnames": [
+            "Tienshi",
+            "Pachacùtec",
+            "Fromehel",
+            "Chikitocm",
+            "Hipermax"
+        ],
+        "dung": 248,
+        "lvl": 20,
+        "time": 2732,
+        "score": 229.61
+    },
+    {
+        "rid": 1631753580.0,
+        "pids": [
+            "5168566",
+            "4861430",
+            "1112678",
+            "5020983",
+            "7651567"
+        ],
+        "pnames": [
+            "Towsinow",
+            "Holyxá",
+            "Xerióus",
+            "Fragancie",
+            "Campw"
+        ],
+        "dung": 252,
+        "lvl": 25,
+        "time": 3180,
+        "score": 345.01
+    },
+    {
+        "rid": 1631754544.0,
+        "pids": [
+            "8109505",
+            "5538912",
+            "1051657",
+            "5014770",
+            "7767088"
+        ],
+        "pnames": [
+            "Немявкай",
+            "Hornyinmate",
+            "Bloodboy",
+            "Unholyangel",
+            "Керго"
+        ],
+        "dung": 369,
+        "lvl": 18,
+        "time": 4144,
+        "score": 177.01
+    },
+    {
+        "rid": 1631752851.0,
+        "pids": [
+            "8617203",
+            "882499",
+            "721543",
+            "4949146",
+            "5180438"
+        ],
+        "pnames": [
+            "Энжи",
+            "Kezi",
+            "Littleclown",
+            "Hentâiboy",
+            "Imbalomaniac"
+        ],
+        "dung": 370,
+        "lvl": 16,
+        "time": 2451,
+        "score": 149.57
+    },
+    {
+        "rid": 1631752167.0,
+        "pids": [
+            "6719095",
+            "7554879",
+            "6505342",
+            "7113434",
+            "8682886"
+        ],
+        "pnames": [
+            "Destinofin",
+            "Nortrox",
+            "Mordragux",
+            "Laìzy",
+            "Rastafaraí"
+        ],
+        "dung": 370,
+        "lvl": 11,
+        "time": 1767,
+        "score": 110.88
     }
 ]
