@@ -64478,5 +64478,110 @@
         "lvl": 11,
         "time": 1767,
         "score": 110.88
+    },
+    {
+        "rid": 1631752153.0,
+        "pids": [
+            "3173909",
+            "6065258",
+            "8011561",
+            "8624371",
+            "8767177"
+        ],
+        "pnames": [
+            "Ashteria",
+            "Sleepyowl",
+            "Itzvelocity",
+            "Endangbedil",
+            "Phintanie"
+        ],
+        "dung": 246,
+        "lvl": 14,
+        "time": 1753,
+        "score": 148.83
+    },
+    {
+        "rid": 1631753047.0,
+        "pids": [
+            "8693002",
+            "2873853",
+            "4640358",
+            "6259459",
+            "6259505"
+        ],
+        "pnames": [
+            "Deboz",
+            "Sylelektra",
+            "Mariuxi",
+            "Hatoriichise",
+            "Nàrya"
+        ],
+        "dung": 353,
+        "lvl": 17,
+        "time": 2647,
+        "score": 167.41
+    },
+    {
+        "rid": 1631756422.0,
+        "pids": [
+            "7940783",
+            "2542347",
+            "7606996",
+            "7940781",
+            "8020837"
+        ],
+        "pnames": [
+            "Cowito",
+            "Morphilian",
+            "Aesun",
+            "Cowita",
+            "Leviathanowo"
+        ],
+        "dung": 251,
+        "lvl": 16,
+        "time": 6022,
+        "score": 146.01
+    },
+    {
+        "rid": 1631751848.0,
+        "pids": [
+            "5918606",
+            "4843812",
+            "278699",
+            "4102877",
+            "8383169"
+        ],
+        "pnames": [
+            "Õne",
+            "Dréâm",
+            "Kamûi",
+            "Archecho",
+            "Monsvek"
+        ],
+        "dung": 251,
+        "lvl": 15,
+        "time": 1448,
+        "score": 165.3
+    },
+    {
+        "rid": 1631752156.0,
+        "pids": [
+            "1617749",
+            "8377354",
+            "8402823",
+            "8468327",
+            "8689446"
+        ],
+        "pnames": [
+            "Kheyli",
+            "Spookypandaa",
+            "Lohaeris",
+            "Xanixen",
+            "Kskipman"
+        ],
+        "dung": 248,
+        "lvl": 15,
+        "time": 1756,
+        "score": 164.99
     }
 ]
