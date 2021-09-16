@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import dungeons from './dungeons.json';
 
 
@@ -28,35 +27,5 @@ function secondsToHMS(seconds){
   return new Date(seconds * 1000).toISOString().substr(11, 8);
 }
 
-const PlayerAccordion = ({ player, currentRuns }) => {
-  const [isActive, setIsActive] = useState(false);
-  //let playerRuns = returnPlayerRuns(player.bruns, currentRuns);
-  return (
-    <div className="accordion-item">
-      <div className="accordion-title" onClick={() => setIsActive(!isActive)}>
-        <div>{player.name}, Score: {player.fsio}</div>
-        {/* <div>{isActive ? '-' : '+'}</div> */}
-      </div>
-      {isActive && <div className="accordion-content"> {returnPlayerRuns(player.bruns, currentRuns).map((playerRun, index) => {
-        return (<PlayerRunsAcc playerRun={playerRun}/>)}
-    )} </div>}
-    </div>
-  );
-};
 
-
-const PlayerRunsAcc = ({ playerRun }) => {
-  const [isActive, setIsActive] = useState(false);
-
-  return (
-    <div className="accordion-alt-item">
-      <div className="accordion-alt-title" onClick={() => setIsActive(!isActive)}>
-        <div>Dungeon: {idToDungeon(playerRun["dung"])}, Lvl: {playerRun["lvl"]}, Time: {secondsToHMS(playerRun["time"])}, Score: {playerRun["score"]}</div>
-        {/* <div>{isActive ? '-' : '+'}</div> */}
-      </div>
-      {isActive && <div className="accordion-alt-content"> {playerRun["pnames"][0]}, {playerRun["pnames"][1]}, {playerRun["pnames"][2]}, {playerRun["pnames"][3]}, {playerRun["pnames"][4]}</div>}
-    </div>
-  );
-};
-
-export {PlayerAccordion};
+export { idToDungeon, returnPlayerRuns, secondsToHMS };

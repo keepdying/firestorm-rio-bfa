@@ -1,60 +1,21 @@
 .App {
-  text-align: center;
-  display: flex;
+  background-image: url("https://images4.alphacoders.com/106/thumb-1920-1061610.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+header {
+  height: 300px;
+  color: #ffffff;
+  background: rgba(0, 0, 0, 0.7);
+}
+.headerContent{
+  height: 100%;
+  display: flex !important;
   justify-content: center;
-  align-items: center;
+  text-align: center;
   flex-direction: column;
-}
-
-.app-header {
-  padding-top: 10px;
   font-weight: bold;
-  font-size: large;
-}
-.App input {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  width: 150px;
-  height: 20px;
-  padding-left: 6px;
-}
-
-p {
-  margin-bottom: 0px;
-}
-
-.accordion-item {
-  margin-bottom: 9px;
-  align-items: center;
-}
-
-.accordion-title {
-  font-size: medium;
-  align-items: flex-start;
-
-}
-
-.accordion-content {
-  align-items: flex-start;
-  display: inline-flex;
-}
-
-.accordion-alt-item {
-  margin-right: 3px;
-  margin-left: 3px;
-  align-items: flex-start;
-
-}
-
-.accordion-alt-title {
-  font-size: small;
-  align-items: flex-start;
-
-}
-
-.accordion-alt-content {
-  align-items: flex-start;
-  font-size: small;
 }
 
 

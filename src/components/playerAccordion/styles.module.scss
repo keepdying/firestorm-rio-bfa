@@ -1,0 +1,42 @@
+.accordionItem {
+    align-items: center;
+    color: #ffffff;
+    cursor: pointer;
+    &:nth-child(even){
+        background-color: lightgray;
+    }
+    &:nth-child(odd){
+        background-color: darkgray;
+    }
+    &.player1{
+        background: linear-gradient(#DFBD69, #926F34);
+    }
+    &.player2{
+        background: linear-gradient(#bbc2cc  , #979c9f );
+    }
+    &.player3{
+        background: linear-gradient(#a97142  , #cd7f32 );
+    }
+    .accordionTitle {
+        font-size: medium;
+        align-items: flex-start;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 15px;
+        div {
+            flex: 1 33%;
+            font-weight: bold;
+            text-align: center;
+        }
+    }
+}
+.accordionContent {
+    background: #ffffff;
+    margin: auto;
+    margin-top: 250px;
+    display: flex !important;
+    flex-wrap: wrap;
+    padding: 0px !important;
+}
+  
+
