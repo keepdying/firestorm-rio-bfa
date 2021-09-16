@@ -41,7 +41,19 @@ Keep in mind current data is gathered over past weeks in development by running 
 
 ### When data is going to be parsed again?
 
-It is set to update in every 15 mins. But Github Actions can be delayed because of high load. You can check GitHub Actions for latest updates.
+It is set to update in every 30 mins. But Github Actions can be delayed because of high load. You can check GitHub Actions for latest updates.
+
+### I want to see raw data?
+
+Check players.json & runs.json in src folder.
+
+### UI doesn't look good?
+
+As you see I'm not much a front-end developer and having hard time with CSS. 
+
+### I want to contribute?
+
+You can check/change page's source in repo and make pull requests to contribute! 
 
 ### How can I contact you?
 
