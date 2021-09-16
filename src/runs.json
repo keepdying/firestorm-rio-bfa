@@ -63575,5 +63575,152 @@
         "lvl": 16,
         "time": 2222,
         "score": 177.91
+    },
+    {
+        "rid": 1631752025.0,
+        "pids": [
+            "6866029",
+            "6968674",
+            "2339459",
+            "6726909",
+            "8486347"
+        ],
+        "pnames": [
+            "Fônda",
+            "Çtrol",
+            "Wekill",
+            "Assasinevill",
+            "Gimixlol"
+        ],
+        "dung": 247,
+        "lvl": 14,
+        "time": 1625,
+        "score": 150.58
+    },
+    {
+        "rid": 1631753340.0,
+        "pids": [
+            "5176055",
+            "4666248",
+            "985180",
+            "2710699",
+            "7558507"
+        ],
+        "pnames": [
+            "Seiyarturo",
+            "Scyan",
+            "Yillo",
+            "Devilcaza",
+            "Nanisxd"
+        ],
+        "dung": 249,
+        "lvl": 14,
+        "time": 2940,
+        "score": 128.51
+    },
+    {
+        "rid": 1631752245.0,
+        "pids": [
+            "8401256",
+            "7029613",
+            "5599964",
+            "8662576",
+            "8712183"
+        ],
+        "pnames": [
+            "Franiyam",
+            "Örgullö",
+            "Aggressionn",
+            "Cuéball",
+            "Stómpér"
+        ],
+        "dung": 249,
+        "lvl": 13,
+        "time": 1845,
+        "score": 136.48
+    },
+    {
+        "rid": 1631751911.0,
+        "pids": [
+            "6090777",
+            "6290082",
+            "2030358",
+            "5156029",
+            "6094613"
+        ],
+        "pnames": [
+            "Bløõd",
+            "Därknës",
+            "Tkitki",
+            "Baltazarxd",
+            "Conexita"
+        ],
+        "dung": 244,
+        "lvl": 18,
+        "time": 1511,
+        "score": 217.53
+    },
+    {
+        "rid": 1631752206.0,
+        "pids": [
+            "6107759",
+            "1222985",
+            "4368117",
+            "6800796",
+            "6924122"
+        ],
+        "pnames": [
+            "Heaviside",
+            "Northfurion",
+            "Manhý",
+            "Archickal",
+            "Brokendreams"
+        ],
+        "dung": 246,
+        "lvl": 20,
+        "time": 1806,
+        "score": 263.26
+    },
+    {
+        "rid": 1631754940.0,
+        "pids": [
+            "8265502",
+            "7680985",
+            "180348",
+            "2219314",
+            "4589387"
+        ],
+        "pnames": [
+            "Tohrynn",
+            "Ginecóloga",
+            "Kavos",
+            "Soucazador",
+            "Duv"
+        ],
+        "dung": 246,
+        "lvl": 16,
+        "time": 4540,
+        "score": 146.01
+    },
+    {
+        "rid": 1631752379.0,
+        "pids": [
+            "7678345",
+            "7581631",
+            "1427609",
+            "7414832",
+            "8004997"
+        ],
+        "pnames": [
+            "Egmios",
+            "Honaxia",
+            "Kïsåru",
+            "Chiims",
+            "Infinitycono"
+        ],
+        "dung": 250,
+        "lvl": 20,
+        "time": 1979,
+        "score": 261.18
     }
 ]
