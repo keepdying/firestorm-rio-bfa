@@ -65753,5 +65753,213 @@
         "lvl": 16,
         "time": 1959,
         "score": 178.68
+    },
+    {
+        "rid": 1631751956.0,
+        "pids": [
+            "6726225",
+            "2080168",
+            "6238642",
+            "7425528",
+            "7721218"
+        ],
+        "pnames": [
+            "Astinose",
+            "Mistydrain",
+            "Nepabm",
+            "Mavpala",
+            "Ashanhigh"
+        ],
+        "dung": 245,
+        "lvl": 19,
+        "time": 1556,
+        "score": 240.93
+    },
+    {
+        "rid": 1631753130.0,
+        "pids": [
+            "8256831",
+            "7972662",
+            "3719406",
+            "8276774",
+            "8277135"
+        ],
+        "pnames": [
+            "Farâhm",
+            "Saxørna",
+            "Floépy",
+            "Avirk",
+            "Lycanthropee"
+        ],
+        "dung": 249,
+        "lvl": 17,
+        "time": 2730,
+        "score": 183.1
+    },
+    {
+        "rid": 1631752783.0,
+        "pids": [
+            "7780981",
+            "7560006",
+            "7736537",
+            "7961023",
+            "8299884"
+        ],
+        "pnames": [
+            "Soulkiiper",
+            "Xxon",
+            "Missverisa",
+            "Killcommands",
+            "Specterkingg"
+        ],
+        "dung": 246,
+        "lvl": 16,
+        "time": 2383,
+        "score": 165.48
+    },
+    {
+        "rid": 1631752328.0,
+        "pids": [
+            "2995615",
+            "5186037",
+            "1826047",
+            "6321666",
+            "6514145"
+        ],
+        "pnames": [
+            "Hardskin",
+            "Gtänghëlic",
+            "Mikáboshi",
+            "Morphgodx",
+            "Spezz"
+        ],
+        "dung": 248,
+        "lvl": 19,
+        "time": 1928,
+        "score": 240.05
+    },
+    {
+        "rid": 1631752531.0,
+        "pids": [
+            "4228505",
+            "5577181",
+            "4344275",
+            "6599028",
+            "7389025"
+        ],
+        "pnames": [
+            "Vibrium",
+            "Vegetachris",
+            "Elwombatt",
+            "Vekgrodum",
+            "Warhammerz"
+        ],
+        "dung": 252,
+        "lvl": 13,
+        "time": 2131,
+        "score": 135.01
+    },
+    {
+        "rid": 1631753708.0,
+        "pids": [
+            "5620456",
+            "5159241",
+            "734023",
+            "7174160"
+        ],
+        "pnames": [
+            "Darkneedle",
+            "Хромыч",
+            "Offset",
+            "Империо"
+        ],
+        "dung": 252,
+        "lvl": 13,
+        "time": 3308,
+        "score": 110.01
+    },
+    {
+        "rid": 1631752192.0,
+        "pids": [
+            "4667339",
+            "6617823",
+            "6515603",
+            "7976277",
+            "8022841"
+        ],
+        "pnames": [
+            "Runewound",
+            "Monyo",
+            "Latorree",
+            "Lytaa",
+            "Krimum"
+        ],
+        "dung": 250,
+        "lvl": 16,
+        "time": 1792,
+        "score": 180.07
+    },
+    {
+        "rid": 1631752193.0,
+        "pids": [
+            "7859539",
+            "5739501",
+            "4283901",
+            "7685423",
+            "8263422"
+        ],
+        "pnames": [
+            "Methees",
+            "Kecksmonster",
+            "Anokaha",
+            "Ivanborsik",
+            "Æfú"
+        ],
+        "dung": 250,
+        "lvl": 15,
+        "time": 1793,
+        "score": 163.72
+    },
+    {
+        "rid": 1631752569.0,
+        "pids": [
+            "8813995",
+            "8838677",
+            "6766059",
+            "7772881",
+            "8813034"
+        ],
+        "pnames": [
+            "Démongirl",
+            "Greatpala",
+            "Sevirax",
+            "Lové",
+            "Psycloops"
+        ],
+        "dung": 370,
+        "lvl": 13,
+        "time": 2169,
+        "score": 123.46
+    },
+    {
+        "rid": 1631751795.0,
+        "pids": [
+            "6454249",
+            "7816164",
+            "4443143",
+            "8015245",
+            "8758490"
+        ],
+        "pnames": [
+            "Hîtømî",
+            "Yulkha",
+            "Rámaladni",
+            "Одисеи",
+            "Pikasa"
+        ],
+        "dung": 370,
+        "lvl": 12,
+        "time": 1395,
+        "score": 124.28
     }
 ]
