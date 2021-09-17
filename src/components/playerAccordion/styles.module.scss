@@ -3,10 +3,10 @@
     color: #ffffff;
     cursor: pointer;
     &:nth-child(even){
-        background-color: lightgray;
+        background-color: #191919;
     }
     &:nth-child(odd){
-        background-color: darkgray;
+        background-color: #333333;
     }
     &.player1{
         background: linear-gradient(#DFBD69, #926F34);

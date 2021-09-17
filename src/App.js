@@ -11,15 +11,18 @@ function App() {
 
   return (
     <div className="App">
+      <div className={"fixedBackground"} />
+      <div className="bodyApp">
         <header>
-          <Container className="headerContent" maxWidth="lg" component="div">
-            <h1>Firestorm RIO (Beta!)</h1>
-            <p>Made by keepdying#5821, web design by Rynxe#4789. Last updated on {lastupdated}</p>
-            <p>Total Players: {players_json.length}, Total Runs: {currentRuns.length}</p>
-            <p> F.A.Q: <a href="https://github.com/keepdying/firestorm-rio">https://github.com/keepdying/firestorm-rio</a></p>
-          </Container>
-        </header>
-      <PlayerListScreen />
+            <Container className="headerContent" maxWidth="lg" component="div">
+              <h1>Firestorm RIO (Beta!)</h1>
+              <p>Made by keepdying#5821, web design by Rynxe#4789. Last updated on {lastupdated}</p>
+              <p>Total Players: {players_json.length}, Total Runs: {currentRuns.length}</p>
+              <p> F.A.Q: <a href="https://github.com/keepdying/firestorm-rio">https://github.com/keepdying/firestorm-rio</a></p>
+            </Container>
+          </header>
+        <PlayerListScreen />
+      </div>
     </div>
   );}
 
