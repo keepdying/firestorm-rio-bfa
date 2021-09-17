@@ -17,7 +17,7 @@ Exact scoring formula is given below:
     dungTimers = [+1 Timer, +2 Timer, +3 Timer]
     keylvltoscore = [...] # taken from raider.io addon
     
-    max_time = dungTimers[0] + 600  # assume max deplete time 10 min
+    max_time = dungTimers[0] + 5  # assume max deplete time 5 secs
     deplete_score = keylvltoscore[dungLevel - 2] + 0.01 # If depleted score goes down to -2
     timed_score = keylvltoscore[dungLevel]
     up_score = keylvltoscore[dungLevel + 1] # when timed +2 or +3, score goes up to +1 
