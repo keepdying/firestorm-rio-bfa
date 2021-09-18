@@ -4093,6 +4093,35 @@
         ]
     },
     {
+        "rid": "2441816319246807963416",
+        "pids": [
+            "7963416",
+            "7816164",
+            "4443143",
+            "8189977",
+            "8394062"
+        ],
+        "pnames": [
+            "Ппаладинушка",
+            "Yulkha",
+            "Rámaladni",
+            "Pidozra",
+            "Темнаялиана"
+        ],
+        "dung": 244,
+        "lvl": 18,
+        "time": 1480,
+        "score": 217.91,
+        "timestamp": 1631999155,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "warrior",
+            "rogue",
+            "deathknight"
+        ]
+    },
+    {
         "rid": "2441816319247896154129",
         "pids": [
             "6154129",
@@ -19654,6 +19683,35 @@
         ]
     },
     {
+        "rid": "2461816319252772976252",
+        "pids": [
+            "2976252",
+            "4341995",
+            "1303743",
+            "3150950",
+            "6034307"
+        ],
+        "pnames": [
+            "Buonasera",
+            "Khitty",
+            "Dëvastaciøn",
+            "Vanéxa",
+            "Vynzen"
+        ],
+        "dung": 246,
+        "lvl": 18,
+        "time": 2077,
+        "score": 214.85,
+        "timestamp": 1631999420,
+        "pclasses": [
+            "demonhunter",
+            "priest",
+            "warrior",
+            "deathknight",
+            "warlock"
+        ]
+    },
+    {
         "rid": "2461816319254757841545",
         "pids": [
             "7841545",
@@ -29910,6 +29968,35 @@
         ]
     },
     {
+        "rid": "2472116319255532692894",
+        "pids": [
+            "2692894",
+            "7335767",
+            "2084306",
+            "4318502",
+            "8528048"
+        ],
+        "pnames": [
+            "Pákkito",
+            "Cortíto",
+            "Hojasombría",
+            "Wilux",
+            "Ghostfumes"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 2353,
+        "score": 236.01,
+        "timestamp": 1631998966,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "demonhunter",
+            "priest",
+            "deathknight"
+        ]
+    },
+    {
         "rid": "2472216300139044670002",
         "pids": [
             "4670002",
@@ -35067,6 +35154,35 @@
             "hunter",
             "warrior",
             "demonhunter"
+        ]
+    },
+    {
+        "rid": "2481916319248924392931",
+        "pids": [
+            "4392931",
+            "8142058",
+            "69756",
+            "6235748",
+            "6421745"
+        ],
+        "pnames": [
+            "Cávanagh",
+            "Larué",
+            "Zhéus",
+            "Cazzowarr",
+            "Olórum"
+        ],
+        "dung": 248,
+        "lvl": 19,
+        "time": 1692,
+        "score": 242.37,
+        "timestamp": 1631999296,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "deathknight",
+            "warrior",
+            "mage"
         ]
     },
     {
