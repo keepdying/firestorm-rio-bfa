@@ -14,7 +14,7 @@ const PlayerAccordion = ({ player, currentRuns, index }) => {
       <div key={`player_${index}`} className={`${styles.accordionItem} ${styles[`player${player.position}`]}`}>
         <div className={styles.accordionTitle} onClick={() => setIsActive(!isActive)}>
           <div>{player.position}</div>
-          <div>{player.name}</div>
+          <div className={`${styles[`color_${player.pclass}`]}`}>{player.name}</div>
           <div>{player.fsio}</div>
           {/* <div>{isActive ? '-' : '+'}</div> */}
         </div>

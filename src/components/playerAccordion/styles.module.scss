@@ -1,3 +1,5 @@
+$text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;
+
 .accordionItem {
     align-items: center;
     color: #ffffff;
@@ -44,3 +46,62 @@
 }
   
 
+.color_warrior {
+    color:#c69b6d;
+    text-shadow: $text-shadow;
+}
+
+.color_paladin {
+    color:#f48cba;
+    text-shadow: $text-shadow;
+}
+
+.color_hunter {
+    color:#aad372;
+    text-shadow: $text-shadow;
+}
+
+.color_rogue {
+    color:#fff468;
+    text-shadow: $text-shadow;
+}
+
+.color_priest {
+    color:#ffffff;
+    text-shadow: $text-shadow;
+}
+
+.color_deathknight {
+    color:#c41e3b;
+    text-shadow: $text-shadow;
+}
+
+.color_shaman {
+    color:#2359ff;
+    text-shadow: $text-shadow;
+}
+
+.color_mage {
+    color:#68ccef;
+    text-shadow: $text-shadow;
+}
+
+.color_warlock {
+    color:#9382c9;
+    text-shadow: $text-shadow;
+}
+
+.color_monk {
+    color:#008467;
+    text-shadow: $text-shadow;
+}
+
+.color_druid {
+    color:#ff7c0a;
+    text-shadow: $text-shadow;
+}
+
+.color_demonhunter {
+    color:#a330c9;
+    text-shadow: $text-shadow;
+}

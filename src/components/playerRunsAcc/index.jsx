@@ -1,6 +1,6 @@
 import React from "react";
 
-import { idToDungeon, secondsToHMS } from "../../utils";
+import { idToDungeon, secondsToHMS, playerList } from "../../utils";
 
 import * as styles from "./styles.module.scss";
 
@@ -15,7 +15,7 @@ const getDungeonImage = (dungeon) => {
     case "Siege of Boralus": return "https://firestorm-servers.com/assets/img/dungeons/dungeon_1822_353.jpg"
     case "The Underrot": return "https://firestorm-servers.com/assets/img/dungeons/dungeon_1841_251.jpg"
     case "Freehold": return "https://firestorm-servers.com/assets/img/dungeons/dungeon_1754_245.jpg"
-    case "Operation: Mechagon (Workshop)": return "https://firestorm-servers.com/assets/img/dungeons/dungeon_2097_369.jpg"
+    case "Operation: Mechagon (Workshop)": return "https://firestorm-servers.com/assets/img/dungeons/dungeon_2097_370.jpg"
     case "The MOTHERLODE!!": return "https://firestorm-servers.com/assets/img/dungeons/dungeon_1594_247.jpg"
     case "Shrine of the Storm": return "https://firestorm-servers.com/assets/img/dungeons/dungeon_1864_252.jpg"
     case "King's Rest": return "https://firestorm-servers.com/assets/img/dungeons/dungeon_1762_249.jpg"
@@ -34,7 +34,7 @@ const PlayerRunsAcc = ({ playerRun }) => {
            <span>{playerRun["score"]}pts.</span>
           {/* <div>{isActive ? '-' : '+'}</div> */}
         </div>
-        <div className={styles.accordionAltContent}> {playerRun["pnames"][0]}, {playerRun["pnames"][1]}, {playerRun["pnames"][2]}, {playerRun["pnames"][3]}, {playerRun["pnames"][4]}</div>
+        {playerList(styles,playerRun)}
       </div>
     );
 };

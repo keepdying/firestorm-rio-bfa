@@ -1,3 +1,5 @@
+$text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
 .accordionAltItem {
     display: flex;
     align-items: center;
@@ -21,6 +23,7 @@
         display: flex;
         flex-direction: column;
         color: #ffffff;
+        text-shadow: $text-shadow;
         font-weight: bold;
         z-index: 10;
         padding: 10px;
@@ -36,4 +39,79 @@
         font-size: smaller;
     }
 }
+
+.color_noclass {
+    display: inline-block;
+}
   
+.color_warrior {
+    color:#c69b6d;
+    text-shadow: $text-shadow;
+    display: inline-block;
+}
+
+.color_paladin {
+    color:#f48cba;
+    text-shadow: $text-shadow;
+    display: inline-block;
+}
+
+.color_hunter {
+    color:#aad372;
+    text-shadow: $text-shadow;
+    display: inline-block;
+}
+
+.color_rogue {
+    color:#fff468;
+    text-shadow: $text-shadow;
+    display: inline-block;
+}
+
+.color_priest {
+    color:#ffffff;
+    text-shadow: $text-shadow;
+    display: inline-block;
+}
+
+.color_deathknight {
+    color:#c41e3b;
+    text-shadow: $text-shadow;
+    display: inline-block;
+}
+
+.color_shaman {
+    color:#2359ff;
+    text-shadow: $text-shadow;
+    display: inline-block;
+}
+
+.color_mage {
+    color:#68ccef;
+    text-shadow: $text-shadow;
+    display: inline-block;
+}
+
+.color_warlock {
+    color:#9382c9;
+    text-shadow: $text-shadow;
+    display: inline-block;
+}
+
+.color_monk {
+    color:#008467;
+    text-shadow: $text-shadow;
+    display: inline-block;
+}
+
+.color_druid {
+    color:#ff7c0a;
+    text-shadow: $text-shadow;
+    display: inline-block;
+}
+
+.color_demonhunter {
+    color:#a330c9;
+    text-shadow: $text-shadow;
+    display: inline-block;
+}
