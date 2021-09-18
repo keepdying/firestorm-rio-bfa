@@ -13970,6 +13970,35 @@
         ]
     },
     {
+        "rid": "2452116319251775163019",
+        "pids": [
+            "5163019",
+            "5997504",
+            "4563462",
+            "5106249",
+            "5430814"
+        ],
+        "pnames": [
+            "Mondraggon",
+            "Puchiticaa",
+            "Nyzel",
+            "Vryxia",
+            "Livkrístine"
+        ],
+        "dung": 245,
+        "lvl": 21,
+        "time": 1977,
+        "score": 285.04,
+        "timestamp": 1631995611,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "warrior",
+            "demonhunter",
+            "deathknight"
+        ]
+    },
+    {
         "rid": "2452116319261827845818",
         "pids": [
             "7845818",
@@ -26696,6 +26725,35 @@
         ]
     },
     {
+        "rid": "2471716319257216054643",
+        "pids": [
+            "6054643",
+            "8142058",
+            "1153581",
+            "6515603",
+            "7040002"
+        ],
+        "pnames": [
+            "Jeeper",
+            "Larué",
+            "Hüntter",
+            "Latorree",
+            "Chabenel"
+        ],
+        "dung": 247,
+        "lvl": 17,
+        "time": 2521,
+        "score": 161.01,
+        "timestamp": 1631996191,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "hunter",
+            "druid",
+            "shaman"
+        ]
+    },
+    {
         "rid": "2471716319267782458603",
         "pids": [
             "2458603",
@@ -36310,6 +36368,35 @@
             "warrior",
             "hunter",
             "hunter"
+        ]
+    },
+    {
+        "rid": "2482016319259945465140",
+        "pids": [
+            "5465140",
+            "6987295",
+            "596003",
+            "5465658",
+            "5644478"
+        ],
+        "pnames": [
+            "Файдаэн",
+            "Firetoll",
+            "Zzo",
+            "Evoolett",
+            "Ihate"
+        ],
+        "dung": 248,
+        "lvl": 20,
+        "time": 2794,
+        "score": 214.01,
+        "timestamp": 1631995952,
+        "pclasses": [
+            "druid",
+            "monk",
+            "warlock",
+            "warrior",
+            "mage"
         ]
     },
     {
@@ -76505,6 +76592,35 @@
             "deathknight",
             "druid",
             "paladin"
+        ]
+    },
+    {
+        "rid": "3532116319247467892694",
+        "pids": [
+            "7892694",
+            "2974268",
+            "930280",
+            "1437206",
+            "3919606"
+        ],
+        "pnames": [
+            "Frikzy",
+            "Stombreaker",
+            "Golee",
+            "Mileta",
+            "Jøhnygød"
+        ],
+        "dung": 353,
+        "lvl": 21,
+        "time": 1546,
+        "score": 293.24,
+        "timestamp": 1631996362,
+        "pclasses": [
+            "druid",
+            "monk",
+            "hunter",
+            "warlock",
+            "warrior"
         ]
     },
     {
