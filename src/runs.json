@@ -18626,6 +18626,35 @@
         ]
     },
     {
+        "rid": "2461716319256008222204",
+        "pids": [
+            "8222204",
+            "4661763",
+            "5941720",
+            "7771802",
+            "8555487"
+        ],
+        "pnames": [
+            "Twarclapclap",
+            "Moonsénsèi",
+            "Turallyoon",
+            "Yunyün",
+            "Youbad"
+        ],
+        "dung": 246,
+        "lvl": 17,
+        "time": 2400,
+        "score": 161.01,
+        "timestamp": 1631990315,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "warlock",
+            "mage",
+            "paladin"
+        ]
+    },
+    {
         "rid": "2461716319257437330506",
         "pids": [
             "7330506",
@@ -26490,6 +26519,35 @@
             "warrior",
             "hunter",
             "deathknight"
+        ]
+    },
+    {
+        "rid": "2471716319249245408526",
+        "pids": [
+            "5408526",
+            "4908865",
+            "3410744",
+            "4937540",
+            "7904169"
+        ],
+        "pnames": [
+            "Aygora",
+            "Inpace",
+            "Maniacos",
+            "Eethaan",
+            "Argental"
+        ],
+        "dung": 247,
+        "lvl": 17,
+        "time": 1724,
+        "score": 200.0,
+        "timestamp": 1631990657,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "mage",
+            "warrior",
+            "priest"
         ]
     },
     {
@@ -42651,6 +42709,35 @@
             "deathknight",
             "hunter",
             "rogue"
+        ]
+    },
+    {
+        "rid": "2491816319260622292054",
+        "pids": [
+            "2292054",
+            "144565",
+            "97294",
+            "1437206",
+            "5969587"
+        ],
+        "pnames": [
+            "Ratnikk",
+            "Minamitsu",
+            "Batistà",
+            "Mileta",
+            "Mesavina"
+        ],
+        "dung": 249,
+        "lvl": 18,
+        "time": 2862,
+        "score": 177.01,
+        "timestamp": 1631990763,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "paladin",
+            "warlock",
+            "warrior"
         ]
     },
     {
@@ -58892,6 +58979,35 @@
             "deathknight",
             "warrior",
             "paladin"
+        ]
+    },
+    {
+        "rid": "2511916319254408695789",
+        "pids": [
+            "8695789",
+            "6003500",
+            "6181466",
+            "6630640",
+            "8822634"
+        ],
+        "pnames": [
+            "Fruupiix",
+            "Ultralight",
+            "Baik",
+            "Kimalia",
+            "Yuwaiish"
+        ],
+        "dung": 251,
+        "lvl": 19,
+        "time": 2240,
+        "score": 195.01,
+        "timestamp": 1631991022,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "warrior",
+            "hunter",
+            "shaman"
         ]
     },
     {
@@ -88620,6 +88736,35 @@
             "warlock",
             "hunter",
             "deathknight"
+        ]
+    },
+    {
+        "rid": "3701716319261076753698",
+        "pids": [
+            "6753698",
+            "5158816",
+            "5047458",
+            "7166772",
+            "8694497"
+        ],
+        "pnames": [
+            "Øriginàl",
+            "Lightglimmer",
+            "Neomarm",
+            "Donystark",
+            "Chünchü"
+        ],
+        "dung": 370,
+        "lvl": 17,
+        "time": 2907,
+        "score": 161.01,
+        "timestamp": 1631991097,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "paladin",
+            "deathknight",
+            "warlock"
         ]
     },
     {
