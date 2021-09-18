@@ -12831,6 +12831,35 @@
         ]
     },
     {
+        "rid": "2452016319255135500159",
+        "pids": [
+            "5500159",
+            "6987295",
+            "5333123",
+            "5644478",
+            "7218532"
+        ],
+        "pnames": [
+            "Кроний",
+            "Firetoll",
+            "Hedhgo",
+            "Ihate",
+            "Shyser"
+        ],
+        "dung": 245,
+        "lvl": 20,
+        "time": 2313,
+        "score": 214.01,
+        "timestamp": 1631992222,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "demonhunter",
+            "mage",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2452116298404837651567",
         "pids": [
             "7651567",
@@ -13909,6 +13938,35 @@
             "warrior",
             "hunter",
             "deathknight"
+        ]
+    },
+    {
+        "rid": "2452116319261827845818",
+        "pids": [
+            "7845818",
+            "7845954",
+            "102286",
+            "4323862",
+            "7256270"
+        ],
+        "pnames": [
+            "Bearlyokay",
+            "Taelyne",
+            "Undomiel",
+            "Bekzakzak",
+            "Nayethirus"
+        ],
+        "dung": 245,
+        "lvl": 21,
+        "time": 2982,
+        "score": 236.01,
+        "timestamp": 1631992889,
+        "pclasses": [
+            "druid",
+            "druid",
+            "druid",
+            "druid",
+            "demonhunter"
         ]
     },
     {
@@ -30306,6 +30364,35 @@
         "pclasses": null
     },
     {
+        "rid": "2472416319262464367156",
+        "pids": [
+            "4367156",
+            "8110036",
+            "4667339",
+            "5158003",
+            "7272476"
+        ],
+        "pnames": [
+            "Nyagumin",
+            "Aerodynamica",
+            "Runewound",
+            "Акито",
+            "Bygorôx"
+        ],
+        "dung": 247,
+        "lvl": 24,
+        "time": 3046,
+        "score": 314.01,
+        "timestamp": 1631991930,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warrior",
+            "hunter",
+            "mage"
+        ]
+    },
+    {
         "rid": "247251631839586306391",
         "pids": [
             "306391",
@@ -34722,6 +34809,35 @@
         ]
     },
     {
+        "rid": "2481916319247687276704",
+        "pids": [
+            "7276704",
+            "6784789",
+            "644167",
+            "7446839",
+            "7627916"
+        ],
+        "pnames": [
+            "Ðâv",
+            "Deprep",
+            "Ishîda",
+            "Everytìme",
+            "Henrycavïll"
+        ],
+        "dung": 248,
+        "lvl": 19,
+        "time": 1568,
+        "score": 243.59,
+        "timestamp": 1631991744,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "warrior",
+            "demonhunter"
+        ]
+    },
+    {
         "rid": "2481916319250666154129",
         "pids": [
             "6154129",
@@ -37830,6 +37946,35 @@
             "paladin",
             "demonhunter",
             "deathknight",
+            "hunter"
+        ]
+    },
+    {
+        "rid": "2482316319251255154574",
+        "pids": [
+            "5154574",
+            "7959935",
+            "1199734",
+            "4324913",
+            "7371054"
+        ],
+        "pnames": [
+            "Альфавоин",
+            "Эклейн",
+            "Zerren",
+            "Шадоуз",
+            "Lounger"
+        ],
+        "dung": 248,
+        "lvl": 23,
+        "time": 1925,
+        "score": 351.21,
+        "timestamp": 1631992387,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "demonhunter",
+            "warlock",
             "hunter"
         ]
     },
@@ -42073,6 +42218,35 @@
         ]
     },
     {
+        "rid": "2491716319254628594936",
+        "pids": [
+            "8594936",
+            "8403161",
+            "4365576",
+            "6025371",
+            "7934462"
+        ],
+        "pnames": [
+            "Jakuzza",
+            "Luxën",
+            "Darkainz",
+            "Depride",
+            "Nithäinn"
+        ],
+        "dung": 249,
+        "lvl": 17,
+        "time": 2262,
+        "score": 196.95,
+        "timestamp": 1631992700,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "deathknight",
+            "demonhunter",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2491716319255857605883",
         "pids": [
             "7605883",
@@ -42680,6 +42854,35 @@
             "warrior",
             "hunter",
             "deathknight"
+        ]
+    },
+    {
+        "rid": "2491816319248564480162",
+        "pids": [
+            "4480162",
+            "4340038",
+            "60921",
+            "5158719",
+            "6359200"
+        ],
+        "pnames": [
+            "Mariionetka",
+            "Holyme",
+            "Fasdo",
+            "Darkïnn",
+            "Byos"
+        ],
+        "dung": 249,
+        "lvl": 18,
+        "time": 1656,
+        "score": 221.54,
+        "timestamp": 1631990915,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "warrior",
+            "monk",
+            "hunter"
         ]
     },
     {
@@ -49815,6 +50018,35 @@
         "score": 161.01,
         "timestamp": null,
         "pclasses": null
+    },
+    {
+        "rid": "2501716319249467678345",
+        "pids": [
+            "7678345",
+            "7581631",
+            "5156805",
+            "6604302",
+            "8233106"
+        ],
+        "pnames": [
+            "Egmios",
+            "Honaxia",
+            "Darkzün",
+            "Fayalette",
+            "小德完全体"
+        ],
+        "dung": 250,
+        "lvl": 17,
+        "time": 1746,
+        "score": 198.64,
+        "timestamp": 1631991907,
+        "pclasses": [
+            "druid",
+            "druid",
+            "deathknight",
+            "warlock",
+            "druid"
+        ]
     },
     {
         "rid": "2501716319249726245682",
