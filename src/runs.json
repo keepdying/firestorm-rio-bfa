@@ -6238,6 +6238,35 @@
         ]
     },
     {
+        "rid": "244201631925016235749",
+        "pids": [
+            "235749",
+            "4340038",
+            "5015255",
+            "6235748",
+            "8404366"
+        ],
+        "pnames": [
+            "Martinez",
+            "Holyme",
+            "Kherberos",
+            "Cazzowarr",
+            "Deaandree"
+        ],
+        "dung": 244,
+        "lvl": 20,
+        "time": 1816,
+        "score": 214.01,
+        "timestamp": 1631995040,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "druid",
+            "warrior",
+            "mage"
+        ]
+    },
+    {
         "rid": "2442016319251287200162",
         "pids": [
             "7200162",
@@ -41421,6 +41450,64 @@
         ]
     },
     {
+        "rid": "2491616319249617749361",
+        "pids": [
+            "7749361",
+            "8291503",
+            "4443143",
+            "7909868",
+            "8639368"
+        ],
+        "pnames": [
+            "Darkangells",
+            "Диги",
+            "Rámaladni",
+            "Yullkha",
+            "Norgaard"
+        ],
+        "dung": 249,
+        "lvl": 16,
+        "time": 1761,
+        "score": 182.42,
+        "timestamp": 1631994176,
+        "pclasses": [
+            "demonhunter",
+            "druid",
+            "warrior",
+            "demonhunter",
+            "warrior"
+        ]
+    },
+    {
+        "rid": "2491616319250314701972",
+        "pids": [
+            "4701972",
+            "5432044",
+            "5517397",
+            "5707925",
+            "6191187"
+        ],
+        "pnames": [
+            "Zemlicka",
+            "Owõ",
+            "Voidkek",
+            "Стремный",
+            "Crimedh"
+        ],
+        "dung": 249,
+        "lvl": 16,
+        "time": 1831,
+        "score": 181.92,
+        "timestamp": 1631993509,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "warrior",
+            "hunter",
+            "demonhunter"
+        ]
+    },
+    {
         "rid": "2491616319252654684290",
         "pids": [
             "4684290",
@@ -50103,6 +50190,35 @@
             "monk",
             "mage",
             "warlock",
+            "demonhunter"
+        ]
+    },
+    {
+        "rid": "2501716319252056257336",
+        "pids": [
+            "6257336",
+            "8727576",
+            "7045796",
+            "8394062",
+            "8674314"
+        ],
+        "pnames": [
+            "Ninjack",
+            "Ассариэль",
+            "Singg",
+            "Темнаялиана",
+            "Дхаген"
+        ],
+        "dung": 250,
+        "lvl": 17,
+        "time": 2005,
+        "score": 196.36,
+        "timestamp": 1631994066,
+        "pclasses": [
+            "warrior",
+            "shaman",
+            "hunter",
+            "deathknight",
             "demonhunter"
         ]
     },
@@ -67196,6 +67312,35 @@
         ]
     },
     {
+        "rid": "2521816319269275174242",
+        "pids": [
+            "5174242",
+            "4334864",
+            "1407197",
+            "5264615",
+            "7859832"
+        ],
+        "pnames": [
+            "Varcarian",
+            "Titániä",
+            "Sampawarrior",
+            "Teñshì",
+            "Windface"
+        ],
+        "dung": 252,
+        "lvl": 18,
+        "time": 3727,
+        "score": 177.01,
+        "timestamp": 1631994763,
+        "pclasses": [
+            "druid",
+            "monk",
+            "warrior",
+            "warrior",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2521916299280457806777",
         "pids": [
             "7806777",
@@ -80888,6 +81033,35 @@
         ]
     },
     {
+        "rid": "3691916319254656863979",
+        "pids": [
+            "6863979",
+            "6860766",
+            "6543519",
+            "7413799",
+            "7851324"
+        ],
+        "pnames": [
+            "Giovanauta",
+            "Enfermitotu",
+            "Ôggùm",
+            "Darkbumi",
+            "Jáks"
+        ],
+        "dung": 369,
+        "lvl": 19,
+        "time": 2265,
+        "score": 236.15,
+        "timestamp": 1631994991,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "paladin",
+            "deathknight",
+            "hunter"
+        ]
+    },
+    {
         "rid": "3691916319260876411973",
         "pids": [
             "6411973",
@@ -88910,6 +89084,35 @@
             "warrior",
             "hunter",
             "demonhunter"
+        ]
+    },
+    {
+        "rid": "3701716319247577026860",
+        "pids": [
+            "7026860",
+            "1222985",
+            "4649941",
+            "6800796",
+            "6806917"
+        ],
+        "pnames": [
+            "Ynulight",
+            "Northfurion",
+            "Bøgøtá",
+            "Archickal",
+            "Panzeosolo"
+        ],
+        "dung": 370,
+        "lvl": 17,
+        "time": 1557,
+        "score": 198.59,
+        "timestamp": 1631994354,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "warrior",
+            "hunter",
+            "deathknight"
         ]
     },
     {
