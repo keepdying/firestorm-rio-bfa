@@ -7443,6 +7443,35 @@
         ]
     },
     {
+        "rid": "2442416319251604367156",
+        "pids": [
+            "4367156",
+            "8110036",
+            "4667339",
+            "5158003",
+            "7272476"
+        ],
+        "pnames": [
+            "Nyagumin",
+            "Aerodynamica",
+            "Runewound",
+            "Акито",
+            "Bygorôx"
+        ],
+        "dung": 244,
+        "lvl": 24,
+        "time": 1960,
+        "score": 314.01,
+        "timestamp": 1631987797,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warrior",
+            "hunter",
+            "mage"
+        ]
+    },
+    {
         "rid": "2442616300133474295573",
         "pids": [
             "4295573",
@@ -18597,6 +18626,35 @@
         ]
     },
     {
+        "rid": "2461716319257437330506",
+        "pids": [
+            "7330506",
+            "6841241",
+            "5113228",
+            "5190768",
+            "8590704"
+        ],
+        "pnames": [
+            "Cørdelia",
+            "Goodmaker",
+            "Armatrix",
+            "Arkën",
+            "Kittyh"
+        ],
+        "dung": 246,
+        "lvl": 17,
+        "time": 2543,
+        "score": 161.01,
+        "timestamp": 1631989040,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "priest",
+            "warrior",
+            "priest"
+        ]
+    },
+    {
         "rid": "2461716319257462270321",
         "pids": [
             "2270321",
@@ -22067,6 +22125,35 @@
             "demonhunter",
             "hunter",
             "hunter"
+        ]
+    },
+    {
+        "rid": "246211631925599235749",
+        "pids": [
+            "235749",
+            "7012491",
+            "128124",
+            "2208208",
+            "5155178"
+        ],
+        "pnames": [
+            "Martinez",
+            "Poulder",
+            "Mâfî",
+            "Fraguwu",
+            "Drjây"
+        ],
+        "dung": 246,
+        "lvl": 21,
+        "time": 2399,
+        "score": 236.01,
+        "timestamp": 1631989330,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "demonhunter",
+            "hunter",
+            "mage"
         ]
     },
     {
@@ -37689,6 +37776,35 @@
         ]
     },
     {
+        "rid": "2482316319251375154574",
+        "pids": [
+            "5154574",
+            "1174379",
+            "4324913",
+            "5215636",
+            "7371054"
+        ],
+        "pnames": [
+            "Альфавоин",
+            "Ziora",
+            "Шадоуз",
+            "Fearbeäch",
+            "Lounger"
+        ],
+        "dung": 248,
+        "lvl": 23,
+        "time": 1937,
+        "score": 351.03,
+        "timestamp": 1631989785,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "warlock",
+            "mage",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2482316319258297342328",
         "pids": [
             "7342328",
@@ -52272,6 +52388,35 @@
             "demonhunter",
             "mage",
             "warrior"
+        ]
+    },
+    {
+        "rid": "2502016319258927845818",
+        "pids": [
+            "7845818",
+            "8049894",
+            "5574938",
+            "5661379",
+            "7256270"
+        ],
+        "pnames": [
+            "Bearlyokay",
+            "Hellgiver",
+            "Hanuyo",
+            "Dotiros",
+            "Nayethirus"
+        ],
+        "dung": 250,
+        "lvl": 20,
+        "time": 2692,
+        "score": 214.01,
+        "timestamp": 1631988710,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "warlock",
+            "hunter",
+            "demonhunter"
         ]
     },
     {
@@ -83510,6 +83655,35 @@
         ]
     },
     {
+        "rid": "3692316319253563791348",
+        "pids": [
+            "3791348",
+            "1729343",
+            "4622899",
+            "5996826",
+            "8599445"
+        ],
+        "pnames": [
+            "Aabrakadabra",
+            "Hanamí",
+            "Mátsu",
+            "Minxyx",
+            "Frêcklê"
+        ],
+        "dung": 369,
+        "lvl": 23,
+        "time": 2156,
+        "score": 346.9,
+        "timestamp": 1631989503,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "monk",
+            "hunter",
+            "mage"
+        ]
+    },
+    {
         "rid": "369241630273050306391",
         "pids": [
             "306391",
@@ -89449,6 +89623,35 @@
             "hunter",
             "paladin",
             "hunter"
+        ]
+    },
+    {
+        "rid": "3701816319259456331510",
+        "pids": [
+            "6331510",
+            "6512527",
+            "4916949",
+            "6338917",
+            "7599376"
+        ],
+        "pnames": [
+            "Kenral",
+            "Bðmbur",
+            "Magedefender",
+            "Susumusu",
+            "Амерта"
+        ],
+        "dung": 370,
+        "lvl": 18,
+        "time": 2745,
+        "score": 177.01,
+        "timestamp": 1631989559,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "mage",
+            "demonhunter",
+            "monk"
         ]
     },
     {
