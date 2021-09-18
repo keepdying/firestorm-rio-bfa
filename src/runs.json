@@ -35907,6 +35907,35 @@
         ]
     },
     {
+        "rid": "248201631925094235749",
+        "pids": [
+            "235749",
+            "7012491",
+            "128124",
+            "2208208",
+            "5155178"
+        ],
+        "pnames": [
+            "Martinez",
+            "Poulder",
+            "Mâfî",
+            "Fraguwu",
+            "Drjây"
+        ],
+        "dung": 248,
+        "lvl": 20,
+        "time": 1894,
+        "score": 263.96,
+        "timestamp": 1631986406,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "demonhunter",
+            "hunter",
+            "mage"
+        ]
+    },
+    {
         "rid": "2482016319253304681510",
         "pids": [
             "4681510",
@@ -74013,6 +74042,35 @@
         ]
     },
     {
+        "rid": "3531916319253614480162",
+        "pids": [
+            "4480162",
+            "6594962",
+            "4628051",
+            "5206898",
+            "8433309"
+        ],
+        "pnames": [
+            "Mariionetka",
+            "Dualippä",
+            "Tatse",
+            "Kíngófpáin",
+            "Ripheart"
+        ],
+        "dung": 353,
+        "lvl": 19,
+        "time": 2161,
+        "score": 227.8,
+        "timestamp": 1631986041,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "paladin",
+            "warlock",
+            "hunter"
+        ]
+    },
+    {
         "rid": "353191631926053613681",
         "pids": [
             "613681",
@@ -76293,6 +76351,35 @@
             "mage",
             "hunter",
             "warrior"
+        ]
+    },
+    {
+        "rid": "3532216319254064295573",
+        "pids": [
+            "4295573",
+            "5997504",
+            "4542509",
+            "4563462",
+            "7922518"
+        ],
+        "pnames": [
+            "Kelpacino",
+            "Puchiticaa",
+            "Blurryfacè",
+            "Nyzel",
+            "Matimage"
+        ],
+        "dung": 353,
+        "lvl": 22,
+        "time": 2206,
+        "score": 259.01,
+        "timestamp": 1631986321,
+        "pclasses": [
+            "druid",
+            "priest",
+            "hunter",
+            "warrior",
+            "mage"
         ]
     },
     {
@@ -82485,6 +82572,35 @@
             "deathknight",
             "monk",
             "hunter"
+        ]
+    },
+    {
+        "rid": "3692116319252756989476",
+        "pids": [
+            "6989476",
+            "5189603",
+            "6587609",
+            "7094539",
+            "8316273"
+        ],
+        "pnames": [
+            "Nede",
+            "Monkazz",
+            "Ultraescur",
+            "Conkér",
+            "Beyaquita"
+        ],
+        "dung": 369,
+        "lvl": 21,
+        "time": 2075,
+        "score": 287.61,
+        "timestamp": 1631985716,
+        "pclasses": [
+            "demonhunter",
+            "monk",
+            "hunter",
+            "demonhunter",
+            "mage"
         ]
     },
     {
