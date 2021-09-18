@@ -3143,6 +3143,35 @@
         "pclasses": null
     },
     {
+        "rid": "2441716319247537750030",
+        "pids": [
+            "7750030",
+            "4936824",
+            "4490829",
+            "7548098",
+            "7781699"
+        ],
+        "pnames": [
+            "Areler",
+            "Ghbdtn",
+            "Selendil",
+            "Tsink",
+            "Shdzhunt"
+        ],
+        "dung": 244,
+        "lvl": 17,
+        "time": 1553,
+        "score": 197.61,
+        "timestamp": 1631979688,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "shaman",
+            "hunter",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2441716319248313719090",
         "pids": [
             "3719090",
@@ -28064,6 +28093,35 @@
         ]
     },
     {
+        "rid": "2471916319253706756415",
+        "pids": [
+            "6756415",
+            "8339901",
+            "5471204",
+            "6683717",
+            "7157121"
+        ],
+        "pnames": [
+            "Maryangpalad",
+            "Lilaphotica",
+            "Fatelezz",
+            "Zøinkz",
+            "Jeyem"
+        ],
+        "dung": 247,
+        "lvl": 19,
+        "time": 2170,
+        "score": 237.67,
+        "timestamp": 1631980439,
+        "pclasses": [
+            "warrior",
+            "shaman",
+            "demonhunter",
+            "hunter",
+            "druid"
+        ]
+    },
+    {
         "rid": "2472016298410157845818",
         "pids": [
             "7845818",
@@ -28752,6 +28810,35 @@
             "warrior",
             "hunter",
             "deathknight"
+        ]
+    },
+    {
+        "rid": "2472016319252907031138",
+        "pids": [
+            "7031138",
+            "7591583",
+            "5302703",
+            "5621047",
+            "8189977"
+        ],
+        "pnames": [
+            "Skeis",
+            "Geekob",
+            "Хозайка",
+            "Åizen",
+            "Pidozra"
+        ],
+        "dung": 247,
+        "lvl": 20,
+        "time": 2090,
+        "score": 261.78,
+        "timestamp": 1631979406,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "demonhunter",
+            "warlock",
+            "rogue"
         ]
     },
     {
@@ -58170,6 +58257,35 @@
         ]
     },
     {
+        "rid": "2511916319249286830810",
+        "pids": [
+            "6830810",
+            "7235726",
+            "224445",
+            "5182355",
+            "8482189"
+        ],
+        "pnames": [
+            "Triary",
+            "Мразиш",
+            "Cypress",
+            "Узс",
+            "Márkis"
+        ],
+        "dung": 251,
+        "lvl": 19,
+        "time": 1728,
+        "score": 238.93,
+        "timestamp": 1631980533,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "priest",
+            "monk",
+            "warrior"
+        ]
+    },
+    {
         "rid": "2511916319249647738380",
         "pids": [
             "7738380",
@@ -67967,6 +68083,35 @@
         ]
     },
     {
+        "rid": "2522116319274132685711",
+        "pids": [
+            "2685711",
+            "7946356",
+            "7195451",
+            "8306803",
+            "8553870"
+        ],
+        "pnames": [
+            "Pacciiani",
+            "Pøpcorn",
+            "Otomatique",
+            "Lastwild",
+            "Bramanero"
+        ],
+        "dung": 252,
+        "lvl": 21,
+        "time": 4213,
+        "score": 236.01,
+        "timestamp": 1631980356,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "deathknight",
+            "hunter",
+            "warrior"
+        ]
+    },
+    {
         "rid": "2522216299301657600682",
         "pids": [
             "7600682",
@@ -68206,6 +68351,35 @@
             "paladin",
             "hunter",
             "demonhunter"
+        ]
+    },
+    {
+        "rid": "2522216319251365253196",
+        "pids": [
+            "5253196",
+            "8153236",
+            "2034535",
+            "4696197",
+            "7348664"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Hølyphia",
+            "Magopotabio",
+            "Vaintkatre",
+            "Qiyu"
+        ],
+        "dung": 252,
+        "lvl": 22,
+        "time": 1936,
+        "score": 321.18,
+        "timestamp": 1631980080,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "mage",
+            "warlock",
+            "hunter"
         ]
     },
     {
@@ -72380,6 +72554,35 @@
         ]
     },
     {
+        "rid": "353181631925202525156",
+        "pids": [
+            "525156",
+            "7689824",
+            "4427337",
+            "4614235",
+            "6553673"
+        ],
+        "pnames": [
+            "Crazymacky",
+            "Lylzdudu",
+            "Mitsuony",
+            "Dacriss",
+            "Alpíne"
+        ],
+        "dung": 353,
+        "lvl": 18,
+        "time": 2002,
+        "score": 215.61,
+        "timestamp": 1631980245,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "mage",
+            "paladin",
+            "demonhunter"
+        ]
+    },
+    {
         "rid": "3531816319252548403189",
         "pids": [
             "8403189",
@@ -72464,6 +72667,35 @@
             "mage",
             "demonhunter",
             "rogue"
+        ]
+    },
+    {
+        "rid": "3531816319270748109505",
+        "pids": [
+            "8109505",
+            "7395119",
+            "3415997",
+            "7859496",
+            "7961164"
+        ],
+        "pnames": [
+            "Немявкай",
+            "Brewrsoul",
+            "Ykrop",
+            "Sineoka",
+            "Чибрю"
+        ],
+        "dung": 353,
+        "lvl": 18,
+        "time": 3874,
+        "score": 177.01,
+        "timestamp": 1631979943,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "druid",
+            "warrior",
+            "monk"
         ]
     },
     {
