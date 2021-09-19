@@ -2,7 +2,6 @@
     input {
         margin-top: 10px;
         margin-bottom: 10px;
-        width: 150px;
         height: 20px;
         padding-left: 6px;
     }
@@ -28,6 +27,23 @@
             }
         }
     }
+
+    .topBars {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        .psearchBar{
+            flex: 1 50%;
+        }
+
+        .pclassSelector {
+            flex: 2 50%;
+            padding-left: 6px;
+        }
+
+    }
+
+
     .pagination{
         display: flex;
         align-items: center;
