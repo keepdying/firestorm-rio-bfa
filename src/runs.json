@@ -20118,6 +20118,35 @@
         ]
     },
     {
+        "rid": "2461816320126904340842",
+        "pids": [
+            "4340842",
+            "5090959",
+            "718202",
+            "6571736",
+            "8231594"
+        ],
+        "pnames": [
+            "Desmónd",
+            "Vakoriusán",
+            "Bnmmbu",
+            "Sfymf",
+            "Desnat"
+        ],
+        "dung": 246,
+        "lvl": 18,
+        "time": 3090,
+        "score": 177.01,
+        "timestamp": 1632039656,
+        "pclasses": [
+            "deathknight",
+            "shaman",
+            "warlock",
+            "hunter",
+            "demonhunter"
+        ]
+    },
+    {
         "rid": "2461916298405388258602",
         "pids": [
             "8258602",
