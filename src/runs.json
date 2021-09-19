@@ -7456,6 +7456,35 @@
         ]
     },
     {
+        "rid": "2442216320113645156672",
+        "pids": [
+            "5156672",
+            "8110036",
+            "4667339",
+            "5158003",
+            "7781899"
+        ],
+        "pnames": [
+            "Enthenhair",
+            "Aerodynamica",
+            "Runewound",
+            "Акито",
+            "Бапомат"
+        ],
+        "dung": 244,
+        "lvl": 22,
+        "time": 1764,
+        "score": 314.62,
+        "timestamp": 1632048211,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "warrior",
+            "hunter",
+            "demonhunter"
+        ]
+    },
+    {
         "rid": "2442316299272167760006",
         "pids": [
             "7760006",
@@ -13088,6 +13117,35 @@
             "monk",
             "demonhunter",
             "mage",
+            "hunter"
+        ]
+    },
+    {
+        "rid": "2452016320117193628991",
+        "pids": [
+            "3628991",
+            "4276514",
+            "6099997",
+            "8013149",
+            "8564094"
+        ],
+        "pnames": [
+            "Thejudger",
+            "Denliaa",
+            "Luciferwar",
+            "Swagee",
+            "Ezkwarg"
+        ],
+        "dung": 245,
+        "lvl": 20,
+        "time": 2119,
+        "score": 214.01,
+        "timestamp": 1632048705,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "warrior",
+            "demonhunter",
             "hunter"
         ]
     },
