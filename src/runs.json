@@ -14521,6 +14521,35 @@
         ]
     },
     {
+        "rid": "2452116320113397389688",
+        "pids": [
+            "7389688",
+            "5070521",
+            "4977029",
+            "7963795",
+            "8011292"
+        ],
+        "pnames": [
+            "Bestworlld",
+            "Хемик",
+            "Violetzxc",
+            "Wìçk",
+            "Альтрида"
+        ],
+        "dung": 245,
+        "lvl": 21,
+        "time": 1739,
+        "score": 288.53,
+        "timestamp": 1632066517,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "deathknight",
+            "hunter",
+            "warrior"
+        ]
+    },
+    {
         "rid": "2452216298410856471343",
         "pids": [
             "6471343",
@@ -76901,6 +76930,35 @@
             "druid",
             "warrior",
             "monk"
+        ]
+    },
+    {
+        "rid": "3531816320112896630147",
+        "pids": [
+            "6630147",
+            "2020496",
+            "169176",
+            "1076137",
+            "3178382"
+        ],
+        "pnames": [
+            "Wewantplaya",
+            "Eôn",
+            "Nicols",
+            "Jindu",
+            "Shemihaza"
+        ],
+        "dung": 353,
+        "lvl": 18,
+        "time": 1689,
+        "score": 218.8,
+        "timestamp": 1632066551,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "deathknight",
+            "monk",
+            "demonhunter"
         ]
     },
     {
