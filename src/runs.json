@@ -43697,6 +43697,35 @@
         ]
     },
     {
+        "rid": "2491716320115677587161",
+        "pids": [
+            "7587161",
+            "8511127",
+            "4697066",
+            "8480480",
+            "8772826"
+        ],
+        "pnames": [
+            "Mocin",
+            "Rioner",
+            "Colipakeodol",
+            "Rincember",
+            "Hotstreaks"
+        ],
+        "dung": 249,
+        "lvl": 17,
+        "time": 1967,
+        "score": 199.17,
+        "timestamp": 1632042983,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "priest",
+            "mage",
+            "mage"
+        ]
+    },
+    {
         "rid": "2491716320120383423342",
         "pids": [
             "3423342",
