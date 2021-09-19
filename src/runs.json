@@ -11829,6 +11829,35 @@
         ]
     },
     {
+        "rid": "2451916320973273450399",
+        "pids": [
+            "3450399",
+            "6245880",
+            "5020983",
+            "6359200",
+            "7190177"
+        ],
+        "pnames": [
+            "Febvre",
+            "Pomax",
+            "Fragancie",
+            "Byos",
+            "Aguarachimba"
+        ],
+        "dung": 245,
+        "lvl": 19,
+        "time": 1327,
+        "score": 243.59,
+        "timestamp": 1632091704,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "demonhunter",
+            "hunter",
+            "warrior"
+        ]
+    },
+    {
         "rid": "2452016299267246360219",
         "pids": [
             "6360219",
@@ -56509,6 +56538,64 @@
         ]
     },
     {
+        "rid": "25020163209778091968",
+        "pids": [
+            "91968",
+            "1729343",
+            "4635199",
+            "4883581",
+            "5154160"
+        ],
+        "pnames": [
+            "Amádeus",
+            "Hanamí",
+            "Ígnis",
+            "Seunsh",
+            "Unknowndk"
+        ],
+        "dung": 250,
+        "lvl": 20,
+        "time": 1780,
+        "score": 263.57,
+        "timestamp": 1632090616,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "mage",
+            "demonhunter",
+            "deathknight"
+        ]
+    },
+    {
+        "rid": "2502016320980747486485",
+        "pids": [
+            "7486485",
+            "3922576",
+            "4181825",
+            "6748805",
+            "7397066"
+        ],
+        "pnames": [
+            "Taciturn",
+            "Tìtániä",
+            "Ludotabio",
+            "Agagougou",
+            "Pumpkinno"
+        ],
+        "dung": 250,
+        "lvl": 20,
+        "time": 2074,
+        "score": 260.04,
+        "timestamp": 1632090604,
+        "pclasses": [
+            "demonhunter",
+            "priest",
+            "mage",
+            "hunter",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2502116299268495509229",
         "pids": [
             "5509229",
@@ -98074,6 +98161,35 @@
             "hunter",
             "demonhunter",
             "mage"
+        ]
+    },
+    {
+        "rid": "3702016320985205104021",
+        "pids": [
+            "5104021",
+            "6076905",
+            "5857108",
+            "7952295",
+            "8621472"
+        ],
+        "pnames": [
+            "Rollssroyce",
+            "Endocathexis",
+            "Перунья",
+            "Muryoku",
+            "Klsit"
+        ],
+        "dung": 370,
+        "lvl": 20,
+        "time": 2520,
+        "score": 214.01,
+        "timestamp": 1632091245,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "mage",
+            "shaman",
+            "warrior"
         ]
     },
     {
