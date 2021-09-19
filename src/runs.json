@@ -22369,6 +22369,35 @@
         ]
     },
     {
+        "rid": "246201632013218235749",
+        "pids": [
+            "235749",
+            "6090034",
+            "1807301",
+            "6707281",
+            "6869269"
+        ],
+        "pnames": [
+            "Martinez",
+            "Dokkhos",
+            "Ruforse",
+            "Võrg",
+            "Gingï"
+        ],
+        "dung": 246,
+        "lvl": 20,
+        "time": 3618,
+        "score": 214.01,
+        "timestamp": 1632017841,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "warlock",
+            "deathknight",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2462116298410366072163",
         "pids": [
             "6072163",
@@ -70202,6 +70231,35 @@
         ]
     },
     {
+        "rid": "2522016320124331406957",
+        "pids": [
+            "1406957",
+            "5191675",
+            "6094613",
+            "8045552",
+            "8192453"
+        ],
+        "pnames": [
+            "Topvetank",
+            "Viêntõ",
+            "Conexita",
+            "Kapeski",
+            "Clhøë"
+        ],
+        "dung": 252,
+        "lvl": 20,
+        "time": 2833,
+        "score": 214.01,
+        "timestamp": 1632019154,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "warrior",
+            "deathknight",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2522116301868023457278",
         "pids": [
             "3457278",
@@ -76388,6 +76446,35 @@
             "mage",
             "priest",
             "hunter"
+        ]
+    },
+    {
+        "rid": "3531916320115635575276",
+        "pids": [
+            "5575276",
+            "6987295",
+            "2718605",
+            "4368117",
+            "5480135"
+        ],
+        "pnames": [
+            "Xhenetic",
+            "Firetoll",
+            "Yarita",
+            "Manhý",
+            "Soulfast"
+        ],
+        "dung": 353,
+        "lvl": 19,
+        "time": 1963,
+        "score": 238.1,
+        "timestamp": 1632018221,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "paladin",
+            "warrior",
+            "mage"
         ]
     },
     {
