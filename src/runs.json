@@ -6528,6 +6528,35 @@
         ]
     },
     {
+        "rid": "2442016320123316320354",
+        "pids": [
+            "6320354",
+            "7997779",
+            "2902599",
+            "7021400",
+            "7847185"
+        ],
+        "pnames": [
+            "Drogpa",
+            "Önx",
+            "Iblacksoull",
+            "Zéu",
+            "Kpasados"
+        ],
+        "dung": 244,
+        "lvl": 20,
+        "time": 2731,
+        "score": 214.01,
+        "timestamp": 1632071750,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "demonhunter",
+            "warrior",
+            "mage"
+        ]
+    },
+    {
         "rid": "2442116298409727845818",
         "pids": [
             "7845818",
@@ -15366,6 +15395,35 @@
             "hunter",
             "hunter",
             "deathknight"
+        ]
+    },
+    {
+        "rid": "2452316320128497389688",
+        "pids": [
+            "7389688",
+            "5070521",
+            "4977029",
+            "7963795",
+            "8011292"
+        ],
+        "pnames": [
+            "Bestworlld",
+            "Хемик",
+            "Violetzxc",
+            "Wìçk",
+            "Альтрида"
+        ],
+        "dung": 245,
+        "lvl": 23,
+        "time": 3249,
+        "score": 285.01,
+        "timestamp": 1632071036,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "deathknight",
+            "hunter",
+            "warrior"
         ]
     },
     {
@@ -44593,6 +44651,35 @@
             "priest",
             "mage",
             "mage"
+        ]
+    },
+    {
+        "rid": "2491716320117917482334",
+        "pids": [
+            "7482334",
+            "6622633",
+            "3212534",
+            "7432355",
+            "7716554"
+        ],
+        "pnames": [
+            "Eltopoblublu",
+            "Phædria",
+            "Inditex",
+            "Kèylax",
+            "Lacopy"
+        ],
+        "dung": 249,
+        "lvl": 17,
+        "time": 2191,
+        "score": 197.48,
+        "timestamp": 1632072143,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "hunter",
+            "hunter",
+            "paladin"
         ]
     },
     {
