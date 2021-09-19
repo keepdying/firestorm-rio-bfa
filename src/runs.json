@@ -52185,6 +52185,35 @@
         ]
     },
     {
+        "rid": "2501816320116061076137",
+        "pids": [
+            "1076137",
+            "2020496",
+            "60921",
+            "7471575",
+            "7847185"
+        ],
+        "pnames": [
+            "Jindu",
+            "Eôn",
+            "Fasdo",
+            "Gerarqba",
+            "Kpasados"
+        ],
+        "dung": 250,
+        "lvl": 18,
+        "time": 2006,
+        "score": 215.57,
+        "timestamp": 1632044820,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "warrior",
+            "demonhunter",
+            "mage"
+        ]
+    },
+    {
         "rid": "250191629841208152983",
         "pids": [
             "152983",
