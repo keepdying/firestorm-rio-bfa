@@ -20727,6 +20727,35 @@
         ]
     },
     {
+        "rid": "2461816320113515118237",
+        "pids": [
+            "5118237",
+            "6987295",
+            "4368117",
+            "6071237",
+            "6509055"
+        ],
+        "pnames": [
+            "Maievdu",
+            "Firetoll",
+            "Manhý",
+            "Shihare",
+            "Ermacxd"
+        ],
+        "dung": 246,
+        "lvl": 18,
+        "time": 1751,
+        "score": 218.17,
+        "timestamp": 1632088037,
+        "pclasses": [
+            "druid",
+            "monk",
+            "warrior",
+            "shaman",
+            "demonhunter"
+        ]
+    },
+    {
         "rid": "2461816320114956630147",
         "pids": [
             "6630147",
@@ -40757,6 +40786,35 @@
         ]
     },
     {
+        "rid": "2482416320116187750030",
+        "pids": [
+            "7750030",
+            "4936824",
+            "3797070",
+            "3913577",
+            "4324913"
+        ],
+        "pnames": [
+            "Areler",
+            "Ghbdtn",
+            "Jjhuniot",
+            "Sraexaníme",
+            "Шадоуз"
+        ],
+        "dung": 248,
+        "lvl": 24,
+        "time": 2018,
+        "score": 385.23,
+        "timestamp": 1632087923,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "deathknight",
+            "deathknight",
+            "warlock"
+        ]
+    },
+    {
         "rid": "2482516313119428258602",
         "pids": [
             "8258602",
@@ -45899,6 +45957,35 @@
             "deathknight",
             "druid",
             "warrior"
+        ]
+    },
+    {
+        "rid": "24918163201148591968",
+        "pids": [
+            "91968",
+            "1729343",
+            "2943313",
+            "4635199",
+            "5154160"
+        ],
+        "pnames": [
+            "Amádeus",
+            "Hanamí",
+            "Dëprë",
+            "Ígnis",
+            "Unknowndk"
+        ],
+        "dung": 249,
+        "lvl": 18,
+        "time": 1885,
+        "score": 219.54,
+        "timestamp": 1632088064,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "hunter",
+            "mage",
+            "deathknight"
         ]
     },
     {
@@ -64085,6 +64172,35 @@
         ]
     },
     {
+        "rid": "2512016320112705178561",
+        "pids": [
+            "5178561",
+            "6614110",
+            "517191",
+            "8197458",
+            "8679115"
+        ],
+        "pnames": [
+            "Stajltank",
+            "Suiivin",
+            "Ziindaya",
+            "Capkar",
+            "Kaßpy"
+        ],
+        "dung": 251,
+        "lvl": 20,
+        "time": 1670,
+        "score": 263.07,
+        "timestamp": 1632088148,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "mage",
+            "hunter",
+            "mage"
+        ]
+    },
+    {
         "rid": "2512016320113135669274",
         "pids": [
             "5669274",
@@ -65069,6 +65185,35 @@
             "warlock",
             "hunter",
             "mage"
+        ]
+    },
+    {
+        "rid": "2512116320123987031138",
+        "pids": [
+            "7031138",
+            "1174379",
+            "5621047",
+            "5726179",
+            "6928462"
+        ],
+        "pnames": [
+            "Skeis",
+            "Ziora",
+            "Åizen",
+            "Bestand",
+            "Ýoggsaron"
+        ],
+        "dung": 251,
+        "lvl": 21,
+        "time": 2798,
+        "score": 236.01,
+        "timestamp": 1632086742,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "warlock",
+            "mage",
+            "hunter"
         ]
     },
     {
@@ -95538,6 +95683,35 @@
             "monk",
             "hunter",
             "rogue",
+            "hunter"
+        ]
+    },
+    {
+        "rid": "3701816320116428483131",
+        "pids": [
+            "8483131",
+            "8565902",
+            "8119912",
+            "8415988",
+            "8564094"
+        ],
+        "pnames": [
+            "Deltoide",
+            "Kacipal",
+            "Momongá",
+            "Acoati",
+            "Ezkwarg"
+        ],
+        "dung": 370,
+        "lvl": 18,
+        "time": 2042,
+        "score": 177.01,
+        "timestamp": 1632086948,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warrior",
+            "deathknight",
             "hunter"
         ]
     },
