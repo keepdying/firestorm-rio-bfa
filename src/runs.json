@@ -7226,6 +7226,35 @@
         ]
     },
     {
+        "rid": "2442116320113802691331",
+        "pids": [
+            "2691331",
+            "1505280",
+            "1366122",
+            "4696197",
+            "6790985"
+        ],
+        "pnames": [
+            "Lorrion",
+            "Drenji",
+            "Vrlakuby",
+            "Vaintkatre",
+            "Saangomage"
+        ],
+        "dung": 244,
+        "lvl": 21,
+        "time": 1780,
+        "score": 285.32,
+        "timestamp": 1632082914,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "shaman",
+            "warlock",
+            "mage"
+        ]
+    },
+    {
         "rid": "2442216298414747992255",
         "pids": [
             "7992255",
@@ -20869,6 +20898,35 @@
             "mage",
             "demonhunter",
             "warrior"
+        ]
+    },
+    {
+        "rid": "2461816320132998523897",
+        "pids": [
+            "8523897",
+            "8713196",
+            "321737",
+            "8371940",
+            "8838874"
+        ],
+        "pnames": [
+            "Sóphi",
+            "Inmøortal",
+            "Afterlïfe",
+            "Syrlä",
+            "Bänkots"
+        ],
+        "dung": 246,
+        "lvl": 18,
+        "time": 3699,
+        "score": 177.01,
+        "timestamp": 1632083362,
+        "pclasses": [
+            "deathknight",
+            "paladin",
+            "deathknight",
+            "mage",
+            "demonhunter"
         ]
     },
     {
@@ -80192,6 +80250,35 @@
         ]
     },
     {
+        "rid": "3532016320124281406957",
+        "pids": [
+            "1406957",
+            "1133405",
+            "1598068",
+            "7849884",
+            "8313516"
+        ],
+        "pnames": [
+            "Topvetank",
+            "Shúbí",
+            "Srescrabaluz",
+            "Ssylvänäs",
+            "Toraó"
+        ],
+        "dung": 353,
+        "lvl": 20,
+        "time": 2828,
+        "score": 214.01,
+        "timestamp": 1632082420,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "warrior",
+            "paladin",
+            "hunter"
+        ]
+    },
+    {
         "rid": "3532116298419716580577",
         "pids": [
             "6580577",
@@ -96391,6 +96478,35 @@
             "demonhunter",
             "warlock",
             "mage"
+        ]
+    },
+    {
+        "rid": "3701916320113366054643",
+        "pids": [
+            "6054643",
+            "6009688",
+            "3385433",
+            "6983346",
+            "8688213"
+        ],
+        "pnames": [
+            "Jeeper",
+            "Eyeroll",
+            "Anrrï",
+            "Grùdy",
+            "Bolivianø"
+        ],
+        "dung": 370,
+        "lvl": 19,
+        "time": 1736,
+        "score": 238.2,
+        "timestamp": 1632082871,
+        "pclasses": [
+            "demonhunter",
+            "monk",
+            "demonhunter",
+            "warrior",
+            "hunter"
         ]
     },
     {
