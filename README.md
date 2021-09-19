@@ -6,8 +6,7 @@ https://keepdying.github.io/firestorm-rio/
 ## Frequently Asked Questions
 
 ### How does this work?
-
-All data is **parsed** from Firestorm's website (https://firestorm-servers.com/en/challenge/index) by using Selenium.
+Every 30 minutes, **runs that can be seen on [Firestorm Ranking PvE](https://firestorm-servers.com/en/challenge/index) page** gets saved into database. If your run doesn't make it to that page, I won't have information about it and **It won't be added**. This is because **I don't have access to any data from Firestorm**.
 
 ### How do you score runs?
 
@@ -37,11 +36,7 @@ This should give similar scores like in raider.io BfA Season 4.
 
 If your run doesn't appear on Firestorm website, I can't parse that. Also If your run didn't get parsed before weekly reset, You won't be able to see it.
 
-Keep in mind current data is gathered over past weeks in development by running parser manually so If you don't see a run you did 3 months ago don't blame me. 
-
-### When data is going to be parsed again?
-
-It is set to update in every 30 mins. But Github Actions can be delayed because of high load. You can check GitHub Actions for latest updates.
+Keep in mind most of the current data is gathered over past weeks in development by running parser manually so If you don't see a run you did 3 months ago don't blame me. 
 
 ### I want to see raw data?
 
