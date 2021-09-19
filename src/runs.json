@@ -14434,6 +14434,35 @@
         ]
     },
     {
+        "rid": "2452116320112932970228",
+        "pids": [
+            "2970228",
+            "4340038",
+            "935501",
+            "5113228",
+            "8240081"
+        ],
+        "pnames": [
+            "Kotwix",
+            "Holyme",
+            "Ærthos",
+            "Armatrix",
+            "Shâwlky"
+        ],
+        "dung": 245,
+        "lvl": 21,
+        "time": 1693,
+        "score": 289.2,
+        "timestamp": 1632061487,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "demonhunter",
+            "priest",
+            "mage"
+        ]
+    },
+    {
         "rid": "2452216298410856471343",
         "pids": [
             "6471343",
@@ -20404,6 +20433,35 @@
             "paladin",
             "demonhunter",
             "warrior",
+            "warrior"
+        ]
+    },
+    {
+        "rid": "2461816320132737846854",
+        "pids": [
+            "7846854",
+            "7846953",
+            "43211",
+            "6140781",
+            "8357732"
+        ],
+        "pnames": [
+            "Leysana",
+            "Kìtsùne",
+            "Aaernil",
+            "Daddychil",
+            "Crøwland"
+        ],
+        "dung": 246,
+        "lvl": 18,
+        "time": 3673,
+        "score": 177.01,
+        "timestamp": 1632059867,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "mage",
+            "demonhunter",
             "warrior"
         ]
     },
@@ -31620,6 +31678,35 @@
             "mage",
             "hunter",
             "warrior"
+        ]
+    },
+    {
+        "rid": "2472316320116804367156",
+        "pids": [
+            "4367156",
+            "7859539",
+            "5157770",
+            "6238642",
+            "8603840"
+        ],
+        "pnames": [
+            "Nyagumin",
+            "Methees",
+            "Siew",
+            "Nepabm",
+            "Yilqt"
+        ],
+        "dung": 247,
+        "lvl": 23,
+        "time": 2080,
+        "score": 348.89,
+        "timestamp": 1632060311,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warrior",
+            "hunter",
+            "deathknight"
         ]
     },
     {
@@ -64198,6 +64285,35 @@
         ]
     },
     {
+        "rid": "2512316320113565208775",
+        "pids": [
+            "5208775",
+            "5156672",
+            "4667339",
+            "7781899",
+            "7962300"
+        ],
+        "pnames": [
+            "Crystaltear",
+            "Enthenhair",
+            "Runewound",
+            "Бапомат",
+            "Getdripped"
+        ],
+        "dung": 251,
+        "lvl": 23,
+        "time": 1756,
+        "score": 348.96,
+        "timestamp": 1632060875,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warrior",
+            "demonhunter",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2512316320115885208775",
         "pids": [
             "5208775",
@@ -70569,6 +70685,35 @@
             "priest",
             "warrior",
             "deathknight",
+            "hunter"
+        ]
+    },
+    {
+        "rid": "2521916320132964701972",
+        "pids": [
+            "4701972",
+            "6408615",
+            "5432044",
+            "5996826",
+            "8724064"
+        ],
+        "pnames": [
+            "Zemlicka",
+            "Beboko",
+            "Owõ",
+            "Minxyx",
+            "Nexillee"
+        ],
+        "dung": 252,
+        "lvl": 19,
+        "time": 3696,
+        "score": 195.01,
+        "timestamp": 1632060062,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "monk",
+            "hunter",
             "hunter"
         ]
     },
@@ -93338,6 +93483,35 @@
         ]
     },
     {
+        "rid": "3701816320114818109505",
+        "pids": [
+            "8109505",
+            "8698429",
+            "5139805",
+            "7946112",
+            "8114332"
+        ],
+        "pnames": [
+            "Немявкай",
+            "Suriken",
+            "Приходд",
+            "Iliadjke",
+            "Candyshot"
+        ],
+        "dung": 370,
+        "lvl": 18,
+        "time": 1881,
+        "score": 214.45,
+        "timestamp": 1632060914,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "hunter",
+            "rogue",
+            "hunter"
+        ]
+    },
+    {
         "rid": "3701816320123008571742",
         "pids": [
             "8571742",
@@ -93364,6 +93538,35 @@
             "mage",
             "paladin",
             "warrior"
+        ]
+    },
+    {
+        "rid": "3701816320125728681610",
+        "pids": [
+            "8681610",
+            "6212498",
+            "3458036",
+            "5083283",
+            "8274736"
+        ],
+        "pnames": [
+            "Linndemann",
+            "Sonofmoon",
+            "Qurie",
+            "Sunadokei",
+            "Thayroon"
+        ],
+        "dung": 370,
+        "lvl": 18,
+        "time": 2972,
+        "score": 177.01,
+        "timestamp": 1632060894,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "warlock",
+            "mage",
+            "paladin"
         ]
     },
     {
