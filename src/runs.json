@@ -61765,6 +61765,35 @@
         ]
     },
     {
+        "rid": "2512016320116581406957",
+        "pids": [
+            "1406957",
+            "5138912",
+            "4635199",
+            "6094613",
+            "8192453"
+        ],
+        "pnames": [
+            "Topvetank",
+            "Lørdcuervõ",
+            "Ígnis",
+            "Conexita",
+            "Clhøë"
+        ],
+        "dung": 251,
+        "lvl": 20,
+        "time": 2058,
+        "score": 214.01,
+        "timestamp": 1632026311,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "mage",
+            "warrior",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2512016320118707959935",
         "pids": [
             "7959935",
@@ -67902,6 +67931,35 @@
         ]
     },
     {
+        "rid": "2521716320123187953929",
+        "pids": [
+            "7953929",
+            "4748586",
+            "272734",
+            "4488257",
+            "8576251"
+        ],
+        "pnames": [
+            "Drhousé",
+            "Magmaramus",
+            "Jämës",
+            "Amahia",
+            "Dirtydhunter"
+        ],
+        "dung": 252,
+        "lvl": 17,
+        "time": 2718,
+        "score": 161.01,
+        "timestamp": 1632025796,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "paladin",
+            "hunter",
+            "demonhunter"
+        ]
+    },
+    {
         "rid": "2521816298412167941730",
         "pids": [
             "7941730",
@@ -68962,6 +69020,35 @@
             "warrior",
             "warrior",
             "hunter"
+        ]
+    },
+    {
+        "rid": "2521816320119338310424",
+        "pids": [
+            "8310424",
+            "7715849",
+            "4318502",
+            "6800796",
+            "6908277"
+        ],
+        "pnames": [
+            "Mälümä",
+            "Lilidudú",
+            "Wilux",
+            "Archickal",
+            "Zërena"
+        ],
+        "dung": 252,
+        "lvl": 18,
+        "time": 2333,
+        "score": 215.63,
+        "timestamp": 1632026321,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "priest",
+            "hunter",
+            "warrior"
         ]
     },
     {
