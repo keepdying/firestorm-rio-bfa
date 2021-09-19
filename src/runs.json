@@ -11423,6 +11423,35 @@
         ]
     },
     {
+        "rid": "2451916320113468049894",
+        "pids": [
+            "8049894",
+            "1209690",
+            "709454",
+            "4524362",
+            "5661379"
+        ],
+        "pnames": [
+            "Hellgiver",
+            "Altoris",
+            "Magikaa",
+            "Bekxacly",
+            "Dotiros"
+        ],
+        "dung": 245,
+        "lvl": 19,
+        "time": 1746,
+        "score": 238.72,
+        "timestamp": 1632051219,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "mage",
+            "deathknight",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2452016299267246360219",
         "pids": [
             "6360219",
@@ -28353,6 +28382,35 @@
             "warrior",
             "demonhunter",
             "demonhunter"
+        ]
+    },
+    {
+        "rid": "2471816320117628662576",
+        "pids": [
+            "8662576",
+            "882499",
+            "4584628",
+            "5833174",
+            "8712183"
+        ],
+        "pnames": [
+            "Cuéball",
+            "Kezi",
+            "Obamah",
+            "Kizára",
+            "Stómpér"
+        ],
+        "dung": 247,
+        "lvl": 18,
+        "time": 2162,
+        "score": 215.67,
+        "timestamp": 1632052125,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "demonhunter",
+            "rogue",
+            "warrior"
         ]
     },
     {
@@ -47470,6 +47528,35 @@
             "warlock",
             "warrior",
             "deathknight"
+        ]
+    },
+    {
+        "rid": "249211632012615168791",
+        "pids": [
+            "168791",
+            "2020496",
+            "1076137",
+            "2070992",
+            "3178382"
+        ],
+        "pnames": [
+            "Cathal",
+            "Eôn",
+            "Jindu",
+            "Nuße",
+            "Shemihaza"
+        ],
+        "dung": 249,
+        "lvl": 21,
+        "time": 3015,
+        "score": 236.01,
+        "timestamp": 1632051204,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "monk",
+            "hunter",
+            "demonhunter"
         ]
     },
     {
@@ -71859,6 +71946,35 @@
             "demonhunter",
             "warlock",
             "hunter"
+        ]
+    },
+    {
+        "rid": "2522316320149044472062",
+        "pids": [
+            "4472062",
+            "5182353",
+            "4376360",
+            "5164337",
+            "8100888"
+        ],
+        "pnames": [
+            "Johnpier",
+            "Svétla",
+            "Portwein",
+            "Iriot",
+            "Ласлас"
+        ],
+        "dung": 252,
+        "lvl": 23,
+        "time": 5304,
+        "score": 285.01,
+        "timestamp": 1632051503,
+        "pclasses": [
+            "warrior",
+            "priest",
+            "mage",
+            "priest",
+            "warlock"
         ]
     },
     {
