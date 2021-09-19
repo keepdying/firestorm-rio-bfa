@@ -19206,6 +19206,35 @@
         ]
     },
     {
+        "rid": "2461716320115148156191",
+        "pids": [
+            "8156191",
+            "7136581",
+            "825",
+            "2987652",
+            "8377459"
+        ],
+        "pnames": [
+            "Døntwörry",
+            "Copey",
+            "Unfrozen",
+            "Gyomaru",
+            "Араатан"
+        ],
+        "dung": 246,
+        "lvl": 17,
+        "time": 1914,
+        "score": 197.16,
+        "timestamp": 1632050318,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "mage",
+            "monk",
+            "demonhunter"
+        ]
+    },
+    {
         "rid": "2461716320117244477908",
         "pids": [
             "4477908",
@@ -51866,6 +51895,35 @@
             "druid",
             "warlock",
             "deathknight",
+            "demonhunter"
+        ]
+    },
+    {
+        "rid": "2501716320113094701972",
+        "pids": [
+            "4701972",
+            "5432044",
+            "6776200",
+            "8193732",
+            "8343295"
+        ],
+        "pnames": [
+            "Zemlicka",
+            "Owõ",
+            "Sigarilyas",
+            "Zastotocky",
+            "Kuriia"
+        ],
+        "dung": 250,
+        "lvl": 17,
+        "time": 1709,
+        "score": 198.97,
+        "timestamp": 1632049575,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "hunter",
+            "mage",
             "demonhunter"
         ]
     },
