@@ -13411,6 +13411,35 @@
         ]
     },
     {
+        "rid": "2452016320111285168566",
+        "pids": [
+            "5168566",
+            "7281583",
+            "866729",
+            "6388040",
+            "7714165"
+        ],
+        "pnames": [
+            "Towsinow",
+            "Znold",
+            "Thecouxer",
+            "Jøsetpm",
+            "Yiler"
+        ],
+        "dung": 245,
+        "lvl": 20,
+        "time": 1528,
+        "score": 264.94,
+        "timestamp": 1632081012,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "demonhunter",
+            "mage",
+            "druid"
+        ]
+    },
+    {
         "rid": "2452016320117193628991",
         "pids": [
             "3628991",
@@ -15176,6 +15205,35 @@
             "warrior",
             "mage",
             "hunter"
+        ]
+    },
+    {
+        "rid": "2452216320124834948131",
+        "pids": [
+            "4948131",
+            "5182353",
+            "4376360",
+            "5081918",
+            "5164337"
+        ],
+        "pnames": [
+            "Азгард",
+            "Svétla",
+            "Portwein",
+            "Тэри",
+            "Iriot"
+        ],
+        "dung": 245,
+        "lvl": 22,
+        "time": 2883,
+        "score": 259.01,
+        "timestamp": 1632081355,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "mage",
+            "warrior",
+            "priest"
         ]
     },
     {
@@ -38604,6 +38662,35 @@
         ]
     },
     {
+        "rid": "2482016320127867953983",
+        "pids": [
+            "7953983",
+            "479377",
+            "3727742",
+            "4670734",
+            "7548098"
+        ],
+        "pnames": [
+            "Alexssis",
+            "Rdu",
+            "Bjørnlodbrok",
+            "Stuffyy",
+            "Tsink"
+        ],
+        "dung": 248,
+        "lvl": 20,
+        "time": 3186,
+        "score": 214.01,
+        "timestamp": 1632079757,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "warrior",
+            "deathknight",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2482116298407032048300",
         "pids": [
             "2048300",
@@ -53461,6 +53548,35 @@
         ]
     },
     {
+        "rid": "2501816320113221366178",
+        "pids": [
+            "1366178",
+            "5997504",
+            "3429290",
+            "4359134",
+            "4563462"
+        ],
+        "pnames": [
+            "Buckred",
+            "Puchiticaa",
+            "Phám",
+            "Vankiria",
+            "Nyzel"
+        ],
+        "dung": 250,
+        "lvl": 18,
+        "time": 1722,
+        "score": 218.46,
+        "timestamp": 1632081060,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "monk",
+            "mage",
+            "warrior"
+        ]
+    },
+    {
         "rid": "2501816320113707336911",
         "pids": [
             "7336911",
@@ -54674,6 +54790,35 @@
             "monk",
             "demonhunter",
             "demonhunter",
+            "mage"
+        ]
+    },
+    {
+        "rid": "2501916320110451036626",
+        "pids": [
+            "1036626",
+            "3444625",
+            "2044450",
+            "4326098",
+            "5201419"
+        ],
+        "pnames": [
+            "Strátø",
+            "Kopsø",
+            "Obvilian",
+            "Niath",
+            "Kacimage"
+        ],
+        "dung": 250,
+        "lvl": 19,
+        "time": 1445,
+        "score": 243.61,
+        "timestamp": 1632080005,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warlock",
+            "priest",
             "mage"
         ]
     },
@@ -62633,6 +62778,35 @@
             "warlock",
             "demonhunter",
             "demonhunter"
+        ]
+    },
+    {
+        "rid": "2511916320111444168868",
+        "pids": [
+            "4168868",
+            "2750175",
+            "62742",
+            "5863669",
+            "6550777"
+        ],
+        "pnames": [
+            "Ñatureza",
+            "Caprï",
+            "Jadicator",
+            "Zayrophile",
+            "Dcâne"
+        ],
+        "dung": 251,
+        "lvl": 19,
+        "time": 1544,
+        "score": 241.06,
+        "timestamp": 1632080802,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "deathknight",
+            "hunter",
+            "druid"
         ]
     },
     {
@@ -81337,6 +81511,35 @@
             "paladin",
             "druid",
             "priest",
+            "hunter",
+            "deathknight"
+        ]
+    },
+    {
+        "rid": "3532216320113675178561",
+        "pids": [
+            "5178561",
+            "7859539",
+            "6359200",
+            "8197458",
+            "8603840"
+        ],
+        "pnames": [
+            "Stajltank",
+            "Methees",
+            "Byos",
+            "Capkar",
+            "Yilqt"
+        ],
+        "dung": 353,
+        "lvl": 22,
+        "time": 1767,
+        "score": 319.64,
+        "timestamp": 1632081106,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
             "hunter",
             "deathknight"
         ]
