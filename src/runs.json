@@ -20060,6 +20060,35 @@
         ]
     },
     {
+        "rid": "2461816320119828310424",
+        "pids": [
+            "8310424",
+            "7339849",
+            "4318502",
+            "6908277",
+            "6925096"
+        ],
+        "pnames": [
+            "Mälümä",
+            "Vølkath",
+            "Wilux",
+            "Zërena",
+            "Ryntar"
+        ],
+        "dung": 246,
+        "lvl": 18,
+        "time": 2382,
+        "score": 177.01,
+        "timestamp": 1632030348,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "priest",
+            "warrior",
+            "deathknight"
+        ]
+    },
+    {
         "rid": "2461816320120465343938",
         "pids": [
             "5343938",
@@ -22908,6 +22937,35 @@
             "priest",
             "mage",
             "demonhunter"
+        ]
+    },
+    {
+        "rid": "2462116320116562109481",
+        "pids": [
+            "2109481",
+            "1222985",
+            "4677472",
+            "5548470",
+            "6806917"
+        ],
+        "pnames": [
+            "Entelequia",
+            "Northfurion",
+            "Belesud",
+            "Khôty",
+            "Panzeosolo"
+        ],
+        "dung": 246,
+        "lvl": 21,
+        "time": 2056,
+        "score": 286.4,
+        "timestamp": 1632029867,
+        "pclasses": [
+            "druid",
+            "priest",
+            "demonhunter",
+            "hunter",
+            "deathknight"
         ]
     },
     {
@@ -30002,6 +30060,35 @@
         ]
     },
     {
+        "rid": "247201632011767368023",
+        "pids": [
+            "368023",
+            "4346782",
+            "224717",
+            "444696",
+            "6645353"
+        ],
+        "pnames": [
+            "Crusnikêngel",
+            "Niñöjësus",
+            "Arkthurus",
+            "Palidho",
+            "Falconseyes"
+        ],
+        "dung": 247,
+        "lvl": 20,
+        "time": 2167,
+        "score": 260.92,
+        "timestamp": 1632030915,
+        "pclasses": [
+            "deathknight",
+            "shaman",
+            "mage",
+            "paladin",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2472016320121997122107",
         "pids": [
             "7122107",
@@ -35879,6 +35966,35 @@
             "deathknight",
             "deathknight",
             "paladin"
+        ]
+    },
+    {
+        "rid": "2481916320113871406957",
+        "pids": [
+            "1406957",
+            "5138912",
+            "1702673",
+            "4635199",
+            "6094613"
+        ],
+        "pnames": [
+            "Topvetank",
+            "Lørdcuervõ",
+            "Ktuktu",
+            "Ígnis",
+            "Conexita"
+        ],
+        "dung": 248,
+        "lvl": 19,
+        "time": 1787,
+        "score": 241.44,
+        "timestamp": 1632030072,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "demonhunter",
+            "mage",
+            "warrior"
         ]
     },
     {
@@ -69136,6 +69252,35 @@
             "priest",
             "hunter",
             "warrior"
+        ]
+    },
+    {
+        "rid": "2521816320134558268163",
+        "pids": [
+            "8268163",
+            "7953929",
+            "272734",
+            "4488257",
+            "8576251"
+        ],
+        "pnames": [
+            "Reitk",
+            "Drhousé",
+            "Jämës",
+            "Amahia",
+            "Dirtydhunter"
+        ],
+        "dung": 252,
+        "lvl": 18,
+        "time": 3855,
+        "score": 177.01,
+        "timestamp": 1632030274,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "paladin",
+            "hunter",
+            "demonhunter"
         ]
     },
     {
