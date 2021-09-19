@@ -7197,6 +7197,35 @@
         ]
     },
     {
+        "rid": "2442116320113761036626",
+        "pids": [
+            "1036626",
+            "3444625",
+            "87610",
+            "727899",
+            "7910118"
+        ],
+        "pnames": [
+            "Strátø",
+            "Kopsø",
+            "Bodo",
+            "Søss",
+            "Dylaayydk"
+        ],
+        "dung": 244,
+        "lvl": 21,
+        "time": 1776,
+        "score": 285.39,
+        "timestamp": 1632077454,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "warrior",
+            "deathknight"
+        ]
+    },
+    {
         "rid": "2442216298414747992255",
         "pids": [
             "7992255",
@@ -56418,6 +56447,35 @@
         ]
     },
     {
+        "rid": "2502116320111735178561",
+        "pids": [
+            "5178561",
+            "7859539",
+            "6359200",
+            "6511473",
+            "8197458"
+        ],
+        "pnames": [
+            "Stajltank",
+            "Methees",
+            "Byos",
+            "Marqueza",
+            "Capkar"
+        ],
+        "dung": 250,
+        "lvl": 21,
+        "time": 1573,
+        "score": 292.88,
+        "timestamp": 1632078680,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "hunter",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2502116320113324625573",
         "pids": [
             "4625573",
@@ -70875,6 +70933,35 @@
             "monk",
             "warrior",
             "warrior",
+            "hunter"
+        ]
+    },
+    {
+        "rid": "2521816320114911406957",
+        "pids": [
+            "1406957",
+            "3138048",
+            "1598068",
+            "7849884",
+            "8313516"
+        ],
+        "pnames": [
+            "Topvetank",
+            "Bylel",
+            "Srescrabaluz",
+            "Ssylvänäs",
+            "Toraó"
+        ],
+        "dung": 252,
+        "lvl": 18,
+        "time": 1891,
+        "score": 219.49,
+        "timestamp": 1632079233,
+        "pclasses": [
+            "warrior",
+            "shaman",
+            "warrior",
+            "paladin",
             "hunter"
         ]
     },
@@ -87618,6 +87705,35 @@
             "hunter",
             "demonhunter",
             "mage"
+        ]
+    },
+    {
+        "rid": "3692116320118284948131",
+        "pids": [
+            "4948131",
+            "5182353",
+            "4376360",
+            "5164337",
+            "6401694"
+        ],
+        "pnames": [
+            "Азгард",
+            "Svétla",
+            "Portwein",
+            "Iriot",
+            "Кхотс"
+        ],
+        "dung": 369,
+        "lvl": 21,
+        "time": 2228,
+        "score": 285.66,
+        "timestamp": 1632078172,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "mage",
+            "priest",
+            "druid"
         ]
     },
     {
