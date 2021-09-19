@@ -30036,6 +30036,35 @@
         ]
     },
     {
+        "rid": "2471916320128437912843",
+        "pids": [
+            "7912843",
+            "882499",
+            "7040016",
+            "7058701",
+            "7847185"
+        ],
+        "pnames": [
+            "Donboya",
+            "Kezi",
+            "Kramsalka",
+            "Jooui",
+            "Kpasados"
+        ],
+        "dung": 247,
+        "lvl": 19,
+        "time": 3243,
+        "score": 195.01,
+        "timestamp": 1632075319,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "deathknight",
+            "warrior",
+            "mage"
+        ]
+    },
+    {
         "rid": "2471916320128738215586",
         "pids": [
             "8215586",
@@ -55697,6 +55726,35 @@
         ]
     },
     {
+        "rid": "250201632011261235749",
+        "pids": [
+            "235749",
+            "6061970",
+            "184956",
+            "6869269",
+            "7377817"
+        ],
+        "pnames": [
+            "Martinez",
+            "Holycrâp",
+            "Xinfamous",
+            "Gingï",
+            "Boóm"
+        ],
+        "dung": 250,
+        "lvl": 20,
+        "time": 1661,
+        "score": 265.01,
+        "timestamp": 1632075337,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "deathknight",
+            "hunter",
+            "mage"
+        ]
+    },
+    {
         "rid": "2502116299268495509229",
         "pids": [
             "5509229",
@@ -56703,6 +56761,35 @@
             "hunter",
             "mage",
             "deathknight"
+        ]
+    },
+    {
+        "rid": "250231632011305844457",
+        "pids": [
+            "844457",
+            "8153236",
+            "4667339",
+            "6238642",
+            "7753494"
+        ],
+        "pnames": [
+            "Héntaigírl",
+            "Hølyphia",
+            "Runewound",
+            "Nepabm",
+            "Tomases"
+        ],
+        "dung": 250,
+        "lvl": 23,
+        "time": 1705,
+        "score": 352.37,
+        "timestamp": 1632076202,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "warrior",
+            "hunter",
+            "demonhunter"
         ]
     },
     {
