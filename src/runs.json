@@ -29282,6 +29282,35 @@
         ]
     },
     {
+        "rid": "2471916320134183853106",
+        "pids": [
+            "3853106",
+            "5622802",
+            "3963638",
+            "7333864",
+            "7787396"
+        ],
+        "pnames": [
+            "Jehtro",
+            "Pachacùtec",
+            "Hohenheimz",
+            "Destrowallax",
+            "Chikitocm"
+        ],
+        "dung": 247,
+        "lvl": 19,
+        "time": 3818,
+        "score": 195.01,
+        "timestamp": 1632033158,
+        "pclasses": [
+            "deathknight",
+            "paladin",
+            "mage",
+            "warrior",
+            "mage"
+        ]
+    },
+    {
         "rid": "2472016298410157845818",
         "pids": [
             "7845818",
