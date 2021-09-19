@@ -4180,6 +4180,35 @@
         ]
     },
     {
+        "rid": "2441816320115758683190",
+        "pids": [
+            "8683190",
+            "1810920",
+            "6073342",
+            "7707077",
+            "8638279"
+        ],
+        "pnames": [
+            "Kaeti",
+            "Vâb",
+            "Shïrâ",
+            "Illyssa",
+            "Elkeket"
+        ],
+        "dung": 244,
+        "lvl": 18,
+        "time": 1975,
+        "score": 177.01,
+        "timestamp": 1632069961,
+        "pclasses": [
+            "monk",
+            "druid",
+            "hunter",
+            "hunter",
+            "deathknight"
+        ]
+    },
+    {
         "rid": "2441816320119848498999",
         "pids": [
             "8498999",
@@ -7817,6 +7846,35 @@
             "warrior",
             "hunter",
             "mage"
+        ]
+    },
+    {
+        "rid": "2442416320109735253196",
+        "pids": [
+            "5253196",
+            "8153236",
+            "2034535",
+            "6162562",
+            "7568931"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Hølyphia",
+            "Magopotabio",
+            "Benjî",
+            "Watafaki"
+        ],
+        "dung": 244,
+        "lvl": 24,
+        "time": 1373,
+        "score": 389.01,
+        "timestamp": 1632070778,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "mage",
+            "hunter",
+            "hunter"
         ]
     },
     {
@@ -30814,6 +30872,35 @@
         ]
     },
     {
+        "rid": "247201632012014168791",
+        "pids": [
+            "168791",
+            "2020496",
+            "1076137",
+            "2699718",
+            "6630147"
+        ],
+        "pnames": [
+            "Cathal",
+            "Eôn",
+            "Jindu",
+            "Ommadawn",
+            "Wewantplaya"
+        ],
+        "dung": 247,
+        "lvl": 20,
+        "time": 2414,
+        "score": 214.01,
+        "timestamp": 1632070222,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "monk",
+            "monk",
+            "paladin"
+        ]
+    },
+    {
         "rid": "2472016320121997122107",
         "pids": [
             "7122107",
@@ -47570,6 +47657,35 @@
         ]
     },
     {
+        "rid": "2492016320117137941730",
+        "pids": [
+            "7941730",
+            "4413399",
+            "7543702",
+            "8233106",
+            "8375128"
+        ],
+        "pnames": [
+            "加特林",
+            "Kherber",
+            "Fragnancê",
+            "小德完全体",
+            "寄风秋殇"
+        ],
+        "dung": 249,
+        "lvl": 20,
+        "time": 2113,
+        "score": 263.2,
+        "timestamp": 1632070598,
+        "pclasses": [
+            "deathknight",
+            "monk",
+            "demonhunter",
+            "druid",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2492116299281277686956",
         "pids": [
             "7686956",
@@ -54240,6 +54356,35 @@
             "mage",
             "shaman",
             "hunter"
+        ]
+    },
+    {
+        "rid": "2501916320109858264932",
+        "pids": [
+            "8264932",
+            "844457",
+            "953209",
+            "7753494",
+            "8679115"
+        ],
+        "pnames": [
+            "Beebepp",
+            "Héntaigírl",
+            "Gønønêâ",
+            "Tomases",
+            "Kaßpy"
+        ],
+        "dung": 250,
+        "lvl": 19,
+        "time": 1385,
+        "score": 244.25,
+        "timestamp": 1632070512,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "demonhunter",
+            "demonhunter",
+            "mage"
         ]
     },
     {
@@ -88238,6 +88383,35 @@
             "paladin",
             "warlock",
             "hunter"
+        ]
+    },
+    {
+        "rid": "3692416320116814367156",
+        "pids": [
+            "4367156",
+            "7859539",
+            "6238642",
+            "7948198",
+            "8603840"
+        ],
+        "pnames": [
+            "Nyagumin",
+            "Methees",
+            "Nepabm",
+            "Scorkaa",
+            "Yilqt"
+        ],
+        "dung": 369,
+        "lvl": 24,
+        "time": 2081,
+        "score": 383.32,
+        "timestamp": 1632071054,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "mage",
+            "deathknight"
         ]
     },
     {
