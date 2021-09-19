@@ -31505,6 +31505,64 @@
         ]
     },
     {
+        "rid": "2472116320117268264932",
+        "pids": [
+            "8264932",
+            "844457",
+            "953209",
+            "7753494",
+            "8679115"
+        ],
+        "pnames": [
+            "Beebepp",
+            "Héntaigírl",
+            "Gønønêâ",
+            "Tomases",
+            "Kaßpy"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 2126,
+        "score": 287.65,
+        "timestamp": 1632073356,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "demonhunter",
+            "demonhunter",
+            "mage"
+        ]
+    },
+    {
+        "rid": "2472116320124937961405",
+        "pids": [
+            "7961405",
+            "4413399",
+            "5064224",
+            "8233106",
+            "8375128"
+        ],
+        "pnames": [
+            "Charlesy",
+            "Kherber",
+            "深北花房",
+            "小德完全体",
+            "寄风秋殇"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 2893,
+        "score": 236.01,
+        "timestamp": 1632073869,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "rogue",
+            "druid",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2472116320172098343073",
         "pids": [
             "8343073",
@@ -44709,6 +44767,35 @@
             "warrior",
             "hunter",
             "warrior"
+        ]
+    },
+    {
+        "rid": "2491716320125894939358",
+        "pids": [
+            "4939358",
+            "7319802",
+            "7520961",
+            "7534665",
+            "7636615"
+        ],
+        "pnames": [
+            "Alivera",
+            "Шэс",
+            "Aceweg",
+            "Тибул",
+            "Антиспам"
+        ],
+        "dung": 249,
+        "lvl": 17,
+        "time": 2989,
+        "score": 161.01,
+        "timestamp": 1632073237,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "deathknight",
+            "hunter",
+            "demonhunter"
         ]
     },
     {
@@ -84948,6 +85035,35 @@
         ]
     },
     {
+        "rid": "369191632011310168791",
+        "pids": [
+            "168791",
+            "2020496",
+            "3178382",
+            "6630229",
+            "8290907"
+        ],
+        "pnames": [
+            "Cathal",
+            "Eôn",
+            "Shemihaza",
+            "Elementroll",
+            "Omanai"
+        ],
+        "dung": 369,
+        "lvl": 19,
+        "time": 1710,
+        "score": 241.75,
+        "timestamp": 1632073491,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "demonhunter",
+            "shaman",
+            "hunter"
+        ]
+    },
+    {
         "rid": "3691916320114517959935",
         "pids": [
             "7959935",
@@ -93405,6 +93521,35 @@
             "paladin",
             "paladin",
             "mage"
+        ]
+    },
+    {
+        "rid": "3701716320112328695789",
+        "pids": [
+            "8695789",
+            "3411291",
+            "3218834",
+            "3933636",
+            "8844104"
+        ],
+        "pnames": [
+            "Fruupiix",
+            "Ðarkstronger",
+            "Støønn",
+            "Danadrield",
+            "Babybeam"
+        ],
+        "dung": 370,
+        "lvl": 17,
+        "time": 1632,
+        "score": 197.85,
+        "timestamp": 1632073767,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "deathknight",
+            "mage",
+            "demonhunter"
         ]
     },
     {
