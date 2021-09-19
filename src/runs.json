@@ -4180,6 +4180,35 @@
         ]
     },
     {
+        "rid": "2441816320110191366178",
+        "pids": [
+            "1366178",
+            "6245880",
+            "1239307",
+            "2665758",
+            "7012491"
+        ],
+        "pnames": [
+            "Buckred",
+            "Pomax",
+            "Peronä",
+            "Kelpø",
+            "Poulder"
+        ],
+        "dung": 244,
+        "lvl": 18,
+        "time": 1419,
+        "score": 218.66,
+        "timestamp": 1632085398,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "demonhunter",
+            "priest",
+            "paladin"
+        ]
+    },
+    {
         "rid": "2441816320115758683190",
         "pids": [
             "8683190",
@@ -6496,6 +6525,35 @@
             "rogue",
             "hunter",
             "warlock"
+        ]
+    },
+    {
+        "rid": "2442016320113586054643",
+        "pids": [
+            "6054643",
+            "6009688",
+            "3385433",
+            "5539281",
+            "8313516"
+        ],
+        "pnames": [
+            "Jeeper",
+            "Eyeroll",
+            "Anrrï",
+            "Firegoku",
+            "Toraó"
+        ],
+        "dung": 244,
+        "lvl": 20,
+        "time": 1758,
+        "score": 259.61,
+        "timestamp": 1632085893,
+        "pclasses": [
+            "demonhunter",
+            "monk",
+            "demonhunter",
+            "mage",
+            "hunter"
         ]
     },
     {
@@ -45844,6 +45902,35 @@
         ]
     },
     {
+        "rid": "2491816320117095182355",
+        "pids": [
+            "5182355",
+            "6543920",
+            "5166453",
+            "5582859",
+            "8680525"
+        ],
+        "pnames": [
+            "Узс",
+            "Deadkó",
+            "Sleazz",
+            "Zémøurgød",
+            "Ewá"
+        ],
+        "dung": 249,
+        "lvl": 18,
+        "time": 2109,
+        "score": 217.59,
+        "timestamp": 1632086695,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "priest",
+            "deathknight",
+            "monk"
+        ]
+    },
+    {
         "rid": "2491916298411835755191",
         "pids": [
             "5755191",
@@ -53690,6 +53777,35 @@
             "hunter",
             "demonhunter",
             "hunter"
+        ]
+    },
+    {
+        "rid": "2501816320109772691331",
+        "pids": [
+            "2691331",
+            "1366122",
+            "4696197",
+            "6162562",
+            "6790985"
+        ],
+        "pnames": [
+            "Lorrion",
+            "Vrlakuby",
+            "Vaintkatre",
+            "Benjî",
+            "Saangomage"
+        ],
+        "dung": 250,
+        "lvl": 18,
+        "time": 1377,
+        "score": 221.97,
+        "timestamp": 1632084942,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "warlock",
+            "hunter",
+            "mage"
         ]
     },
     {
@@ -74037,6 +74153,35 @@
         ]
     },
     {
+        "rid": "252251632011982306391",
+        "pids": [
+            "306391",
+            "8153236",
+            "5116416",
+            "7568931",
+            "7651567"
+        ],
+        "pnames": [
+            "Masoscrivere",
+            "Hølyphia",
+            "Fragan",
+            "Watafaki",
+            "Campw"
+        ],
+        "dung": 252,
+        "lvl": 25,
+        "time": 2382,
+        "score": 420.25,
+        "timestamp": 1632085654,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "mage",
+            "hunter",
+            "warrior"
+        ]
+    },
+    {
         "rid": "353021631664570758473",
         "pids": [
             "758473",
@@ -94275,6 +94420,35 @@
             "rogue",
             "hunter",
             "hunter"
+        ]
+    },
+    {
+        "rid": "3701716320111518286804",
+        "pids": [
+            "8286804",
+            "4037975",
+            "2913118",
+            "7380771",
+            "8838874"
+        ],
+        "pnames": [
+            "Sttyxxonrage",
+            "Davonator",
+            "Spectrat",
+            "Walkingdark",
+            "Bänkots"
+        ],
+        "dung": 370,
+        "lvl": 17,
+        "time": 1551,
+        "score": 198.65,
+        "timestamp": 1632085780,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warrior",
+            "priest",
+            "demonhunter"
         ]
     },
     {
