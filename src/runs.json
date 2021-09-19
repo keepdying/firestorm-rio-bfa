@@ -20292,6 +20292,35 @@
         ]
     },
     {
+        "rid": "2461816320114956630147",
+        "pids": [
+            "6630147",
+            "8048350",
+            "6331544",
+            "8686797",
+            "8699514"
+        ],
+        "pnames": [
+            "Wewantplaya",
+            "Lunany",
+            "Sarfdh",
+            "Tirrëx",
+            "Roguetcher"
+        ],
+        "dung": 246,
+        "lvl": 18,
+        "time": 1895,
+        "score": 216.7,
+        "timestamp": 1632063272,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "demonhunter",
+            "hunter",
+            "rogue"
+        ]
+    },
+    {
         "rid": "2461816320116178265053",
         "pids": [
             "8265053",
@@ -30553,6 +30582,35 @@
         ]
     },
     {
+        "rid": "2472016320129865038049",
+        "pids": [
+            "5038049",
+            "6238054",
+            "5570122",
+            "8210921",
+            "8400089"
+        ],
+        "pnames": [
+            "Anide",
+            "Джониблек",
+            "Айтимин",
+            "Fulladatfunk",
+            "Krongrim"
+        ],
+        "dung": 247,
+        "lvl": 20,
+        "time": 3386,
+        "score": 214.01,
+        "timestamp": 1632062092,
+        "pclasses": [
+            "deathknight",
+            "druid",
+            "demonhunter",
+            "shaman",
+            "warrior"
+        ]
+    },
+    {
         "rid": "2472116298414145570338",
         "pids": [
             "5570338",
@@ -31009,6 +31067,35 @@
             "demonhunter",
             "priest",
             "deathknight"
+        ]
+    },
+    {
+        "rid": "2472116320115157031138",
+        "pids": [
+            "7031138",
+            "6987295",
+            "6928462",
+            "7482861",
+            "8189977"
+        ],
+        "pnames": [
+            "Skeis",
+            "Firetoll",
+            "Ýoggsaron",
+            "Hêimdäll",
+            "Pidozra"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 1915,
+        "score": 290.27,
+        "timestamp": 1632061264,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "hunter",
+            "mage",
+            "rogue"
         ]
     },
     {
@@ -61676,6 +61763,35 @@
             "warlock",
             "demonhunter",
             "demonhunter"
+        ]
+    },
+    {
+        "rid": "2511916320111881720920",
+        "pids": [
+            "1720920",
+            "6532259",
+            "68206",
+            "727899",
+            "6070662"
+        ],
+        "pnames": [
+            "Oroborús",
+            "Topogigia",
+            "Ironblast",
+            "Søss",
+            "Lolypopipopi"
+        ],
+        "dung": 251,
+        "lvl": 19,
+        "time": 1588,
+        "score": 240.55,
+        "timestamp": 1632063147,
+        "pclasses": [
+            "demonhunter",
+            "priest",
+            "warrior",
+            "warrior",
+            "hunter"
         ]
     },
     {
