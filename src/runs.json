@@ -70906,6 +70906,35 @@
         ]
     },
     {
+        "rid": "2522216320131617356261",
+        "pids": [
+            "7356261",
+            "5997504",
+            "2036716",
+            "4542509",
+            "4563462"
+        ],
+        "pnames": [
+            "Veniry",
+            "Puchiticaa",
+            "Matidk",
+            "Blurryfacè",
+            "Nyzel"
+        ],
+        "dung": 252,
+        "lvl": 22,
+        "time": 3561,
+        "score": 259.01,
+        "timestamp": 1632015936,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "deathknight",
+            "hunter",
+            "warrior"
+        ]
+    },
+    {
         "rid": "2522316302736585208775",
         "pids": [
             "5208775",
