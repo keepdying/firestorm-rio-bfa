@@ -77843,6 +77843,35 @@
         ]
     },
     {
+        "rid": "353201632011661368023",
+        "pids": [
+            "368023",
+            "1992969",
+            "444696",
+            "3424594",
+            "6645353"
+        ],
+        "pnames": [
+            "Crusnikêngel",
+            "Phatch",
+            "Palidho",
+            "Ärkthurus",
+            "Falconseyes"
+        ],
+        "dung": 353,
+        "lvl": 20,
+        "time": 2061,
+        "score": 260.19,
+        "timestamp": 1632028183,
+        "pclasses": [
+            "deathknight",
+            "paladin",
+            "paladin",
+            "priest",
+            "hunter"
+        ]
+    },
+    {
         "rid": "3532116298419716580577",
         "pids": [
             "6580577",
