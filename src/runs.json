@@ -130751,5 +130751,215 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2452116320980037581268",
+        "pids": [
+            "7581268",
+            "4420991",
+            "3536679",
+            "6773241",
+            "7045796"
+        ],
+        "pnames": [
+            "Zedgi",
+            "Kalibrri",
+            "Fatallollz",
+            "Шадопэйн",
+            "Singg"
+        ],
+        "dung": 245,
+        "lvl": 21,
+        "time": 2003,
+        "score": 236.01,
+        "timestamp": 1632170036,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "priest",
+            "monk",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2442216320975778166372",
+        "pids": [
+            "8166372",
+            "8153236",
+            "1099733",
+            "3919606",
+            "6408404"
+        ],
+        "pnames": [
+            "Trencendence",
+            "Hølyphia",
+            "Zigxie",
+            "Jøhnygød",
+            "Pandanick"
+        ],
+        "dung": 244,
+        "lvl": 22,
+        "time": 1577,
+        "score": 317.84,
+        "timestamp": 1632170699,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "hunter",
+            "warrior",
+            "paladin"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2482116320982426271915",
+        "pids": [
+            "6271915",
+            "5104021",
+            "1108591",
+            "5857108",
+            "6476381"
+        ],
+        "pnames": [
+            "Zimmerrman",
+            "Rollssroyce",
+            "Indulgencia",
+            "Перунья",
+            "Дестини"
+        ],
+        "dung": 248,
+        "lvl": 21,
+        "time": 2242,
+        "score": 286.21,
+        "timestamp": 1632170961,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "deathknight",
+            "mage",
+            "paladin"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3692416320978527892694",
+        "pids": [
+            "7892694",
+            "7466784",
+            "123385",
+            "1298432",
+            "7790978"
+        ],
+        "pnames": [
+            "Frikzy",
+            "Neríssa",
+            "Oszman",
+            "Dax",
+            "Iradilla"
+        ],
+        "dung": 369,
+        "lvl": 24,
+        "time": 1852,
+        "score": 387.13,
+        "timestamp": 1632169678,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "hunter",
+            "warrior",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3692216320974975253196",
+        "pids": [
+            "5253196",
+            "1505280",
+            "1366122",
+            "4622899",
+            "6388040"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Drenji",
+            "Vrlakuby",
+            "Mátsu",
+            "Jøsetpm"
+        ],
+        "dung": 369,
+        "lvl": 22,
+        "time": 1497,
+        "score": 324.65,
+        "timestamp": 1632172005,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "shaman",
+            "monk",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3692216320982332685711",
+        "pids": [
+            "2685711",
+            "8142058",
+            "316893",
+            "6235748",
+            "7026603"
+        ],
+        "pnames": [
+            "Pacciiani",
+            "Larué",
+            "Gaelarue",
+            "Cazzowarr",
+            "Torpore"
+        ],
+        "dung": 369,
+        "lvl": 22,
+        "time": 2233,
+        "score": 314.64,
+        "timestamp": 1632171922,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "demonhunter",
+            "warrior",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
