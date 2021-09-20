@@ -16174,6 +16174,35 @@
         ]
     },
     {
+        "rid": "245251632097838306391",
+        "pids": [
+            "306391",
+            "1730066",
+            "5116416",
+            "7568931",
+            "7651567"
+        ],
+        "pnames": [
+            "Masoscrivere",
+            "Crazylové",
+            "Fragan",
+            "Watafaki",
+            "Campw"
+        ],
+        "dung": 245,
+        "lvl": 25,
+        "time": 1838,
+        "score": 420.94,
+        "timestamp": 1632109100,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "mage",
+            "hunter",
+            "warrior"
+        ]
+    },
+    {
         "rid": "2452716312232554295573",
         "pids": [
             "4295573",
@@ -31797,6 +31826,35 @@
             "demonhunter",
             "shaman",
             "warrior"
+        ]
+    },
+    {
+        "rid": "2472016321004496695729",
+        "pids": [
+            "6695729",
+            "7353635",
+            "1568310",
+            "3286991",
+            "6511473"
+        ],
+        "pnames": [
+            "Tutankadead",
+            "Singeth",
+            "Panchiss",
+            "Shelaine",
+            "Marqueza"
+        ],
+        "dung": 247,
+        "lvl": 20,
+        "time": 4449,
+        "score": 214.01,
+        "timestamp": 1632109094,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "deathknight",
+            "paladin",
+            "hunter"
         ]
     },
     {
@@ -66776,6 +66834,35 @@
         ]
     },
     {
+        "rid": "2512316320984008258602",
+        "pids": [
+            "8258602",
+            "4861430",
+            "3689677",
+            "3933636",
+            "7331591"
+        ],
+        "pnames": [
+            "Elpropiø",
+            "Holyxá",
+            "Elproctologo",
+            "Danadrield",
+            "Ryham"
+        ],
+        "dung": 251,
+        "lvl": 23,
+        "time": 2400,
+        "score": 285.01,
+        "timestamp": 1632109913,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warrior",
+            "mage",
+            "deathknight"
+        ]
+    },
+    {
         "rid": "2512416301879337342328",
         "pids": [
             "7342328",
@@ -98938,6 +99025,35 @@
             "hunter",
             "demonhunter",
             "mage"
+        ]
+    },
+    {
+        "rid": "3702016320983316548127",
+        "pids": [
+            "6548127",
+            "5979905",
+            "6256088",
+            "7695225",
+            "8078493"
+        ],
+        "pnames": [
+            "Darlïng",
+            "Dyzxd",
+            "Ißuprofeno",
+            "Strihar",
+            "Påyns"
+        ],
+        "dung": 370,
+        "lvl": 20,
+        "time": 2331,
+        "score": 214.01,
+        "timestamp": 1632110351,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "hunter",
+            "mage",
+            "paladin"
         ]
     },
     {
