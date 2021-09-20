@@ -129491,5 +129491,75 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "3531916320976395177708",
+        "pids": [
+            "5177708",
+            "1222985",
+            "2688371",
+            "5548470",
+            "6908277"
+        ],
+        "pnames": [
+            "Stronw",
+            "Northfurion",
+            "Sleazzk",
+            "Khôty",
+            "Zërena"
+        ],
+        "dung": 353,
+        "lvl": 19,
+        "time": 1639,
+        "score": 241.55,
+        "timestamp": 1632160096,
+        "pclasses": [
+            "warrior",
+            "priest",
+            "warlock",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3702116320980336606056",
+        "pids": [
+            "6606056",
+            "1241860",
+            "6488830",
+            "8031641",
+            "8603840"
+        ],
+        "pnames": [
+            "Venømqt",
+            "Gøldèn",
+            "Ypervoreia",
+            "Mookate",
+            "Yilqt"
+        ],
+        "dung": 370,
+        "lvl": 21,
+        "time": 2033,
+        "score": 236.01,
+        "timestamp": 1632160908,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "priest",
+            "hunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
