@@ -131203,5 +131203,145 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2462416321841825253196",
+        "pids": [
+            "5253196",
+            "8153236",
+            "2034535",
+            "6162562",
+            "7651567"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Hølyphia",
+            "Magopotabio",
+            "Benjî",
+            "Campw"
+        ],
+        "dung": 246,
+        "lvl": 24,
+        "time": 1782,
+        "score": 386.65,
+        "timestamp": 1632175305,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "mage",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2461916320975813791348",
+        "pids": [
+            "3791348",
+            "7229361",
+            "1112678",
+            "4542509",
+            "8313882"
+        ],
+        "pnames": [
+            "Aabrakadabra",
+            "Arkyxs",
+            "Xerióus",
+            "Blurryfacè",
+            "Xzscorpionxz"
+        ],
+        "dung": 246,
+        "lvl": 19,
+        "time": 1581,
+        "score": 242.17,
+        "timestamp": 1632174429,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "warlock",
+            "hunter",
+            "rogue"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3532016320983417780089",
+        "pids": [
+            "7780089",
+            "7656279",
+            "3286991",
+            "4563462",
+            "5511690"
+        ],
+        "pnames": [
+            "Matiiwar",
+            "Gtä",
+            "Shelaine",
+            "Nyzel",
+            "Tyranitowx"
+        ],
+        "dung": 353,
+        "lvl": 20,
+        "time": 2341,
+        "score": 214.01,
+        "timestamp": 1632174879,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "paladin",
+            "warrior",
+            "druid"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2502116320978197305214",
+        "pids": [
+            "7305214",
+            "6061970",
+            "128124",
+            "184956",
+            "6869269"
+        ],
+        "pnames": [
+            "Martínez",
+            "Holycrâp",
+            "Mâfî",
+            "Xinfamous",
+            "Gingï"
+        ],
+        "dung": 250,
+        "lvl": 21,
+        "time": 1819,
+        "score": 289.58,
+        "timestamp": 1632174377,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "demonhunter",
+            "deathknight",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
