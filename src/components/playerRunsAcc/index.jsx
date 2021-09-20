@@ -1,6 +1,6 @@
 import React from "react";
 
-import { idToDungeon, secondsToHMS, timeConverter, timerCalculator } from "../../utils";
+import { idToDungeon, secondsToHMS, timerCalculator } from "../../utils";
 
 import * as styles from "./styles.module.scss";
 
