@@ -131658,5 +131658,75 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2472116321847725020024",
+        "pids": [
+            "5020024",
+            "5511690",
+            "5020983",
+            "7651567",
+            "7750493"
+        ],
+        "pnames": [
+            "Clapacino",
+            "Tyranitowx",
+            "Fragancie",
+            "Campw",
+            "Täly"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 2372,
+        "score": 236.01,
+        "timestamp": 1632178659,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "demonhunter",
+            "warrior",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2502416321841805253196",
+        "pids": [
+            "5253196",
+            "8153236",
+            "5867601",
+            "6162562",
+            "7568931"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Hølyphia",
+            "Unhkiss",
+            "Benjî",
+            "Watafaki"
+        ],
+        "dung": 250,
+        "lvl": 24,
+        "time": 1780,
+        "score": 386.69,
+        "timestamp": 1632179347,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "deathknight",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
