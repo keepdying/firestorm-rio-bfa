@@ -128091,5 +128091,75 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2442016320980887780981",
+        "pids": [
+            "7780981",
+            "7656279",
+            "2268565",
+            "7808974",
+            "8784093"
+        ],
+        "pnames": [
+            "Soulkiiper",
+            "Gtä",
+            "Ssva",
+            "Artmiss",
+            "Fistingcoach"
+        ],
+        "dung": 244,
+        "lvl": 20,
+        "time": 2088,
+        "score": 214.01,
+        "timestamp": 1632136658,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "warlock",
+            "demonhunter",
+            "monk"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2452216320987327386580",
+        "pids": [
+            "7386580",
+            "8339901",
+            "825",
+            "6643141",
+            "8078311"
+        ],
+        "pnames": [
+            "Aguroy",
+            "Lilaphotica",
+            "Unfrozen",
+            "Cowofduty",
+            "Luciefear"
+        ],
+        "dung": 245,
+        "lvl": 22,
+        "time": 2732,
+        "score": 259.01,
+        "timestamp": 1632136731,
+        "pclasses": [
+            "warrior",
+            "shaman",
+            "mage",
+            "hunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
