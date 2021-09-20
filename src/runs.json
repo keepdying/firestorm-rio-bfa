@@ -80680,6 +80680,35 @@
         ]
     },
     {
+        "rid": "3531916320974216104323",
+        "pids": [
+            "6104323",
+            "4344110",
+            "2902599",
+            "6783744",
+            "7695225"
+        ],
+        "pnames": [
+            "Avenyyer",
+            "Zentthic",
+            "Iblacksoull",
+            "Bigliós",
+            "Strihar"
+        ],
+        "dung": 353,
+        "lvl": 19,
+        "time": 1421,
+        "score": 243.87,
+        "timestamp": 1632114128,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "demonhunter",
+            "warrior",
+            "mage"
+        ]
+    },
+    {
         "rid": "3531916320979466548127",
         "pids": [
             "6548127",
