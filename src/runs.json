@@ -128581,5 +128581,145 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2452016320978327686956",
+        "pids": [
+            "7686956",
+            "3411291",
+            "7309845",
+            "7619802",
+            "8311520"
+        ],
+        "pnames": [
+            "Tibasqt",
+            "Ðarkstronger",
+            "Uramesh",
+            "Äshess",
+            "Queirooz"
+        ],
+        "dung": 245,
+        "lvl": 20,
+        "time": 1832,
+        "score": 260.94,
+        "timestamp": 1632150759,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3692116320973934372398",
+        "pids": [
+            "4372398",
+            "7466784",
+            "1298432",
+            "5156055",
+            "7790978"
+        ],
+        "pnames": [
+            "Nyagümin",
+            "Neríssa",
+            "Dax",
+            "Drrunewound",
+            "Iradilla"
+        ],
+        "dung": 369,
+        "lvl": 21,
+        "time": 1393,
+        "score": 296.28,
+        "timestamp": 1632151501,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "warrior",
+            "deathknight",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3532116320982197581268",
+        "pids": [
+            "7581268",
+            "7816164",
+            "4443143",
+            "6773241",
+            "7045796"
+        ],
+        "pnames": [
+            "Zedgi",
+            "Yulkha",
+            "Rámaladni",
+            "Шадопэйн",
+            "Singg"
+        ],
+        "dung": 353,
+        "lvl": 21,
+        "time": 2219,
+        "score": 236.01,
+        "timestamp": 1632151686,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "warrior",
+            "monk",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3701816320979698456421",
+        "pids": [
+            "8456421",
+            "7946356",
+            "3919606",
+            "7944446",
+            "8662576"
+        ],
+        "pnames": [
+            "Telopetoto",
+            "Pøpcorn",
+            "Jøhnygød",
+            "Danzr",
+            "Cuéball"
+        ],
+        "dung": 370,
+        "lvl": 18,
+        "time": 1969,
+        "score": 177.01,
+        "timestamp": 1632152388,
+        "pclasses": [
+            "druid",
+            "druid",
+            "warrior",
+            "demonhunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
