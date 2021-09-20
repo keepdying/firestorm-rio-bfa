@@ -7313,6 +7313,35 @@
         ]
     },
     {
+        "rid": "2442116320974828258602",
+        "pids": [
+            "8258602",
+            "4622899",
+            "3933636",
+            "7769936",
+            "8313516"
+        ],
+        "pnames": [
+            "Elpropiø",
+            "Mátsu",
+            "Danadrield",
+            "Pooxa",
+            "Toraó"
+        ],
+        "dung": 244,
+        "lvl": 21,
+        "time": 1482,
+        "score": 290.12,
+        "timestamp": 1632096696,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "mage",
+            "monk",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2442216298414747992255",
         "pids": [
             "7992255",
@@ -22218,6 +22247,35 @@
             "paladin",
             "mage",
             "hunter",
+            "hunter"
+        ]
+    },
+    {
+        "rid": "2461916320988988286804",
+        "pids": [
+            "8286804",
+            "8683710",
+            "2913118",
+            "8680174",
+            "8683699"
+        ],
+        "pnames": [
+            "Sttyxxonrage",
+            "Serghan",
+            "Spectrat",
+            "Jahär",
+            "Bankots"
+        ],
+        "dung": 246,
+        "lvl": 19,
+        "time": 2898,
+        "score": 195.01,
+        "timestamp": 1632096691,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warrior",
+            "monk",
             "hunter"
         ]
     },
@@ -47430,6 +47488,32 @@
         ]
     },
     {
+        "rid": "2491916320992706196669",
+        "pids": [
+            "6196669",
+            "2932117",
+            "4295573",
+            "7791532"
+        ],
+        "pnames": [
+            "Blurrysad",
+            "Dkant",
+            "Kelpacino",
+            "Árthënysä"
+        ],
+        "dung": 249,
+        "lvl": 19,
+        "time": 3270,
+        "score": 195.01,
+        "timestamp": 1632095278,
+        "pclasses": [
+            "paladin",
+            "deathknight",
+            "druid",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2492016298408198784890",
         "pids": [
             "8784890",
@@ -65478,6 +65562,35 @@
         ]
     },
     {
+        "rid": "2512116320985653750875",
+        "pids": [
+            "3750875",
+            "3922576",
+            "4646981",
+            "6511473",
+            "7486485"
+        ],
+        "pnames": [
+            "Ludocïél",
+            "Tìtániä",
+            "Jamilsn",
+            "Marqueza",
+            "Taciturn"
+        ],
+        "dung": 251,
+        "lvl": 21,
+        "time": 2565,
+        "score": 236.01,
+        "timestamp": 1632094748,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "mage",
+            "hunter",
+            "demonhunter"
+        ]
+    },
+    {
         "rid": "2512216299271685415519",
         "pids": [
             "5415519",
@@ -73909,6 +74022,35 @@
             "deathknight",
             "hunter",
             "warrior"
+        ]
+    },
+    {
+        "rid": "2522116320981963450399",
+        "pids": [
+            "3450399",
+            "6245880",
+            "6245748",
+            "6359200",
+            "7175691"
+        ],
+        "pnames": [
+            "Febvre",
+            "Pomax",
+            "Xeove",
+            "Byos",
+            "Merlììn"
+        ],
+        "dung": 252,
+        "lvl": 21,
+        "time": 2196,
+        "score": 288.73,
+        "timestamp": 1632094643,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "hunter",
+            "hunter",
+            "mage"
         ]
     },
     {
@@ -87827,6 +87969,35 @@
             "deathknight",
             "paladin",
             "shaman"
+        ]
+    },
+    {
+        "rid": "3692016320990901406957",
+        "pids": [
+            "1406957",
+            "5174107",
+            "62842",
+            "7543702",
+            "7638518"
+        ],
+        "pnames": [
+            "Topvetank",
+            "Arkanisther",
+            "Destructørxd",
+            "Fragnancê",
+            "Leeroyman"
+        ],
+        "dung": 369,
+        "lvl": 20,
+        "time": 3090,
+        "score": 214.01,
+        "timestamp": 1632096781,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "hunter",
+            "demonhunter",
+            "paladin"
         ]
     },
     {
