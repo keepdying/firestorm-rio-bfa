@@ -14985,6 +14985,35 @@
         ]
     },
     {
+        "rid": "2452116320979767305214",
+        "pids": [
+            "7305214",
+            "1729343",
+            "2902599",
+            "6589503",
+            "7155263"
+        ],
+        "pnames": [
+            "Martínez",
+            "Hanamí",
+            "Iblacksoull",
+            "Earthshakerz",
+            "Hòwl"
+        ],
+        "dung": 245,
+        "lvl": 21,
+        "time": 1976,
+        "score": 285.06,
+        "timestamp": 1632104033,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "demonhunter",
+            "shaman",
+            "warrior"
+        ]
+    },
+    {
         "rid": "2452216298410856471343",
         "pids": [
             "6471343",
@@ -21217,6 +21246,35 @@
             "deathknight",
             "mage",
             "demonhunter"
+        ]
+    },
+    {
+        "rid": "2461816320979967157121",
+        "pids": [
+            "7157121",
+            "6585705",
+            "7254238",
+            "7749826",
+            "7771661"
+        ],
+        "pnames": [
+            "Jeyem",
+            "Slapdirt",
+            "Failsauce",
+            "Kènn",
+            "Dantegulapä"
+        ],
+        "dung": 246,
+        "lvl": 18,
+        "time": 1996,
+        "score": 215.67,
+        "timestamp": 1632104439,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "warrior",
+            "hunter",
+            "druid"
         ]
     },
     {
