@@ -131066,5 +131066,110 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2491816320995667347990",
+        "pids": [
+            "7347990",
+            "6668115",
+            "7438396",
+            "8100888",
+            "8157500"
+        ],
+        "pnames": [
+            "Славаа",
+            "Tisse",
+            "Metò",
+            "Ласлас",
+            "Illidemen"
+        ],
+        "dung": 249,
+        "lvl": 18,
+        "time": 3566,
+        "score": 177.01,
+        "timestamp": 1632157708,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "priest",
+            "warlock",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2471916320978606606056",
+        "pids": [
+            "6606056",
+            "1241860",
+            "3919606",
+            "6235748",
+            "6240990"
+        ],
+        "pnames": [
+            "Venømqt",
+            "Gøldèn",
+            "Jøhnygød",
+            "Cazzowarr",
+            "Cazzomago"
+        ],
+        "dung": 247,
+        "lvl": 19,
+        "time": 1860,
+        "score": 240.72,
+        "timestamp": 1632158164,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "warrior",
+            "warrior",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "249221632098435844457",
+        "pids": [
+            "844457",
+            "6550966",
+            "4667339",
+            "7272476",
+            "7753494"
+        ],
+        "pnames": [
+            "Héntaigírl",
+            "Aurørra",
+            "Runewound",
+            "Bygorôx",
+            "Tomases"
+        ],
+        "dung": 249,
+        "lvl": 22,
+        "time": 2435,
+        "score": 315.05,
+        "timestamp": 1632158434,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "warrior",
+            "mage",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
