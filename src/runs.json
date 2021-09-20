@@ -37941,6 +37941,35 @@
         ]
     },
     {
+        "rid": "2481916320978557995585",
+        "pids": [
+            "7995585",
+            "63928",
+            "120526",
+            "7337694",
+            "8399543"
+        ],
+        "pnames": [
+            "Schuberg",
+            "Yazmïn",
+            "Disordér",
+            "Dynamö",
+            "Suwako"
+        ],
+        "dung": 248,
+        "lvl": 19,
+        "time": 1855,
+        "score": 240.77,
+        "timestamp": 1632116297,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "warlock",
+            "mage",
+            "warrior"
+        ]
+    },
+    {
         "rid": "2482016298409185177708",
         "pids": [
             "5177708",
@@ -74992,6 +75021,35 @@
         ]
     },
     {
+        "rid": "2522216320989213450399",
+        "pids": [
+            "3450399",
+            "6245880",
+            "4082499",
+            "4563462",
+            "7684427"
+        ],
+        "pnames": [
+            "Febvre",
+            "Pomax",
+            "Kuro",
+            "Nyzel",
+            "Beckmann"
+        ],
+        "dung": 252,
+        "lvl": 22,
+        "time": 2921,
+        "score": 259.01,
+        "timestamp": 1632116556,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "priest",
+            "warrior",
+            "hunter"
+        ]
+    },
+    {
         "rid": "2522316302736585208775",
         "pids": [
             "5208775",
@@ -99504,6 +99562,35 @@
             "shaman",
             "warrior",
             "hunter"
+        ]
+    },
+    {
+        "rid": "3702116320977086104323",
+        "pids": [
+            "6104323",
+            "4344110",
+            "2902599",
+            "6783744",
+            "7695225"
+        ],
+        "pnames": [
+            "Avenyyer",
+            "Zentthic",
+            "Iblacksoull",
+            "Bigliós",
+            "Strihar"
+        ],
+        "dung": 370,
+        "lvl": 21,
+        "time": 1708,
+        "score": 288.2,
+        "timestamp": 1632116323,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "demonhunter",
+            "warrior",
+            "mage"
         ]
     },
     {
