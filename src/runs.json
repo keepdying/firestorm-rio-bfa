@@ -128371,5 +128371,145 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2471916320976148529074",
+        "pids": [
+            "8529074",
+            "5038512",
+            "123385",
+            "5906858",
+            "7709956"
+        ],
+        "pnames": [
+            "Raknademon",
+            "Yulissá",
+            "Oszman",
+            "Hayvangibi",
+            "Jokuu"
+        ],
+        "dung": 247,
+        "lvl": 19,
+        "time": 1614,
+        "score": 243.14,
+        "timestamp": 1632147067,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "hunter",
+            "druid",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2501916320980367963416",
+        "pids": [
+            "7963416",
+            "7816164",
+            "5164337",
+            "6518503",
+            "7045796"
+        ],
+        "pnames": [
+            "Ппаладинушка",
+            "Yulkha",
+            "Iriot",
+            "Упрлс",
+            "Singg"
+        ],
+        "dung": 250,
+        "lvl": 19,
+        "time": 2036,
+        "score": 237.32,
+        "timestamp": 1632147175,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "priest",
+            "demonhunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2452116320976925156672",
+        "pids": [
+            "5156672",
+            "7385154",
+            "4943834",
+            "6071318",
+            "8011292"
+        ],
+        "pnames": [
+            "Enthenhair",
+            "Возьмизаруку",
+            "Cßz",
+            "Unknownhunt",
+            "Альтрида"
+        ],
+        "dung": 245,
+        "lvl": 21,
+        "time": 1692,
+        "score": 289.22,
+        "timestamp": 1632147788,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "shaman",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2512016320975754640728",
+        "pids": [
+            "4640728",
+            "7012491",
+            "6503097",
+            "7753494",
+            "7910118"
+        ],
+        "pnames": [
+            "Mydarling",
+            "Poulder",
+            "Milue",
+            "Tomases",
+            "Dylaayydk"
+        ],
+        "dung": 251,
+        "lvl": 20,
+        "time": 1575,
+        "score": 264.32,
+        "timestamp": 1632148203,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "demonhunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
