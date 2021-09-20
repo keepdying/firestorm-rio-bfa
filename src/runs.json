@@ -129841,5 +129841,75 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2462116321002215620456",
+        "pids": [
+            "5620456",
+            "1264473",
+            "4670734",
+            "5079950",
+            "7951828"
+        ],
+        "pnames": [
+            "Darkneedle",
+            "Lheiton",
+            "Stuffyy",
+            "Metaphysica",
+            "Розаробот"
+        ],
+        "dung": 246,
+        "lvl": 21,
+        "time": 4221,
+        "score": 236.01,
+        "timestamp": 1632164212,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "deathknight",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3702016320976872692894",
+        "pids": [
+            "2692894",
+            "6968674",
+            "4699509",
+            "7174142",
+            "8266915"
+        ],
+        "pnames": [
+            "Pákkito",
+            "Çtrol",
+            "Rethnapb",
+            "Листочик",
+            "Jaivitor"
+        ],
+        "dung": 370,
+        "lvl": 20,
+        "time": 1687,
+        "score": 262.16,
+        "timestamp": 1632164267,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "mage",
+            "rogue"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
