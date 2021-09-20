@@ -131343,5 +131343,145 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2471916321848247581268",
+        "pids": [
+            "7581268",
+            "4420991",
+            "6268729",
+            "7045796",
+            "7215784"
+        ],
+        "pnames": [
+            "Zedgi",
+            "Kalibrri",
+            "Holyllollz",
+            "Singg",
+            "Сынтартара"
+        ],
+        "dung": 247,
+        "lvl": 19,
+        "time": 2424,
+        "score": 195.01,
+        "timestamp": 1632175638,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "paladin",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2452316321849052685711",
+        "pids": [
+            "2685711",
+            "8142058",
+            "316893",
+            "6235748",
+            "7026603"
+        ],
+        "pnames": [
+            "Pacciiani",
+            "Larué",
+            "Gaelarue",
+            "Cazzowarr",
+            "Torpore"
+        ],
+        "dung": 245,
+        "lvl": 23,
+        "time": 2505,
+        "score": 285.01,
+        "timestamp": 1632175578,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "demonhunter",
+            "warrior",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2452216321864757797261",
+        "pids": [
+            "7797261",
+            "340722",
+            "6869955",
+            "7947341",
+            "8394420"
+        ],
+        "pnames": [
+            "Cêlêstê",
+            "Pëterpanda",
+            "Junê",
+            "Svestenikk",
+            "Memebeam"
+        ],
+        "dung": 245,
+        "lvl": 22,
+        "time": 4075,
+        "score": 259.01,
+        "timestamp": 1632175477,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "mage",
+            "priest",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3692116321853192692894",
+        "pids": [
+            "2692894",
+            "3449252",
+            "2046882",
+            "2056354",
+            "4649941"
+        ],
+        "pnames": [
+            "Pákkito",
+            "Tutancamøn",
+            "Victorxtoo",
+            "Mïsticc",
+            "Bøgøtá"
+        ],
+        "dung": 369,
+        "lvl": 21,
+        "time": 2919,
+        "score": 236.01,
+        "timestamp": 1632176116,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "warlock",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
