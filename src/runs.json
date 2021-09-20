@@ -128196,5 +128196,75 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2491916320998437855479",
+        "pids": [
+            "7855479",
+            "882499",
+            "2228436",
+            "7961023",
+            "8637435"
+        ],
+        "pnames": [
+            "Xiaojìng",
+            "Kezi",
+            "Søøkie",
+            "Killcommands",
+            "Alextrassza"
+        ],
+        "dung": 249,
+        "lvl": 19,
+        "time": 3843,
+        "score": 195.01,
+        "timestamp": 1632142607,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "hunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3692216320977858166372",
+        "pids": [
+            "8166372",
+            "7385154",
+            "6745310",
+            "7272476",
+            "8482189"
+        ],
+        "pnames": [
+            "Trencendence",
+            "Возьмизаруку",
+            "Zuhalhunt",
+            "Bygorôx",
+            "Márkis"
+        ],
+        "dung": 369,
+        "lvl": 22,
+        "time": 1785,
+        "score": 320.73,
+        "timestamp": 1632142806,
+        "pclasses": [
+            "demonhunter",
+            "monk",
+            "hunter",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
