@@ -6644,6 +6644,35 @@
         ]
     },
     {
+        "rid": "2442016320983218286804",
+        "pids": [
+            "8286804",
+            "4037975",
+            "2809840",
+            "6844248",
+            "7374142"
+        ],
+        "pnames": [
+            "Sttyxxonrage",
+            "Davonator",
+            "Afterburne",
+            "Bästardä",
+            "Thebígdaddy"
+        ],
+        "dung": 244,
+        "lvl": 20,
+        "time": 2321,
+        "score": 214.01,
+        "timestamp": 1632111262,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "mage",
+            "warrior",
+            "warrior"
+        ]
+    },
+    {
         "rid": "2442116298409727845818",
         "pids": [
             "7845818",
