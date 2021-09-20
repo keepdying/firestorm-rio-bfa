@@ -5,10 +5,10 @@ $text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.
     color: #ffffff;
     cursor: pointer;
     &:nth-child(even){
-        background-color: #191919;
+        background-color: #353535;
     }
     &:nth-child(odd){
-        background-color: #333333;
+        background-color: #2b2b2b;
     }
     &.player1{
         background: linear-gradient(#DFBD69, #926F34);
@@ -33,16 +33,45 @@ $text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.
     }
 }
 .accordionContent {
-    background: #ffffff;
+    background: #000000;
     margin: auto;
     display: flex !important;
-    flex-wrap: wrap;
+    flex-direction: column;
     padding: 0px !important;
     position: relative;
     top: 50%;
     transform: translateY(-50%);
     max-height: 95vh;
-    overflow-y: scroll;
+    overflow-y: auto;
+    .runHeader {
+        background-color: #1a1716;
+        color: #ffffff;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 8px;
+        .mainHeader{
+            text-align: left;
+            display: unset;
+        }
+        strong {
+            width: 10%;
+            font-size: 14px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            img{
+                width: 24px;
+                height: 24px;
+            }
+        }
+        .group {
+            width: calc(50% - 30px);
+            margin-left: 30px;
+            text-align: left;
+            display: unset;
+        }
+    }
 }
  
 

@@ -15,10 +15,10 @@ function returnPlayerRuns(rids, currentRuns){
   return runs;
 };
 
-function idToDungeon(id){
+function idToDungeon(id, field = "name"){
   for (let i = 0; i < dungeons.length; i++){
     if (id === parseInt(dungeons[i]["id"].slice(dungeons[i]["id"].length - 3))){
-      return dungeons[i].name;
+      return dungeons[i][field];
     }
   }
   return null;
@@ -45,13 +45,13 @@ function timerCalculator(id, timer){
   for (let i = 0; i < dungeons.length; i++){
     if (id === parseInt(dungeons[i]["id"].slice(dungeons[i]["id"].length - 3))){
       if (dungeons[i]["timer"][0] < timer){
-        return "Deplete";
+        return "";
       } else if ((dungeons[i]["timer"][1] < timer) && (timer <= dungeons[i]["timer"][0])) {
-        return "+1";
+        return "*";
       } else if ((dungeons[i]["timer"][2] < timer) && (timer <= dungeons[i]["timer"][1])) {
-        return "+2";
+        return "**";
       } else {
-        return "+3";
+        return "***";
       }
     }
   }
