@@ -80535,6 +80535,35 @@
         ]
     },
     {
+        "rid": "3531916320979466548127",
+        "pids": [
+            "6548127",
+            "4622899",
+            "6256088",
+            "6674514",
+            "8078493"
+        ],
+        "pnames": [
+            "Darlïng",
+            "Mátsu",
+            "Ißuprofeno",
+            "Boilol",
+            "Påyns"
+        ],
+        "dung": 353,
+        "lvl": 19,
+        "time": 1946,
+        "score": 238.28,
+        "timestamp": 1632107542,
+        "pclasses": [
+            "druid",
+            "monk",
+            "hunter",
+            "deathknight",
+            "paladin"
+        ]
+    },
+    {
         "rid": "3532016298420343750875",
         "pids": [
             "3750875",
@@ -88548,6 +88577,32 @@
             "monk",
             "hunter",
             "demonhunter",
+            "paladin"
+        ]
+    },
+    {
+        "rid": "3692016321012486090777",
+        "pids": [
+            "6090777",
+            "1406888",
+            "5156029",
+            "7849884"
+        ],
+        "pnames": [
+            "Bløõd",
+            "Topvpwin",
+            "Baltazarxd",
+            "Ssylvänäs"
+        ],
+        "dung": 369,
+        "lvl": 20,
+        "time": 5248,
+        "score": 214.01,
+        "timestamp": 1632108278,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "hunter",
             "paladin"
         ]
     },
