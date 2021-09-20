@@ -128021,5 +128021,40 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2471916320988526196669",
+        "pids": [
+            "6196669",
+            "7956257",
+            "2070992",
+            "2699718",
+            "2932117"
+        ],
+        "pnames": [
+            "Blurrysad",
+            "Kpasadudu",
+            "Nuße",
+            "Ommadawn",
+            "Dkant"
+        ],
+        "dung": 247,
+        "lvl": 19,
+        "time": 2852,
+        "score": 195.01,
+        "timestamp": 1632133032,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "hunter",
+            "monk",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]

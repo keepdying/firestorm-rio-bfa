@@ -1205,7 +1205,7 @@
     },
     {
         "pid": "5158003",
-        "name": "Крошкалулу",
+        "name": "Акито",
         "pclass": "hunter",
         "spec": null,
         "bruns": [
@@ -1491,8 +1491,8 @@
             "2522016313100026271915",
             "2501816317521105870126",
             "3702016320985205104021",
-            "2512116318394727806777",
-            "3692416311377386271915"
+            "3692416311377386271915",
+            "2512116318394727806777"
         ],
         "fsio": 2850.46
     },
@@ -1843,7 +1843,7 @@
     },
     {
         "pid": "8080142",
-        "name": "Josdytwo",
+        "name": "Rynxe",
         "pclass": "monk",
         "spec": null,
         "bruns": [
@@ -2255,8 +2255,8 @@
             "2472016316661307600682",
             "2442016316658868519344",
             "353201632011661368023",
-            "2482116318400757600682",
-            "3692016311384631992969"
+            "3692016311384631992969",
+            "2482116318400757600682"
         ],
         "fsio": 2549.01
     },
@@ -2389,8 +2389,8 @@
             "2452116299268736072163",
             "2522316320149044472062",
             "3692116320118284948131",
-            "2472216315705054948131",
-            "2491716320980604403824"
+            "2491716320980604403824",
+            "2472216315705054948131"
         ],
         "fsio": 2534.7
     },
@@ -3191,7 +3191,7 @@
     },
     {
         "pid": "8695789",
-        "name": "Froopii",
+        "name": "Fruupiix",
         "pclass": "paladin",
         "spec": null,
         "bruns": [
@@ -3877,6 +3877,24 @@
         "fsio": 2090.27
     },
     {
+        "pid": "2932117",
+        "name": "Dkant",
+        "pclass": "deathknight",
+        "spec": null,
+        "bruns": [
+            "353201631223483168791",
+            "2452016313961205985328",
+            "248201631482358168791",
+            "250201631568514168791",
+            "244211631568893168791",
+            "369211631666076168791",
+            "2491816319251596196669",
+            "2461716319251776196669",
+            "2471916320988526196669"
+        ],
+        "fsio": 2089.75
+    },
+    {
         "pid": "7611916",
         "name": "Utcher",
         "pclass": "deathknight",
@@ -4410,7 +4428,7 @@
     },
     {
         "pid": "5582859",
-        "name": "Athøms",
+        "name": "Zémøurgød",
         "pclass": "deathknight",
         "spec": null,
         "bruns": [
@@ -4712,23 +4730,6 @@
             "2512016320978233750875"
         ],
         "fsio": 1898.45
-    },
-    {
-        "pid": "2932117",
-        "name": "Dkant",
-        "pclass": "deathknight",
-        "spec": null,
-        "bruns": [
-            "353201631223483168791",
-            "2452016313961205985328",
-            "248201631482358168791",
-            "250201631568514168791",
-            "244211631568893168791",
-            "369211631666076168791",
-            "2491816319251596196669",
-            "2461716319251776196669"
-        ],
-        "fsio": 1894.74
     },
     {
         "pid": "5070521",
@@ -6403,7 +6404,7 @@
             "2441816317519116090777",
             "3701816317522336090777",
             "3692016321012486090777",
-            "2471916317530206090777"
+            "2471916317529746090777"
         ],
         "fsio": 1583.31
     },
@@ -6455,7 +6456,7 @@
     },
     {
         "pid": "7985993",
-        "name": "Bowserwox",
+        "name": "Donderojan",
         "pclass": "paladin",
         "spec": null,
         "bruns": [
@@ -6672,6 +6673,23 @@
         "fsio": 1551.9
     },
     {
+        "pid": "6196669",
+        "name": "Blurrysad",
+        "pclass": "paladin",
+        "spec": null,
+        "bruns": [
+            "3691616304461746196669",
+            "2452016314824566196669",
+            "2461916315688766196669",
+            "2521716316666376196669",
+            "2481516317521396196669",
+            "2491816319251596196669",
+            "2442016320121076196669",
+            "2471916320988526196669"
+        ],
+        "fsio": 1550.95
+    },
+    {
         "pid": "2692894",
         "name": "Pákkito",
         "pclass": "paladin",
@@ -6781,23 +6799,6 @@
             "2491716306183268332011"
         ],
         "fsio": 1536.94
-    },
-    {
-        "pid": "6196669",
-        "name": "Blurrysad",
-        "pclass": "paladin",
-        "spec": null,
-        "bruns": [
-            "3691616304461746196669",
-            "2471616306182896196669",
-            "2452016314824566196669",
-            "2461916315688766196669",
-            "2521716316666376196669",
-            "2481516317521396196669",
-            "2491816319251596196669",
-            "2442016320121076196669"
-        ],
-        "fsio": 1536.41
     },
     {
         "pid": "5865155",
@@ -7598,7 +7599,7 @@
     },
     {
         "pid": "7333023",
-        "name": "Crossblast",
+        "name": "Búbblés",
         "pclass": "hunter",
         "spec": null,
         "bruns": [
@@ -7950,7 +7951,7 @@
     },
     {
         "pid": "8790209",
-        "name": "Cynarlul",
+        "name": "Okzôomer",
         "pclass": "noclass",
         "spec": null,
         "bruns": [
@@ -8191,7 +8192,7 @@
     },
     {
         "pid": "7039628",
-        "name": "Хочудамажить",
+        "name": "Григорийлейс",
         "pclass": "noclass",
         "spec": null,
         "bruns": [
@@ -8793,7 +8794,7 @@
     },
     {
         "pid": "5570338",
-        "name": "Megatrønx",
+        "name": "Màdárá",
         "pclass": "warrior",
         "spec": null,
         "bruns": [
@@ -10176,7 +10177,7 @@
     },
     {
         "pid": "8004997",
-        "name": "Infinitycono",
+        "name": "Unluckywizar",
         "pclass": "mage",
         "spec": null,
         "bruns": [
@@ -10462,7 +10463,7 @@
     },
     {
         "pid": "7797333",
-        "name": "Bëlmont",
+        "name": "Blãdë",
         "pclass": "hunter",
         "spec": null,
         "bruns": [
@@ -10887,7 +10888,7 @@
     },
     {
         "pid": "8256831",
-        "name": "Zêrôt",
+        "name": "Farâhm",
         "pclass": "paladin",
         "spec": null,
         "bruns": [
@@ -11140,7 +11141,7 @@
     },
     {
         "pid": "8705320",
-        "name": "七尺大乳",
+        "name": "风雅如歌",
         "pclass": "paladin",
         "spec": null,
         "bruns": [
@@ -11904,7 +11905,7 @@
     },
     {
         "pid": "5343938",
-        "name": "Bãnn",
+        "name": "Timoned",
         "pclass": "paladin",
         "spec": null,
         "bruns": [
@@ -12165,7 +12166,7 @@
     },
     {
         "pid": "4977029",
-        "name": "Сестренкалед",
+        "name": "Violetzxc",
         "pclass": "deathknight",
         "spec": null,
         "bruns": [
@@ -13066,7 +13067,7 @@
     },
     {
         "pid": "6284265",
-        "name": "Hoppinxd",
+        "name": "Hoppín",
         "pclass": "monk",
         "spec": null,
         "bruns": [
@@ -13093,7 +13094,7 @@
     },
     {
         "pid": "5558189",
-        "name": "Gpøwerr",
+        "name": "Berengierx",
         "pclass": "hunter",
         "spec": null,
         "bruns": [
@@ -13133,7 +13134,7 @@
     },
     {
         "pid": "5067585",
-        "name": "Darkpipou",
+        "name": "Katà",
         "pclass": "noclass",
         "spec": null,
         "bruns": [
@@ -13619,7 +13620,7 @@
     },
     {
         "pid": "2720680",
-        "name": "Btaurent",
+        "name": "Torossan",
         "pclass": "shaman",
         "spec": null,
         "bruns": [
@@ -14153,7 +14154,7 @@
     },
     {
         "pid": "6130227",
-        "name": "Nzthot",
+        "name": "Pokahonontas",
         "pclass": "noclass",
         "spec": null,
         "bruns": [
@@ -14270,7 +14271,7 @@
     },
     {
         "pid": "7395905",
-        "name": "Wynipoohh",
+        "name": "Magordoh",
         "pclass": "mage",
         "spec": null,
         "bruns": [
@@ -17281,7 +17282,7 @@
     },
     {
         "pid": "5232819",
-        "name": "Brewking",
+        "name": "Rommán",
         "pclass": "monk",
         "spec": null,
         "bruns": [
@@ -17737,7 +17738,7 @@
     },
     {
         "pid": "4989563",
-        "name": "Killstátion",
+        "name": "Blvckheart",
         "pclass": "noclass",
         "spec": null,
         "bruns": [
@@ -18192,7 +18193,7 @@
     },
     {
         "pid": "4699509",
-        "name": "Bpanther",
+        "name": "Rethnapb",
         "pclass": "hunter",
         "spec": null,
         "bruns": [
@@ -18650,7 +18651,7 @@
     },
     {
         "pid": "8008231",
-        "name": "Lizachka",
+        "name": "Dainton",
         "pclass": "demonhunter",
         "spec": null,
         "bruns": [
@@ -19786,7 +19787,7 @@
     },
     {
         "pid": "7627916",
-        "name": "Exxorcizado",
+        "name": "Henrycavïll",
         "pclass": "demonhunter",
         "spec": null,
         "bruns": [
@@ -19957,7 +19958,7 @@
     },
     {
         "pid": "7021400",
-        "name": "Zeúl",
+        "name": "Zéu",
         "pclass": "warrior",
         "spec": null,
         "bruns": [
@@ -20345,7 +20346,7 @@
     },
     {
         "pid": "7855706",
-        "name": "Fubarlus",
+        "name": "Storqq",
         "pclass": "hunter",
         "spec": null,
         "bruns": [
@@ -21030,7 +21031,7 @@
     },
     {
         "pid": "5264615",
-        "name": "Воительница",
+        "name": "Teñshì",
         "pclass": "warrior",
         "spec": null,
         "bruns": [
@@ -21323,7 +21324,7 @@
     },
     {
         "pid": "6135949",
-        "name": "Tunelmuwu",
+        "name": "Talnomuh",
         "pclass": "warrior",
         "spec": null,
         "bruns": [
@@ -22070,7 +22071,7 @@
     },
     {
         "pid": "6493872",
-        "name": "Topheall",
+        "name": "Happyêndings",
         "pclass": "noclass",
         "spec": null,
         "bruns": [
@@ -22277,7 +22278,7 @@
     },
     {
         "pid": "7468584",
-        "name": "Пивоо",
+        "name": "Rãvén",
         "pclass": "noclass",
         "spec": null,
         "bruns": [
@@ -22444,7 +22445,7 @@
     },
     {
         "pid": "2585502",
-        "name": "Directorz",
+        "name": "Suntßeat",
         "pclass": "paladin",
         "spec": null,
         "bruns": [
@@ -24445,7 +24446,7 @@
     },
     {
         "pid": "8771916",
-        "name": "Mijaél",
+        "name": "Krlitaxs",
         "pclass": "noclass",
         "spec": null,
         "bruns": [
@@ -24730,7 +24731,7 @@
     },
     {
         "pid": "8594911",
-        "name": "Sambumbe",
+        "name": "Froostwolf",
         "pclass": "noclass",
         "spec": null,
         "bruns": [
@@ -25402,7 +25403,7 @@
     },
     {
         "pid": "6464749",
-        "name": "Sádoke",
+        "name": "Cónstantíne",
         "pclass": "noclass",
         "spec": null,
         "bruns": [
@@ -25471,7 +25472,7 @@
     },
     {
         "pid": "4319079",
-        "name": "Spectobubble",
+        "name": "Nerfmyhand",
         "pclass": "noclass",
         "spec": null,
         "bruns": [
@@ -27249,12 +27250,23 @@
     },
     {
         "pid": "1215876",
-        "name": "Druggs",
+        "name": "Lolapuñales",
         "pclass": "rogue",
         "spec": null,
         "bruns": [
             "2492116315708776806050",
             "2471916320123038685756"
+        ],
+        "fsio": 431.02
+    },
+    {
+        "pid": "2070992",
+        "name": "Nuße",
+        "pclass": "hunter",
+        "spec": null,
+        "bruns": [
+            "249211632012615168791",
+            "2471916320988526196669"
         ],
         "fsio": 431.02
     },
@@ -28850,7 +28862,7 @@
     },
     {
         "pid": "1655858",
-        "name": "Trumblz",
+        "name": "Enrrage",
         "pclass": "noclass",
         "spec": null,
         "bruns": [
@@ -30384,7 +30396,7 @@
     },
     {
         "pid": "8407186",
-        "name": "Нб",
+        "name": "Тосфа",
         "pclass": "noclass",
         "spec": null,
         "bruns": [
@@ -31456,7 +31468,7 @@
     },
     {
         "pid": "7429676",
-        "name": "Вавулл",
+        "name": "Нордин",
         "pclass": "warrior",
         "spec": null,
         "bruns": [
@@ -34446,7 +34458,7 @@
     },
     {
         "pid": "6917938",
-        "name": "Omgawar",
+        "name": "Vèxt",
         "pclass": "noclass",
         "spec": null,
         "bruns": [
@@ -35898,7 +35910,7 @@
     },
     {
         "pid": "6050933",
-        "name": "Violettu",
+        "name": "Mouhoun",
         "pclass": "hunter",
         "spec": null,
         "bruns": [
@@ -38033,7 +38045,7 @@
     },
     {
         "pid": "6902117",
-        "name": "Spêêd",
+        "name": "Mesomorfa",
         "pclass": "noclass",
         "spec": null,
         "bruns": [
@@ -40234,16 +40246,6 @@
         "spec": null,
         "bruns": [
             "2452116319261827845818"
-        ],
-        "fsio": 236.01
-    },
-    {
-        "pid": "2070992",
-        "name": "Nuße",
-        "pclass": "hunter",
-        "spec": null,
-        "bruns": [
-            "249211632012615168791"
         ],
         "fsio": 236.01
     },
@@ -45893,6 +45895,16 @@
         "spec": null,
         "bruns": [
             "2521916320123798621472"
+        ],
+        "fsio": 195.01
+    },
+    {
+        "pid": "7956257",
+        "name": "Kpasadudu",
+        "pclass": "druid",
+        "spec": null,
+        "bruns": [
+            "2471916320988526196669"
         ],
         "fsio": 195.01
     },
