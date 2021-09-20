@@ -128266,5 +128266,40 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "353221632098625844457",
+        "pids": [
+            "844457",
+            "7819236",
+            "6238642",
+            "6514145",
+            "7753494"
+        ],
+        "pnames": [
+            "Héntaigírl",
+            "Dylaayy",
+            "Nepabm",
+            "Spezz",
+            "Tomases"
+        ],
+        "dung": 353,
+        "lvl": 22,
+        "time": 2625,
+        "score": 259.01,
+        "timestamp": 1632144365,
+        "pclasses": [
+            "monk",
+            "monk",
+            "hunter",
+            "warrior",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
