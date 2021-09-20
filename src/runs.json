@@ -74288,6 +74288,35 @@
         ]
     },
     {
+        "rid": "2522016320994628013149",
+        "pids": [
+            "8013149",
+            "6068915",
+            "3151270",
+            "7008527",
+            "7753494"
+        ],
+        "pnames": [
+            "Swagee",
+            "Wönder",
+            "Sebasdb",
+            "Trothar",
+            "Tomases"
+        ],
+        "dung": 252,
+        "lvl": 20,
+        "time": 3462,
+        "score": 214.01,
+        "timestamp": 1632126169,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "warlock",
+            "hunter",
+            "demonhunter"
+        ]
+    },
+    {
         "rid": "2522116301868023457278",
         "pids": [
             "3457278",
