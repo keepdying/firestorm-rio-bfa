@@ -128511,5 +128511,75 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2442116320979827686956",
+        "pids": [
+            "7686956",
+            "3411291",
+            "7309845",
+            "7619802",
+            "8311520"
+        ],
+        "pnames": [
+            "Tibasqt",
+            "Ðarkstronger",
+            "Uramesh",
+            "Äshess",
+            "Queirooz"
+        ],
+        "dung": 244,
+        "lvl": 21,
+        "time": 1982,
+        "score": 236.01,
+        "timestamp": 1632148379,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2472116320977828529074",
+        "pids": [
+            "8529074",
+            "5038512",
+            "123385",
+            "7709956",
+            "7979082"
+        ],
+        "pnames": [
+            "Raknademon",
+            "Yulissá",
+            "Oszman",
+            "Jokuu",
+            "Caitwa"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 1782,
+        "score": 291.92,
+        "timestamp": 1632149591,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "hunter",
+            "warrior",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
