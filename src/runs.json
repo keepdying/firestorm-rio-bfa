@@ -128301,5 +128301,75 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "370201632098759709243",
+        "pids": [
+            "709243",
+            "7985993",
+            "4056059",
+            "6894521",
+            "8377057"
+        ],
+        "pnames": [
+            "Jiinxx",
+            "Donderojan",
+            "Leìtø",
+            "Skrletjohans",
+            "Lowdpsxd"
+        ],
+        "dung": 370,
+        "lvl": 20,
+        "time": 2759,
+        "score": 214.01,
+        "timestamp": 1632145621,
+        "pclasses": [
+            "deathknight",
+            "paladin",
+            "monk",
+            "demonhunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2442016320979005850069",
+        "pids": [
+            "5850069",
+            "8289483",
+            "2688371",
+            "3440035",
+            "5413172"
+        ],
+        "pnames": [
+            "Imortalwolfy",
+            "Gaymonk",
+            "Sleazzk",
+            "Nunah",
+            "挪移乾坤"
+        ],
+        "dung": 244,
+        "lvl": 20,
+        "time": 1900,
+        "score": 214.01,
+        "timestamp": 1632145694,
+        "pclasses": [
+            "druid",
+            "monk",
+            "warlock",
+            "priest",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
