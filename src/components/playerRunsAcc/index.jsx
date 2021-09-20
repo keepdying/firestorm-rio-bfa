@@ -1,6 +1,6 @@
 import React from "react";
 
-import { idToDungeon, secondsToHMS, playerList } from "../../utils";
+import { idToDungeon, secondsToHMS, timeConverter, timerCalculator, returnAffixText} from "../../utils";
 
 import * as styles from "./styles.module.scss";
 
@@ -29,12 +29,13 @@ const PlayerRunsAcc = ({ playerRun }) => {
         <div className={styles.accordionAltTitle}>
           {/* Score:  */}
            <span>{idToDungeon(playerRun["dung"])}</span>
-           <span>{playerRun["lvl"]}</span>
-           <span>{secondsToHMS(playerRun["time"])}</span>
+           <span>{playerRun["lvl"]}, {secondsToHMS(playerRun["time"])}, {timerCalculator(playerRun["dung"], playerRun["time"])}</span>
+           <span>{returnAffixText(playerRun["affixes"])}</span>
+           <span>Completed on: {timeConverter(playerRun["timestamp"])}</span>
            <span>{playerRun["score"]}pts.</span>
           {/* <div>{isActive ? '-' : '+'}</div> */}
         </div>
-        {playerList(styles,playerRun)}
+        <div className={styles.accordionAltContent}> <div className={`${styles[`color_${playerRun["pclasses"][0]}`]}`}>{playerRun["pnames"][0]}</div>, <div className={`${styles[`color_${playerRun["pclasses"][1]}`]}`}>{playerRun["pnames"][1]}</div>, <div className={`${styles[`color_${playerRun["pclasses"][2]}`]}`}>{playerRun["pnames"][2]}</div>, <div className={`${styles[`color_${playerRun["pclasses"][3]}`]}`}>{playerRun["pnames"][3]}</div>, <div className={`${styles[`color_${playerRun["pclasses"][4]}`]}`}>{playerRun["pnames"][4]}</div></div>
       </div>
     );
 };

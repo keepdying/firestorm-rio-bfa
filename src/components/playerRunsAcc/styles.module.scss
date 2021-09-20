@@ -41,6 +41,8 @@ $text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000
 }
 
 .color_noclass {
+    color:#d3d3d3;
+    text-shadow: $text-shadow;
     display: inline-block;
 }
   

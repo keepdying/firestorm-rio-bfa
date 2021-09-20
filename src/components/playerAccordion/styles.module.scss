@@ -44,7 +44,12 @@ $text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.
     max-height: 95vh;
     overflow-y: scroll;
 }
-  
+ 
+
+.color_noclass {
+    color:#d3d3d3;
+    text-shadow: $text-shadow;
+}
 
 .color_warrior {
     color:#c69b6d;
