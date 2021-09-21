@@ -135050,5 +135050,75 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2472116321855596154129",
+        "pids": [
+            "6154129",
+            "5705477",
+            "517191",
+            "4542509",
+            "7627916"
+        ],
+        "pnames": [
+            "Depressedmek",
+            "Ypokamp",
+            "Ziindaya",
+            "Blurryfacè",
+            "Henrycavïll"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 3159,
+        "score": 236.01,
+        "timestamp": 1632258206,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "mage",
+            "hunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3692416321846115253196",
+        "pids": [
+            "5253196",
+            "1505280",
+            "1366122",
+            "2691331",
+            "6790985"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Drenji",
+            "Vrlakuby",
+            "Lorrion",
+            "Saangomage"
+        ],
+        "dung": 369,
+        "lvl": 24,
+        "time": 2211,
+        "score": 381.15,
+        "timestamp": 1632258011,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "shaman",
+            "paladin",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
