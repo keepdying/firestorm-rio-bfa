@@ -132638,5 +132638,110 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2472116321844487342328",
+        "pids": [
+            "7342328",
+            "7995585",
+            "3462390",
+            "6361123",
+            "8224027"
+        ],
+        "pnames": [
+            "Xháru",
+            "Schuberg",
+            "Pinocho",
+            "Attomica",
+            "Mermëlada"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 2048,
+        "score": 288.62,
+        "timestamp": 1632191683,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "warrior",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2462016321846204480162",
+        "pids": [
+            "4480162",
+            "196303",
+            "2902599",
+            "6783744",
+            "7947262"
+        ],
+        "pnames": [
+            "Mariionetka",
+            "Líghtlord",
+            "Iblacksoull",
+            "Bigliós",
+            "Zanexìa"
+        ],
+        "dung": 246,
+        "lvl": 20,
+        "time": 2220,
+        "score": 214.01,
+        "timestamp": 1632192988,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "demonhunter",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2522016321850327750493",
+        "pids": [
+            "7750493",
+            "5997504",
+            "1112678",
+            "4542509",
+            "4563462"
+        ],
+        "pnames": [
+            "Täly",
+            "Puchiticaa",
+            "Xerióus",
+            "Blurryfacè",
+            "Nyzel"
+        ],
+        "dung": 252,
+        "lvl": 20,
+        "time": 2632,
+        "score": 214.01,
+        "timestamp": 1632193039,
+        "pclasses": [
+            "warrior",
+            "priest",
+            "warlock",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
