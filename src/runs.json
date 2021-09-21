@@ -134245,5 +134245,145 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2452516321842575253196",
+        "pids": [
+            "5253196",
+            "8153236",
+            "2034535",
+            "6162562",
+            "6888836"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Hølyphia",
+            "Magopotabio",
+            "Benjî",
+            "Reysse"
+        ],
+        "dung": 245,
+        "lvl": 25,
+        "time": 1857,
+        "score": 420.55,
+        "timestamp": 1632249097,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "mage",
+            "hunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3532516321847404367156",
+        "pids": [
+            "4367156",
+            "1729343",
+            "4667339",
+            "7272476",
+            "7753494"
+        ],
+        "pnames": [
+            "Nyagumin",
+            "Hanamí",
+            "Runewound",
+            "Bygorôx",
+            "Tomases"
+        ],
+        "dung": 353,
+        "lvl": 25,
+        "time": 2340,
+        "score": 345.01,
+        "timestamp": 1632248359,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "warrior",
+            "mage",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3692216321841652970228",
+        "pids": [
+            "2970228",
+            "4340038",
+            "6079010",
+            "6359200",
+            "8591705"
+        ],
+        "pnames": [
+            "Kotwix",
+            "Holyme",
+            "Kaìser",
+            "Byos",
+            "Potatomastaa"
+        ],
+        "dung": 369,
+        "lvl": 22,
+        "time": 1765,
+        "score": 321.0,
+        "timestamp": 1632249109,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "warrior",
+            "hunter",
+            "warlock"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3701916321840204480162",
+        "pids": [
+            "4480162",
+            "6745621",
+            "2902599",
+            "5969587",
+            "7393808"
+        ],
+        "pnames": [
+            "Mariionetka",
+            "Артурчик",
+            "Iblacksoull",
+            "Mesavina",
+            "Warlockdup"
+        ],
+        "dung": 370,
+        "lvl": 19,
+        "time": 1620,
+        "score": 239.59,
+        "timestamp": 1632249507,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "demonhunter",
+            "warrior",
+            "warlock"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
