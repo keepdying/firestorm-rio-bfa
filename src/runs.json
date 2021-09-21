@@ -133513,5 +133513,75 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2472216321872296118254",
+        "pids": [
+            "6118254",
+            "7816164",
+            "4443143",
+            "5164337",
+            "7362160"
+        ],
+        "pnames": [
+            "Рл",
+            "Yulkha",
+            "Rámaladni",
+            "Iriot",
+            "Хъюстан"
+        ],
+        "dung": 247,
+        "lvl": 22,
+        "time": 4829,
+        "score": 259.01,
+        "timestamp": 1632233499,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "warrior",
+            "priest",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3702316321844457749030",
+        "pids": [
+            "7749030",
+            "6543920",
+            "1298432",
+            "3919606",
+            "6933707"
+        ],
+        "pnames": [
+            "Tomoboarr",
+            "Deadkó",
+            "Dax",
+            "Jøhnygød",
+            "Nevtrende"
+        ],
+        "dung": 370,
+        "lvl": 23,
+        "time": 2045,
+        "score": 285.01,
+        "timestamp": 1632234087,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "warrior",
+            "warrior",
+            "priest"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
