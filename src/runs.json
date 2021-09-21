@@ -133163,5 +133163,40 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2442116321845467682258",
+        "pids": [
+            "7682258",
+            "7769936",
+            "3656309",
+            "7695264",
+            "8688213"
+        ],
+        "pnames": [
+            "Brahar",
+            "Pooxa",
+            "Proctodh",
+            "Mankoide",
+            "Bolivianø"
+        ],
+        "dung": 244,
+        "lvl": 21,
+        "time": 2146,
+        "score": 236.01,
+        "timestamp": 1632209174,
+        "pclasses": [
+            "druid",
+            "monk",
+            "demonhunter",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
