@@ -132498,5 +132498,75 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2492016321861488686536",
+        "pids": [
+            "8686536",
+            "7143550",
+            "364390",
+            "8164585",
+            "8593510"
+        ],
+        "pnames": [
+            "Megganfox",
+            "Aerýs",
+            "Zangmoth",
+            "Lègolás",
+            "Trà"
+        ],
+        "dung": 249,
+        "lvl": 20,
+        "time": 3748,
+        "score": 214.01,
+        "timestamp": 1632187989,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "paladin",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2462616321847054295573",
+        "pids": [
+            "4295573",
+            "5168566",
+            "2034535",
+            "3183258",
+            "7651567"
+        ],
+        "pnames": [
+            "Kelpacino",
+            "Towsinow",
+            "Magopotabio",
+            "Kenso",
+            "Campw"
+        ],
+        "dung": 246,
+        "lvl": 26,
+        "time": 2305,
+        "score": 380.01,
+        "timestamp": 1632190796,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "mage",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
