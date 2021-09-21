@@ -133828,5 +133828,40 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "251201632184484235749",
+        "pids": [
+            "235749",
+            "4996286",
+            "128124",
+            "5156316",
+            "7273053"
+        ],
+        "pnames": [
+            "Martinez",
+            "Miâu",
+            "Mâfî",
+            "Xérwo",
+            "Cyoulater"
+        ],
+        "dung": 251,
+        "lvl": 20,
+        "time": 2084,
+        "score": 214.01,
+        "timestamp": 1632244358,
+        "pclasses": [
+            "druid",
+            "druid",
+            "demonhunter",
+            "warlock",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
