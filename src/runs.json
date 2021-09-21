@@ -133198,5 +133198,110 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2472116321857906989476",
+        "pids": [
+            "6989476",
+            "196303",
+            "5271707",
+            "8084741",
+            "8541745"
+        ],
+        "pnames": [
+            "Nede",
+            "Líghtlord",
+            "Zêt",
+            "Krèxt",
+            "Zkypala"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 3390,
+        "score": 236.01,
+        "timestamp": 1632219089,
+        "pclasses": [
+            "demonhunter",
+            "priest",
+            "mage",
+            "warrior",
+            "paladin"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2491816321845256235748",
+        "pids": [
+            "6235748",
+            "3396182",
+            "371231",
+            "8287130",
+            "8346305"
+        ],
+        "pnames": [
+            "Cazzowarr",
+            "Helendyl",
+            "Xirøqt",
+            "Thebuttcher",
+            "Kári"
+        ],
+        "dung": 249,
+        "lvl": 18,
+        "time": 2125,
+        "score": 217.45,
+        "timestamp": 1632220465,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "warrior",
+            "priest"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3701916321843794403824",
+        "pids": [
+            "4403824",
+            "7816164",
+            "4443143",
+            "5083283",
+            "5814738"
+        ],
+        "pnames": [
+            "Êscãnør",
+            "Yulkha",
+            "Rámaladni",
+            "Sunadokei",
+            "Bisforever"
+        ],
+        "dung": 370,
+        "lvl": 19,
+        "time": 1979,
+        "score": 195.01,
+        "timestamp": 1632220729,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "warrior",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
