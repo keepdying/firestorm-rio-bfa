@@ -134665,5 +134665,145 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2452116321841813791348",
+        "pids": [
+            "3791348",
+            "6614110",
+            "3108464",
+            "5969587",
+            "7810648"
+        ],
+        "pnames": [
+            "Aabrakadabra",
+            "Suiivin",
+            "Majge",
+            "Mesavina",
+            "Sfennêrya"
+        ],
+        "dung": 245,
+        "lvl": 21,
+        "time": 1781,
+        "score": 287.91,
+        "timestamp": 1632252618,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "mage",
+            "warrior",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3532116321853947985812",
+        "pids": [
+            "7985812",
+            "7678345",
+            "6587609",
+            "6949932",
+            "8192453"
+        ],
+        "pnames": [
+            "Naomhi",
+            "Egmios",
+            "Ultraescur",
+            "Blöm",
+            "Clhøë"
+        ],
+        "dung": 353,
+        "lvl": 21,
+        "time": 2994,
+        "score": 236.01,
+        "timestamp": 1632253935,
+        "pclasses": [
+            "druid",
+            "druid",
+            "hunter",
+            "priest",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3532016321866007845847",
+        "pids": [
+            "7845847",
+            "8658608",
+            "3996346",
+            "6015710",
+            "7942952"
+        ],
+        "pnames": [
+            "Thilladore",
+            "Faulenzerin",
+            "Ifritl",
+            "Thayerpro",
+            "Бабаягаа"
+        ],
+        "dung": 353,
+        "lvl": 20,
+        "time": 4200,
+        "score": 214.01,
+        "timestamp": 1632253128,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "demonhunter",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3692116321841325319158",
+        "pids": [
+            "5319158",
+            "5168566",
+            "866729",
+            "6388040",
+            "7596273"
+        ],
+        "pnames": [
+            "Gremó",
+            "Towsinow",
+            "Thecouxer",
+            "Jøsetpm",
+            "Zeroalfa"
+        ],
+        "dung": 369,
+        "lvl": 21,
+        "time": 1732,
+        "score": 291.97,
+        "timestamp": 1632252451,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "demonhunter",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
