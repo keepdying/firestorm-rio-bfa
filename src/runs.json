@@ -133023,5 +133023,40 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2522016321848317682258",
+        "pids": [
+            "7682258",
+            "4861430",
+            "3689677",
+            "7695264",
+            "8688213"
+        ],
+        "pnames": [
+            "Brahar",
+            "Holyxá",
+            "Elproctologo",
+            "Mankoide",
+            "Bolivianø"
+        ],
+        "dung": 252,
+        "lvl": 20,
+        "time": 2431,
+        "score": 259.92,
+        "timestamp": 1632206219,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "warrior",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
