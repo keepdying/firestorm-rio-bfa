@@ -133128,5 +133128,40 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2472116321850317985812",
+        "pids": [
+            "7985812",
+            "6542801",
+            "5855873",
+            "6085181",
+            "8272322"
+        ],
+        "pnames": [
+            "Naomhi",
+            "Janoah",
+            "Chiicheñol",
+            "Nadroks",
+            "Heserwar"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 2631,
+        "score": 236.01,
+        "timestamp": 1632207678,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "mage",
+            "rogue",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
