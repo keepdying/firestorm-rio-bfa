@@ -29987,6 +29987,39 @@
         "fsio": 391.02
     },
     {
+        "pid": "2897055",
+        "name": "Cordobës",
+        "pclass": "deathknight",
+        "spec": null,
+        "bruns": [
+            "2522016301870242897055",
+            "3701816321848292897055"
+        ],
+        "fsio": 391.02
+    },
+    {
+        "pid": "2866506",
+        "name": "Visënya",
+        "pclass": "druid",
+        "spec": null,
+        "bruns": [
+            "2522016301870242897055",
+            "3701816321848292897055"
+        ],
+        "fsio": 391.02
+    },
+    {
+        "pid": "2562817",
+        "name": "Süb",
+        "pclass": "paladin",
+        "spec": null,
+        "bruns": [
+            "2522016301870242897055",
+            "3701816321848292897055"
+        ],
+        "fsio": 391.02
+    },
+    {
         "pid": "6349662",
         "name": "Tríánna",
         "pclass": "noclass",
@@ -42198,36 +42231,6 @@
         "fsio": 214.01
     },
     {
-        "pid": "2897055",
-        "name": "Cordobës",
-        "pclass": "noclass",
-        "spec": null,
-        "bruns": [
-            "2522016301870242897055"
-        ],
-        "fsio": 214.01
-    },
-    {
-        "pid": "2866506",
-        "name": "Visënya",
-        "pclass": "noclass",
-        "spec": null,
-        "bruns": [
-            "2522016301870242897055"
-        ],
-        "fsio": 214.01
-    },
-    {
-        "pid": "2562817",
-        "name": "Süb",
-        "pclass": "noclass",
-        "spec": null,
-        "bruns": [
-            "2522016301870242897055"
-        ],
-        "fsio": 214.01
-    },
-    {
         "pid": "3386923",
         "name": "Profanawaifu",
         "pclass": "noclass",
@@ -50422,6 +50425,26 @@
         "spec": null,
         "bruns": [
             "2461816320986228541745"
+        ],
+        "fsio": 177.01
+    },
+    {
+        "pid": "3689199",
+        "name": "Helsemage",
+        "pclass": "mage",
+        "spec": null,
+        "bruns": [
+            "3701816321848292897055"
+        ],
+        "fsio": 177.01
+    },
+    {
+        "pid": "6228748",
+        "name": "Cordobësa",
+        "pclass": "deathknight",
+        "spec": null,
+        "bruns": [
+            "3701816321848292897055"
         ],
         "fsio": 177.01
     },

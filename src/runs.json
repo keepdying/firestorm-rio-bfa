@@ -132743,5 +132743,40 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "3701816321848292897055",
+        "pids": [
+            "2897055",
+            "2866506",
+            "2562817",
+            "3689199",
+            "6228748"
+        ],
+        "pnames": [
+            "Cordobës",
+            "Visënya",
+            "Süb",
+            "Helsemage",
+            "Cordobësa"
+        ],
+        "dung": 370,
+        "lvl": 18,
+        "time": 2429,
+        "score": 177.01,
+        "timestamp": 1632193826,
+        "pclasses": [
+            "deathknight",
+            "druid",
+            "paladin",
+            "mage",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
