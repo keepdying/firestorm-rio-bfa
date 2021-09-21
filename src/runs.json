@@ -133618,5 +133618,40 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2462416321843994295573",
+        "pids": [
+            "4295573",
+            "306391",
+            "3919606",
+            "7568931",
+            "7651567"
+        ],
+        "pnames": [
+            "Kelpacino",
+            "Masoscrivere",
+            "Jøhnygød",
+            "Watafaki",
+            "Campw"
+        ],
+        "dung": 246,
+        "lvl": 24,
+        "time": 1999,
+        "score": 382.83,
+        "timestamp": 1632238499,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "warrior",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
