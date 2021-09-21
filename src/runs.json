@@ -133478,5 +133478,40 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2452216321842057749030",
+        "pids": [
+            "7749030",
+            "6543920",
+            "1298432",
+            "3919606",
+            "6933707"
+        ],
+        "pnames": [
+            "Tomoboarr",
+            "Deadkó",
+            "Dax",
+            "Jøhnygød",
+            "Nevtrende"
+        ],
+        "dung": 245,
+        "lvl": 22,
+        "time": 1805,
+        "score": 316.74,
+        "timestamp": 1632231621,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "warrior",
+            "warrior",
+            "priest"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
