@@ -133058,5 +133058,75 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2462016321853676128552",
+        "pids": [
+            "6128552",
+            "1450392",
+            "28595",
+            "2913118",
+            "7944446"
+        ],
+        "pnames": [
+            "Kelplin",
+            "Sttyxx",
+            "Itunes",
+            "Spectrat",
+            "Danzr"
+        ],
+        "dung": 246,
+        "lvl": 20,
+        "time": 2967,
+        "score": 214.01,
+        "timestamp": 1632206973,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "paladin",
+            "warrior",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2522216321851535168566",
+        "pids": [
+            "5168566",
+            "6245880",
+            "2506381",
+            "7478714",
+            "7651567"
+        ],
+        "pnames": [
+            "Towsinow",
+            "Pomax",
+            "Edmé",
+            "Castervill",
+            "Campw"
+        ],
+        "dung": 252,
+        "lvl": 22,
+        "time": 2753,
+        "score": 259.01,
+        "timestamp": 1632207142,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "paladin",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
