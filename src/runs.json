@@ -133653,5 +133653,180 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2452116321841524667339",
+        "pids": [
+            "4667339",
+            "8142058",
+            "6235748",
+            "6240990",
+            "7962300"
+        ],
+        "pnames": [
+            "Runewound",
+            "Larué",
+            "Cazzowarr",
+            "Cazzomago",
+            "Getdripped"
+        ],
+        "dung": 245,
+        "lvl": 21,
+        "time": 1752,
+        "score": 288.34,
+        "timestamp": 1632240580,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warrior",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2452116321850941257518",
+        "pids": [
+            "1257518",
+            "5870092",
+            "5857108",
+            "6047210",
+            "8621472"
+        ],
+        "pnames": [
+            "Sképtik",
+            "Коала",
+            "Перунья",
+            "Bësya",
+            "Klsit"
+        ],
+        "dung": 245,
+        "lvl": 21,
+        "time": 2694,
+        "score": 236.01,
+        "timestamp": 1632240588,
+        "pclasses": [
+            "druid",
+            "druid",
+            "mage",
+            "shaman",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2491916321877401905736",
+        "pids": [
+            "1905736",
+            "6152178",
+            "1276926",
+            "5169420",
+            "6222734"
+        ],
+        "pnames": [
+            "Caxocarne",
+            "Aiysha",
+            "Kalinkov",
+            "Mägykä",
+            "Sarkderojan"
+        ],
+        "dung": 249,
+        "lvl": 19,
+        "time": 5340,
+        "score": 195.01,
+        "timestamp": 1632239899,
+        "pclasses": [
+            "druid",
+            "druid",
+            "warrior",
+            "rogue",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2482416321843824295573",
+        "pids": [
+            "4295573",
+            "306391",
+            "3919606",
+            "7568931",
+            "7651567"
+        ],
+        "pnames": [
+            "Kelpacino",
+            "Masoscrivere",
+            "Jøhnygød",
+            "Watafaki",
+            "Campw"
+        ],
+        "dung": 248,
+        "lvl": 24,
+        "time": 1982,
+        "score": 385.81,
+        "timestamp": 1632242291,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "warrior",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2522016321867358705320",
+        "pids": [
+            "8705320",
+            "8292740",
+            "2000066",
+            "7333023",
+            "8233106"
+        ],
+        "pnames": [
+            "风雅如歌",
+            "Jetame",
+            "Xavros",
+            "Búbblés",
+            "小德完全体"
+        ],
+        "dung": 252,
+        "lvl": 20,
+        "time": 4335,
+        "score": 214.01,
+        "timestamp": 1632243286,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "warrior",
+            "hunter",
+            "druid"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
