@@ -133583,5 +133583,40 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2472516321848404367156",
+        "pids": [
+            "4367156",
+            "7859539",
+            "1298432",
+            "6238642",
+            "7948198"
+        ],
+        "pnames": [
+            "Nyagumin",
+            "Methees",
+            "Dax",
+            "Nepabm",
+            "Scorkaa"
+        ],
+        "dung": 247,
+        "lvl": 25,
+        "time": 2440,
+        "score": 345.01,
+        "timestamp": 1632237380,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warrior",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
