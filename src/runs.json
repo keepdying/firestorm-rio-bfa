@@ -132778,5 +132778,40 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2462216321849157342328",
+        "pids": [
+            "7342328",
+            "7995585",
+            "3462390",
+            "6361123",
+            "8224027"
+        ],
+        "pnames": [
+            "Xháru",
+            "Schuberg",
+            "Pinocho",
+            "Attomica",
+            "Mermëlada"
+        ],
+        "dung": 246,
+        "lvl": 22,
+        "time": 2515,
+        "score": 259.01,
+        "timestamp": 1632195530,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "warrior",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
