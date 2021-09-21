@@ -132883,5 +132883,145 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2471916321844186128552",
+        "pids": [
+            "6128552",
+            "1450392",
+            "28595",
+            "2913118",
+            "7944446"
+        ],
+        "pnames": [
+            "Kelplin",
+            "Sttyxx",
+            "Itunes",
+            "Spectrat",
+            "Danzr"
+        ],
+        "dung": 247,
+        "lvl": 19,
+        "time": 2018,
+        "score": 239.16,
+        "timestamp": 1632203797,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "paladin",
+            "warrior",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2442016321837885168566",
+        "pids": [
+            "5168566",
+            "6245880",
+            "2506381",
+            "7478714",
+            "7651567"
+        ],
+        "pnames": [
+            "Towsinow",
+            "Pomax",
+            "Edmé",
+            "Castervill",
+            "Campw"
+        ],
+        "dung": 244,
+        "lvl": 20,
+        "time": 1388,
+        "score": 264.95,
+        "timestamp": 1632203745,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "paladin",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2442016321854088519344",
+        "pids": [
+            "8519344",
+            "3712037",
+            "1649012",
+            "3286991",
+            "6645353"
+        ],
+        "pnames": [
+            "Artëmïsà",
+            "Cublee",
+            "Mirøkú",
+            "Shelaine",
+            "Falconseyes"
+        ],
+        "dung": 244,
+        "lvl": 20,
+        "time": 3008,
+        "score": 214.01,
+        "timestamp": 1632203506,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "warrior",
+            "paladin",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2462216321849437335250",
+        "pids": [
+            "7335250",
+            "7012491",
+            "5855873",
+            "6085181",
+            "8272322"
+        ],
+        "pnames": [
+            "Pakarui",
+            "Poulder",
+            "Chiicheñol",
+            "Nadroks",
+            "Heserwar"
+        ],
+        "dung": 246,
+        "lvl": 22,
+        "time": 2543,
+        "score": 259.01,
+        "timestamp": 1632203331,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "mage",
+            "rogue",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
