@@ -132813,5 +132813,75 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2522116321847695415519",
+        "pids": [
+            "5415519",
+            "5038512",
+            "6707281",
+            "6870644",
+            "8372981"
+        ],
+        "pnames": [
+            "Wêlls",
+            "Yulissá",
+            "Võrg",
+            "Clintty",
+            "Lwym"
+        ],
+        "dung": 252,
+        "lvl": 21,
+        "time": 2369,
+        "score": 286.74,
+        "timestamp": 1632199636,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "deathknight",
+            "hunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3692116321865673450399",
+        "pids": [
+            "3450399",
+            "6701989",
+            "1303743",
+            "6079740",
+            "6245748"
+        ],
+        "pnames": [
+            "Febvre",
+            "Xritor",
+            "Dëvastaciøn",
+            "Shurito",
+            "Xeove"
+        ],
+        "dung": 369,
+        "lvl": 21,
+        "time": 4167,
+        "score": 236.01,
+        "timestamp": 1632196720,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "warrior",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
