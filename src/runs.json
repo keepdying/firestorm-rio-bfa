@@ -134805,5 +134805,145 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2452316321845017651567",
+        "pids": [
+            "7651567",
+            "5168566",
+            "866729",
+            "6388040",
+            "7596273"
+        ],
+        "pnames": [
+            "Campw",
+            "Towsinow",
+            "Thecouxer",
+            "Jøsetpm",
+            "Zeroalfa"
+        ],
+        "dung": 245,
+        "lvl": 23,
+        "time": 2101,
+        "score": 285.01,
+        "timestamp": 1632255233,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "demonhunter",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3532416321843955253196",
+        "pids": [
+            "5253196",
+            "8153236",
+            "1366122",
+            "6162562",
+            "6790985"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Hølyphia",
+            "Vrlakuby",
+            "Benjî",
+            "Saangomage"
+        ],
+        "dung": 353,
+        "lvl": 24,
+        "time": 1995,
+        "score": 382.9,
+        "timestamp": 1632254503,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "shaman",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3532216321844524480162",
+        "pids": [
+            "4480162",
+            "3791348",
+            "2902599",
+            "5969587",
+            "6421745"
+        ],
+        "pnames": [
+            "Mariionetka",
+            "Aabrakadabra",
+            "Iblacksoull",
+            "Mesavina",
+            "Olórum"
+        ],
+        "dung": 353,
+        "lvl": 22,
+        "time": 2052,
+        "score": 315.55,
+        "timestamp": 1632255283,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "demonhunter",
+            "warrior",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2521916321850688075940",
+        "pids": [
+            "8075940",
+            "1222985",
+            "3686710",
+            "5472564",
+            "7837376"
+        ],
+        "pnames": [
+            "Bannanchik",
+            "Northfurion",
+            "Гарп",
+            "Slicéndice",
+            "Аквастоун"
+        ],
+        "dung": 252,
+        "lvl": 19,
+        "time": 2668,
+        "score": 195.01,
+        "timestamp": 1632255319,
+        "pclasses": [
+            "warrior",
+            "priest",
+            "hunter",
+            "rogue",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
