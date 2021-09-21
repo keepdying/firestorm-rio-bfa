@@ -134945,5 +134945,110 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2472116321858971366178",
+        "pids": [
+            "1366178",
+            "2630949",
+            "2383132",
+            "4885986",
+            "6639292"
+        ],
+        "pnames": [
+            "Buckred",
+            "Yessy",
+            "Hayfermen",
+            "Grandemur",
+            "Охотни"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 3497,
+        "score": 236.01,
+        "timestamp": 1632257670,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "warrior",
+            "deathknight",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3532016321849457914770",
+        "pids": [
+            "7914770",
+            "8754591",
+            "563155",
+            "5522895",
+            "8267370"
+        ],
+        "pnames": [
+            "Exoorr",
+            "Omaxydine",
+            "Borogor",
+            "Mísáél",
+            "Хисоки"
+        ],
+        "dung": 353,
+        "lvl": 20,
+        "time": 2545,
+        "score": 214.01,
+        "timestamp": 1632257157,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "deathknight",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3692516321868468529074",
+        "pids": [
+            "8529074",
+            "1729343",
+            "1112678",
+            "6783744",
+            "8372981"
+        ],
+        "pnames": [
+            "Raknademon",
+            "Hanamí",
+            "Xerióus",
+            "Bigliós",
+            "Lwym"
+        ],
+        "dung": 369,
+        "lvl": 25,
+        "time": 4446,
+        "score": 345.01,
+        "timestamp": 1632257334,
+        "pclasses": [
+            "demonhunter",
+            "druid",
+            "warlock",
+            "warrior",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
