@@ -134385,5 +134385,75 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2442016321850007708672",
+        "pids": [
+            "7708672",
+            "1906385",
+            "1314145",
+            "7432408",
+            "8013149"
+        ],
+        "pnames": [
+            "Skibmeshades",
+            "Helolah",
+            "Dkuula",
+            "Esotheric",
+            "Swagee"
+        ],
+        "dung": 244,
+        "lvl": 20,
+        "time": 2600,
+        "score": 214.01,
+        "timestamp": 1632249436,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "deathknight",
+            "demonhunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2461916321846212048300",
+        "pids": [
+            "2048300",
+            "79083",
+            "6349843",
+            "6388040",
+            "7596273"
+        ],
+        "pnames": [
+            "Rudeús",
+            "Lianira",
+            "Búttercúp",
+            "Jøsetpm",
+            "Zeroalfa"
+        ],
+        "dung": 246,
+        "lvl": 19,
+        "time": 2221,
+        "score": 195.01,
+        "timestamp": 1632250007,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "deathknight",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
