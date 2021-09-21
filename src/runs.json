@@ -133863,5 +133863,142 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2492116321849864472062",
+        "pids": [
+            "4472062",
+            "4933700",
+            "5164337",
+            "6525131"
+        ],
+        "pnames": [
+            "Johnpier",
+            "Mayuma",
+            "Iriot",
+            "Ислен"
+        ],
+        "dung": 249,
+        "lvl": 21,
+        "time": 2586,
+        "score": 236.01,
+        "timestamp": 1632245330,
+        "pclasses": [
+            "warrior",
+            "shaman",
+            "priest",
+            "druid"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2462016321845575140431",
+        "pids": [
+            "5140431",
+            "6365103",
+            "4947469",
+            "4955985",
+            "7963795"
+        ],
+        "pnames": [
+            "Juliaoo",
+            "Линеада",
+            "Slypoodle",
+            "Асклепий",
+            "Wìçk"
+        ],
+        "dung": 246,
+        "lvl": 20,
+        "time": 2157,
+        "score": 259.04,
+        "timestamp": 1632245220,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "priest",
+            "priest",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "2512416321840894367156",
+        "pids": [
+            "4367156",
+            "1729343",
+            "4667339",
+            "7272476",
+            "7753494"
+        ],
+        "pnames": [
+            "Nyagumin",
+            "Hanamí",
+            "Runewound",
+            "Bygorôx",
+            "Tomases"
+        ],
+        "dung": 251,
+        "lvl": 24,
+        "time": 1689,
+        "score": 385.58,
+        "timestamp": 1632245212,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "warrior",
+            "mage",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3692516321842284295573",
+        "pids": [
+            "4295573",
+            "306391",
+            "3919606",
+            "7568931",
+            "7651567"
+        ],
+        "pnames": [
+            "Kelpacino",
+            "Masoscrivere",
+            "Jøhnygød",
+            "Watafaki",
+            "Campw"
+        ],
+        "dung": 369,
+        "lvl": 25,
+        "time": 1828,
+        "score": 426.13,
+        "timestamp": 1632245043,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "warrior",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
