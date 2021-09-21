@@ -132568,5 +132568,75 @@
             11,
             4
         ]
+    },
+    {
+        "rid": "2492516321849606104323",
+        "pids": [
+            "6104323",
+            "1729343",
+            "123385",
+            "5253196",
+            "6162562"
+        ],
+        "pnames": [
+            "Avenyyer",
+            "Hanamí",
+            "Oszman",
+            "Digistørm",
+            "Benjî"
+        ],
+        "dung": 249,
+        "lvl": 25,
+        "time": 2560,
+        "score": 345.01,
+        "timestamp": 1632192021,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "hunter",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
+    },
+    {
+        "rid": "3531916321843348686536",
+        "pids": [
+            "8686536",
+            "6083559",
+            "5447336",
+            "8164585",
+            "8593510"
+        ],
+        "pnames": [
+            "Megganfox",
+            "Dælilah",
+            "Érys",
+            "Lègolás",
+            "Trà"
+        ],
+        "dung": 353,
+        "lvl": 19,
+        "time": 1934,
+        "score": 238.41,
+        "timestamp": 1632191943,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "demonhunter",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            9,
+            11,
+            4
+        ]
     }
 ]
