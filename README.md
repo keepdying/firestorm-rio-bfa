@@ -18,14 +18,11 @@ Exact scoring formula is given below:
     
     max_soft_deplete_time = (dungTimers[0] * 2.5)  # assume max soft deplete time is over 250% of timer. 
 
-    soft_deplete_start_score = keylvltoscore[lvl - 1] + 0.01
-    soft_deplete_125 = keylvltoscore[lvl - 2] + 0.01
-    soft_deplete_150 = keylvltoscore[lvl - 2] + 0.01 if (lvl - 3) < 0 else soft_deplete_150 = keylvltoscore[
-                                                                                                            lvl - 3] + 0.01
-    soft_deplete_200 = keylvltoscore[lvl - 2] + 0.01 if (lvl - 4) < 0 else soft_deplete_150 = keylvltoscore[
-                                                                                                            lvl - 4] + 0.01
-    soft_deplete_250 = keylvltoscore[lvl - 2] + 0.01 if (lvl - 5) < 0 else soft_deplete_150 = keylvltoscore[
-                                                                                                            lvl - 5] + 0.01
+    soft_deplete_start_score = (keylvltoscore[lvl - 1] + 0.01)
+    soft_deplete_125 = (keylvltoscore[lvl - 2] + 0.01)
+    soft_deplete_150 = 0.01 if (lvl - 3) < 0 else (keylvltoscore[lvl - 3] + 0.01)
+    soft_deplete_200 = 0.01 if (lvl - 4) < 0 else (keylvltoscore[lvl - 4] + 0.01)
+    soft_deplete_250 = 0.01 if (lvl - 5) < 0 else (keylvltoscore[lvl - 5] + 0.01)
 
     timed_score = keylvltoscore[lvl]
     up_score = keylvltoscore[lvl + 1]
