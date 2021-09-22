@@ -16,7 +16,7 @@ Exact scoring formula is given below:
     dungTimers = [+1 Timer, +2 Timer, +3 Timer]
     keylvltoscore = [...] # taken from raider.io addon
     
-    max_soft_deplete_time = (dungTimers[0] * 2.5)  # assume max soft deplete time is over 250% of timer. 
+    max_soft_deplete_time = (dungTimers[0] * 2.5)  # assume max soft deplete time is 250% of timer. 
 
     soft_deplete_start_score = (keylvltoscore[lvl - 1] + 0.01)
     soft_deplete_125 = (keylvltoscore[lvl - 2] + 0.01)
