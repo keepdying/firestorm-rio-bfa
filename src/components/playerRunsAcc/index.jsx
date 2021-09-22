@@ -24,19 +24,19 @@ const getDungeonImage = (dungeon) => {
 
 const getAffixImage = (affix) => {
   switch(affix) {
-    case 2: return "https://firestorm-servers.com/assets/img/dungeons/dungeon_1763_244.jpg"
-    case 3: return "https://firestorm-servers.com/assets/img/dungeons/dungeon_2097_369.jpg"
+    case 2: return "https://wow.zamimg.com/images/wow/icons/small/spell_magic_lesserinvisibilty.jpg"
+    case 3: return "https://wow.zamimg.com/images/wow/icons/small/spell_shaman_lavasurge.jpg"
     case 4: return "https://wow.zamimg.com/images/wow/icons/small/spell_deathknight_necroticplague.jpg"
-    case 5: return "https://firestorm-servers.com/assets/img/dungeons/dungeon_1877_250.jpg"
-    case 6: return "https://firestorm-servers.com/assets/img/dungeons/dungeon_1862_248.jpg"
-    case 7: return "https://firestorm-servers.com/assets/img/dungeons/dungeon_1822_353.jpg"
-    case 8: return "https://firestorm-servers.com/assets/img/dungeons/dungeon_1841_251.jpg"
+    case 5: return "https://wow.zamimg.com/images/wow/icons/small/spell_nature_massteleport.jpg"
+    case 6: return "https://wow.zamimg.com/images/wow/icons/small/ability_warrior_focusedrage.jpg"
+    case 7: return "https://wow.zamimg.com/images/wow/icons/small/ability_warrior_battleshout.jpg"
+    case 8: return "https://wow.zamimg.com/images/wow/icons/small/spell_shadow_bloodboil.jpg"
     case 9: return "https://wow.zamimg.com/images/wow/icons/small/achievement_boss_archaedas.jpg"
-    case 10: return "https://firestorm-servers.com/assets/img/dungeons/dungeon_2097_370.jpg"
+    case 10: return "https://wow.zamimg.com/images/wow/icons/small/ability_toughness.jpg"
     case 11: return "https://wow.zamimg.com/images/wow/icons/small/ability_ironmaidens_whirlofblood.jpg"
-    case 12: return "https://firestorm-servers.com/assets/img/dungeons/dungeon_1864_252.jpg"
+    case 12: return "https://wow.zamimg.com/images/wow/icons/small/ability_backstab.jpg"
     case 13: return "https://wow.zamimg.com/images/wow/icons/small/spell_fire_felflamering_red.jpg"
-    case 14: return "https://firestorm-servers.com/assets/img/dungeons/dungeon_1762_249.jpg"
+    case 14: return "https://wow.zamimg.com/images/wow/icons/small/spell_nature_earthquake.jpg"
     case 120: return "https://wow.zamimg.com/images/wow/icons/small/trade_archaeology_nerubian_obelisk.jpg"
     default: return null;
   }
