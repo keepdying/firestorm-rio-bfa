@@ -16,20 +16,44 @@ Exact scoring formula is given below:
     dungTimers = [+1 Timer, +2 Timer, +3 Timer]
     keylvltoscore = [...] # taken from raider.io addon
     
-    max_time = dungTimers[0] + 5  # assume max deplete time 5 secs
-    deplete_score = keylvltoscore[dungLevel - 2] + 0.01 # If depleted score goes down to -2
-    timed_score = keylvltoscore[dungLevel]
-    up_score = keylvltoscore[dungLevel + 1] # when timed +2 or +3, score goes up to +1 
-    
-    if timer >= max_time: # if went pepegas
-        return deplete_score
-        
-    elif max_time > timer > dungTimers[0]: # if depleted
-        return (((timer - max_time) / (max_time - dungTimers[0])) * (deplete_score - timed_score)) + deplete_score
-        
-    else: # if timed
-        return ((timer / dungTimers[0]) * (timed_score - up_score)) + up_score
+    max_soft_deplete_time = (dungTimers[0] * 2.5)  # assume max soft deplete time is over 250% of timer. 
+
+    soft_deplete_start_score = keylvltoscore[lvl - 1] + 0.01
+    soft_deplete_125 = keylvltoscore[lvl - 2] + 0.01
+    soft_deplete_150 = keylvltoscore[lvl - 2] + 0.01 if (lvl - 3) < 0 else soft_deplete_150 = keylvltoscore[
+                                                                                                            lvl - 3] + 0.01
+    soft_deplete_200 = keylvltoscore[lvl - 2] + 0.01 if (lvl - 4) < 0 else soft_deplete_150 = keylvltoscore[
+                                                                                                            lvl - 4] + 0.01
+    soft_deplete_250 = keylvltoscore[lvl - 2] + 0.01 if (lvl - 5) < 0 else soft_deplete_150 = keylvltoscore[
+                                                                                                            lvl - 5] + 0.01
+
+    timed_score = keylvltoscore[lvl]
+    up_score = keylvltoscore[lvl + 1]
+
+    if time >= max_soft_deplete_time:  # if went beyond
+        score = soft_deplete_250
+
+    elif (dungTimers[0] * 2.5) > time >= (dungTimers[0] * 2):  # if between (2 - 2.5) * dungtimer
+        score = (((time - (dungTimers[0] * 2.5)) / ((dungTimers[0] * 2.50) - (dungTimers[0] * 2))) * (
+                soft_deplete_250 - soft_deplete_200)) + soft_deplete_250
+
+    elif (dungTimers[0] * 2) > time >= (dungTimers[0] * 1.50):  # if between (1.50 - 2) * dungtimer
+        score = (((time - (dungTimers[0] * 2)) / ((dungTimers[0] * 2) - (dungTimers[0] * 1.50))) * (
+                soft_deplete_200 - soft_deplete_150)) + soft_deplete_200
+
+    elif (dungTimers[0] * 1.50) > time >= (dungTimers[0] * 1.25):  # if between (1.25 - 1.50) * dungtimer
+        score = (((time - (dungTimers[0] * 1.50)) / ((dungTimers[0] * 1.50) - (dungTimers[0] * 1.25))) * (
+                soft_deplete_150 - soft_deplete_125)) + soft_deplete_150
+
+    elif (dungTimers[0] * 1.25) > time > dungTimers[0]:  # if between (1 - 1.25) * dungtimer
+        score = (((time - (dungTimers[0] * 1.25)) / ((dungTimers[0] * 1.25) - dungTimers[0])) * (
+                soft_deplete_125 - soft_deplete_start_score)) + soft_deplete_125
+    else:
+        score = ((time / dungTimers[0]) * (timed_score - up_score)) + up_score
+
+    return = round(score, 2)
 ```
+
 This should give similar scores like in raider.io BfA Season 4.
 
 ### Some of my runs are missing?
