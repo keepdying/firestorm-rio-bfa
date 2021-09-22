@@ -147955,5 +147955,145 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "3531416322999298872698",
+        "pids": [
+            "8872698",
+            "4978690",
+            "270277",
+            "8712935",
+            "8758622"
+        ],
+        "pnames": [
+            "Kudot",
+            "Лицемерная",
+            "Sänkyou",
+            "Orctopuss",
+            "Dvsek"
+        ],
+        "dung": 353,
+        "lvl": 14,
+        "time": 3354,
+        "score": 108.95,
+        "timestamp": 1632299929,
+        "pclasses": [
+            "druid",
+            "priest",
+            "mage",
+            "hunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2501916323008578310424",
+        "pids": [
+            "8310424",
+            "8030893",
+            "62742",
+            "6503097",
+            "6949932"
+        ],
+        "pnames": [
+            "Yóss",
+            "Héydy",
+            "Jadicator",
+            "Milue",
+            "Blöm"
+        ],
+        "dung": 250,
+        "lvl": 19,
+        "time": 1956,
+        "score": 238.17,
+        "timestamp": 1632300857,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "deathknight",
+            "hunter",
+            "priest"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3691816323002306196669",
+        "pids": [
+            "6196669",
+            "2020496",
+            "2932117",
+            "8084741",
+            "8271948"
+        ],
+        "pnames": [
+            "Blurrysad",
+            "Eôn",
+            "Dkant",
+            "Krèxt",
+            "Coléts"
+        ],
+        "dung": 369,
+        "lvl": 18,
+        "time": 1624,
+        "score": 220.33,
+        "timestamp": 1632300230,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "deathknight",
+            "warrior",
+            "rogue"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3691816323008377468584",
+        "pids": [
+            "7468584",
+            "8216291",
+            "7328531",
+            "8172784",
+            "8644857"
+        ],
+        "pnames": [
+            "Rãvén",
+            "Gyfi",
+            "Abhunter",
+            "Кубикльда",
+            "Shelber"
+        ],
+        "dung": 369,
+        "lvl": 18,
+        "time": 2250,
+        "score": 214.29,
+        "timestamp": 1632300837,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "hunter",
+            "deathknight",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
