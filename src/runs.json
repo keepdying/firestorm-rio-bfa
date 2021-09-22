@@ -150419,5 +150419,320 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2470816323096438849364",
+        "pids": [
+            "8849364",
+            "8424154",
+            "7981877",
+            "8407743",
+            "8549419"
+        ],
+        "pnames": [
+            "Chyrone",
+            "Макима",
+            "Toradru",
+            "Напильник",
+            "Maldaraxxus"
+        ],
+        "dung": 247,
+        "lvl": 8,
+        "time": 2331,
+        "score": 80.04,
+        "timestamp": 1632309643,
+        "pclasses": [
+            "deathknight",
+            "priest",
+            "warrior",
+            "monk",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2451916323094366128552",
+        "pids": [
+            "6128552",
+            "7656279",
+            "1099733",
+            "5182355",
+            "6408404"
+        ],
+        "pnames": [
+            "Kelplin",
+            "Gtä",
+            "Zigxie",
+            "Узс",
+            "Pandanick"
+        ],
+        "dung": 245,
+        "lvl": 19,
+        "time": 1428,
+        "score": 242.41,
+        "timestamp": 1632309436,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "monk",
+            "paladin"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2461616323093307886890",
+        "pids": [
+            "7886890",
+            "8723325",
+            "2730297",
+            "5797362",
+            "6706683"
+        ],
+        "pnames": [
+            "Upheavalwar",
+            "Palgorr",
+            "Krenn",
+            "Rûsty",
+            "Jordangirl"
+        ],
+        "dung": 246,
+        "lvl": 16,
+        "time": 2462,
+        "score": 152.62,
+        "timestamp": 1632309330,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "demonhunter",
+            "druid",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3532016323090516118254",
+        "pids": [
+            "6118254",
+            "7468584",
+            "4928670",
+            "7548098",
+            "8267370"
+        ],
+        "pnames": [
+            "Рл",
+            "Rãvén",
+            "Волкочел",
+            "Tsink",
+            "Хисоки"
+        ],
+        "dung": 353,
+        "lvl": 20,
+        "time": 2957,
+        "score": 204.97,
+        "timestamp": 1632309051,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "deathknight",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2482116323098827361549",
+        "pids": [
+            "7361549",
+            "8153236",
+            "1298432",
+            "1437206",
+            "2034535"
+        ],
+        "pnames": [
+            "Zuhal",
+            "Hølyphia",
+            "Dax",
+            "Mileta",
+            "Magopotabio"
+        ],
+        "dung": 248,
+        "lvl": 21,
+        "time": 1201,
+        "score": 299.12,
+        "timestamp": 1632309882,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "warrior",
+            "warlock",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2480916323088266111410",
+        "pids": [
+            "6111410",
+            "6095330",
+            "2815914",
+            "4295400",
+            "8841491"
+        ],
+        "pnames": [
+            "Burhanirlee",
+            "Пухлящ",
+            "Tramzer",
+            "Иезавель",
+            "Bielzelol"
+        ],
+        "dung": 248,
+        "lvl": 9,
+        "time": 1627,
+        "score": 93.05,
+        "timestamp": 1632308826,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "warrior",
+            "hunter",
+            "monk"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2521516323089146323954",
+        "pids": [
+            "6323954",
+            "1651719",
+            "7969323",
+            "8473606",
+            "8689446"
+        ],
+        "pnames": [
+            "Raawrxd",
+            "Mcbarett",
+            "Outerspass",
+            "Tvgladikeyo",
+            "Kskipman"
+        ],
+        "dung": 252,
+        "lvl": 15,
+        "time": 2126,
+        "score": 163.5,
+        "timestamp": 1632308914,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "deathknight",
+            "hunter",
+            "monk"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2501816323094307780981",
+        "pids": [
+            "7780981",
+            "2188647",
+            "644167",
+            "7961023",
+            "8169277"
+        ],
+        "pnames": [
+            "Soulkiiper",
+            "Koàla",
+            "Ishîda",
+            "Killcommands",
+            "Japunch"
+        ],
+        "dung": 250,
+        "lvl": 18,
+        "time": 1894,
+        "score": 216.71,
+        "timestamp": 1632309430,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "hunter",
+            "hunter",
+            "monk"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2500616323095304802421",
+        "pids": [
+            "4802421",
+            "1093638",
+            "5850069",
+            "7384493",
+            "8875473"
+        ],
+        "pnames": [
+            "Holyaura",
+            "Nirog",
+            "Imortalwolfy",
+            "Devilalisaa",
+            "Hiwatary"
+        ],
+        "dung": 250,
+        "lvl": 6,
+        "time": 1103,
+        "score": 64.89,
+        "timestamp": 1632309530,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "druid",
+            "warlock",
+            "priest"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
