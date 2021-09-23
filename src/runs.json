@@ -177746,5 +177746,110 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2471816323833104403824",
+        "pids": [
+            "4403824",
+            "7468584",
+            "3440035",
+            "5814738",
+            "6427526"
+        ],
+        "pnames": [
+            "Êscãnør",
+            "Rãvén",
+            "Nunah",
+            "Bisforever",
+            "Хорайзон"
+        ],
+        "dung": 247,
+        "lvl": 18,
+        "time": 2354,
+        "score": 194.58,
+        "timestamp": 1632383310,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "priest",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3691816323832784368117",
+        "pids": [
+            "4368117",
+            "7951977",
+            "6894521",
+            "6962304",
+            "8263370"
+        ],
+        "pnames": [
+            "Manhý",
+            "Ìñðcêñtê",
+            "Skrletjohans",
+            "Süpremewarr",
+            "Roxaroxa"
+        ],
+        "dung": 369,
+        "lvl": 18,
+        "time": 1704,
+        "score": 219.56,
+        "timestamp": 1632383278,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "demonhunter",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701416323835488529756",
+        "pids": [
+            "8529756",
+            "6894538",
+            "6635949",
+            "7168207",
+            "8610821"
+        ],
+        "pnames": [
+            "Xlindow",
+            "Rechahqriver",
+            "Abrora",
+            "Танецсмерти",
+            "Маламадрас"
+        ],
+        "dung": 370,
+        "lvl": 14,
+        "time": 1726,
+        "score": 147.52,
+        "timestamp": 1632383548,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "warrior",
+            "hunter",
+            "paladin"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
