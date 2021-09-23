@@ -178513,5 +178513,145 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "251171632394784152983",
+        "pids": [
+            "152983",
+            "8241102",
+            "644167",
+            "4794442",
+            "7328740"
+        ],
+        "pnames": [
+            "Hassouna",
+            "Ärtröxx",
+            "Ishîda",
+            "Lørrion",
+            "Valeryen"
+        ],
+        "dung": 251,
+        "lvl": 17,
+        "time": 1554,
+        "score": 199.09,
+        "timestamp": 1632394784,
+        "pclasses": [
+            "druid",
+            "priest",
+            "hunter",
+            "druid",
+            "paladin"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "248191632396325576318",
+        "pids": [
+            "576318",
+            "6095960",
+            "7402502",
+            "8087053",
+            "8145019"
+        ],
+        "pnames": [
+            "Zôôro",
+            "Treémeister",
+            "Kiraxqt",
+            "Secretfel",
+            "Rãmboi"
+        ],
+        "dung": 248,
+        "lvl": 19,
+        "time": 2236,
+        "score": 237.02,
+        "timestamp": 1632396325,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "hunter",
+            "demonhunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2502116323950552048300",
+        "pids": [
+            "2048300",
+            "6003500",
+            "6181466",
+            "6503097",
+            "8512470"
+        ],
+        "pnames": [
+            "Rudeús",
+            "Ultralight",
+            "Baik",
+            "Milue",
+            "Sickstuff"
+        ],
+        "dung": 250,
+        "lvl": 21,
+        "time": 1925,
+        "score": 288.16,
+        "timestamp": 1632395055,
+        "pclasses": [
+            "druid",
+            "priest",
+            "warrior",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2501516323956821212498",
+        "pids": [
+            "1212498",
+            "1488779",
+            "7908239",
+            "8526907",
+            "8746406"
+        ],
+        "pnames": [
+            "Ultrapro",
+            "Rubey",
+            "Deathplant",
+            "Sëyyi",
+            "Tormëntä"
+        ],
+        "dung": 250,
+        "lvl": 15,
+        "time": 1548,
+        "score": 165.53,
+        "timestamp": 1632395682,
+        "pclasses": [
+            "deathknight",
+            "priest",
+            "warrior",
+            "priest",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
