@@ -178443,5 +178443,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2442016323940888049894",
+        "pids": [
+            "8049894",
+            "7499707",
+            "96601",
+            "5710596",
+            "6414574"
+        ],
+        "pnames": [
+            "Hellíos",
+            "Requiemæ",
+            "Drpwna",
+            "Lillychaos",
+            "Kasbaryno"
+        ],
+        "dung": 244,
+        "lvl": 20,
+        "time": 2487,
+        "score": 204.0,
+        "timestamp": 1632394088,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "warlock",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3531716323944457921764",
+        "pids": [
+            "7921764",
+            "3433649",
+            "4949146",
+            "4976045",
+            "8758417"
+        ],
+        "pnames": [
+            "Èiden",
+            "闘戰聖僧",
+            "Hentâiboy",
+            "Анализатор",
+            "Domíníque"
+        ],
+        "dung": 353,
+        "lvl": 17,
+        "time": 1679,
+        "score": 199.23,
+        "timestamp": 1632394445,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "demonhunter",
+            "hunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
