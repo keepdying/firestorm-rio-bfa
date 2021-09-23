@@ -175553,5 +175553,145 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2491816323687018403189",
+        "pids": [
+            "8403189",
+            "8403161",
+            "2030358",
+            "5446920",
+            "7934462"
+        ],
+        "pnames": [
+            "Zög",
+            "Luxën",
+            "Tkitki",
+            "Blèyzer",
+            "Nithäinn"
+        ],
+        "dung": 249,
+        "lvl": 18,
+        "time": 2085,
+        "score": 217.8,
+        "timestamp": 1632368701,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2482116323688186104323",
+        "pids": [
+            "6104323",
+            "6616591",
+            "6429745",
+            "7170256",
+            "7358900"
+        ],
+        "pnames": [
+            "Avenyyer",
+            "Paparülo",
+            "Kurtîdo",
+            "Lamgel",
+            "Youhunt"
+        ],
+        "dung": 248,
+        "lvl": 21,
+        "time": 2146,
+        "score": 287.4,
+        "timestamp": 1632368818,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2481716323687702555486",
+        "pids": [
+            "2555486",
+            "6492555",
+            "5473823",
+            "5474186",
+            "5712804"
+        ],
+        "pnames": [
+            "Oldpalla",
+            "Celebrity",
+            "Niklauz",
+            "Zahelu",
+            "Akräsh"
+        ],
+        "dung": 248,
+        "lvl": 17,
+        "time": 1998,
+        "score": 197.78,
+        "timestamp": 1632368770,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "mage",
+            "warlock",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2501516323691358243793",
+        "pids": [
+            "8243793",
+            "881663",
+            "6311844",
+            "7120049",
+            "7864260"
+        ],
+        "pnames": [
+            "Mãple",
+            "Nekoshöu",
+            "Zunhha",
+            "Talulex",
+            "Kibasamurai"
+        ],
+        "dung": 250,
+        "lvl": 15,
+        "time": 1672,
+        "score": 164.61,
+        "timestamp": 1632369135,
+        "pclasses": [
+            "deathknight",
+            "paladin",
+            "hunter",
+            "demonhunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
