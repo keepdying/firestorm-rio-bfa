@@ -178828,5 +178828,250 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "3531916324000007425528",
+        "pids": [
+            "7425528",
+            "3145203",
+            "5714634",
+            "7379097",
+            "8758417"
+        ],
+        "pnames": [
+            "Mavpala",
+            "Silverclx",
+            "Kasbarîno",
+            "Loxzi",
+            "Domíníque"
+        ],
+        "dung": 353,
+        "lvl": 19,
+        "time": 2334,
+        "score": 207.89,
+        "timestamp": 1632400000,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "warlock",
+            "warrior",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "250201632399990576318",
+        "pids": [
+            "576318",
+            "6095960",
+            "7402502",
+            "8087053",
+            "8145019"
+        ],
+        "pnames": [
+            "Zôôro",
+            "Treémeister",
+            "Kiraxqt",
+            "Secretfel",
+            "Rãmboi"
+        ],
+        "dung": 250,
+        "lvl": 20,
+        "time": 2416,
+        "score": 225.58,
+        "timestamp": 1632399990,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "hunter",
+            "demonhunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3691616324003178030897",
+        "pids": [
+            "8030897",
+            "7682838",
+            "7370105",
+            "7600238",
+            "8210921"
+        ],
+        "pnames": [
+            "Énøc",
+            "Liquidmoon",
+            "Peraka",
+            "Vyfix",
+            "Fulladatfunk"
+        ],
+        "dung": 369,
+        "lvl": 16,
+        "time": 1861,
+        "score": 180.31,
+        "timestamp": 1632400317,
+        "pclasses": [
+            "demonhunter",
+            "druid",
+            "rogue",
+            "hunter",
+            "shaman"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701916323991232048300",
+        "pids": [
+            "2048300",
+            "7451908",
+            "5969587",
+            "6191187",
+            "7947262"
+        ],
+        "pnames": [
+            "Rudeús",
+            "Outofmind",
+            "Mesavina",
+            "Crimedh",
+            "Zanexìa"
+        ],
+        "dung": 370,
+        "lvl": 19,
+        "time": 1672,
+        "score": 238.97,
+        "timestamp": 1632399123,
+        "pclasses": [
+            "druid",
+            "druid",
+            "warrior",
+            "demonhunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701516324000753628991",
+        "pids": [
+            "3628991",
+            "2717992",
+            "4321391",
+            "5661571",
+            "7695285"
+        ],
+        "pnames": [
+            "Thejudger",
+            "Ursucc",
+            "Tedari",
+            "Cóusinn",
+            "Pokeys"
+        ],
+        "dung": 370,
+        "lvl": 15,
+        "time": 1345,
+        "score": 165.79,
+        "timestamp": 1632400075,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "mage",
+            "warrior",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701516323997095165509",
+        "pids": [
+            "5165509",
+            "8748684",
+            "8605864",
+            "8743956",
+            "8790288"
+        ],
+        "pnames": [
+            "Pýc",
+            "春风灬骑",
+            "善解人衣",
+            "特也铁",
+            "菊里菊气"
+        ],
+        "dung": 370,
+        "lvl": 15,
+        "time": 1646,
+        "score": 163.28,
+        "timestamp": 1632399709,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "hunter",
+            "hunter",
+            "druid"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "370151632401420689343",
+        "pids": [
+            "689343",
+            "2293885",
+            "8059578",
+            "8760528",
+            "8787978"
+        ],
+        "pnames": [
+            "Holybeat",
+            "Xxooqs",
+            "Jrodps",
+            "Meeaat",
+            "Bobyhunter"
+        ],
+        "dung": 370,
+        "lvl": 15,
+        "time": 1794,
+        "score": 162.05,
+        "timestamp": 1632401420,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "deathknight",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
