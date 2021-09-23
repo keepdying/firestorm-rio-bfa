@@ -177851,5 +177851,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "3702016323851978695789",
+        "pids": [
+            "8695789",
+            "1241860",
+            "5550672",
+            "6503097",
+            "8652443"
+        ],
+        "pnames": [
+            "Fruupiix",
+            "Gøldèn",
+            "Teacarus",
+            "Milue",
+            "Hwagü"
+        ],
+        "dung": 370,
+        "lvl": 20,
+        "time": 1772,
+        "score": 261.0,
+        "timestamp": 1632385197,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701616323852188399543",
+        "pids": [
+            "8399543",
+            "8839090",
+            "121047",
+            "2290167",
+            "8346308"
+        ],
+        "pnames": [
+            "Suwako",
+            "Jambae",
+            "Sano",
+            "Zariane",
+            "Quezon"
+        ],
+        "dung": 370,
+        "lvl": 16,
+        "time": 2637,
+        "score": 139.59,
+        "timestamp": 1632385218,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "rogue",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
