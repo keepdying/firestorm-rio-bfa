@@ -179423,5 +179423,250 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2451816324049047963416",
+        "pids": [
+            "7963416",
+            "7816164",
+            "2383229",
+            "5726179",
+            "6509055"
+        ],
+        "pnames": [
+            "Ппаладинушка",
+            "Yulkha",
+            "Instantly",
+            "Bestand",
+            "Ermacxd"
+        ],
+        "dung": 245,
+        "lvl": 18,
+        "time": 1581,
+        "score": 218.43,
+        "timestamp": 1632404904,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "monk",
+            "mage",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3532016324051487695698",
+        "pids": [
+            "7695698",
+            "5070521",
+            "7389688",
+            "7395890",
+            "7963795"
+        ],
+        "pnames": [
+            "Pxrplxblxxdd",
+            "Хемик",
+            "Bestworlld",
+            "Pokslater",
+            "Wìçk"
+        ],
+        "dung": 353,
+        "lvl": 20,
+        "time": 2308,
+        "score": 229.98,
+        "timestamp": 1632405148,
+        "pclasses": [
+            "demonhunter",
+            "druid",
+            "warrior",
+            "rogue",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2521916324049727963931",
+        "pids": [
+            "7963931",
+            "6990194",
+            "4464143",
+            "5706525",
+            "6191187"
+        ],
+        "pnames": [
+            "Bebloom",
+            "Ním",
+            "Kumka",
+            "Abuseyøurdna",
+            "Crimedh"
+        ],
+        "dung": 252,
+        "lvl": 19,
+        "time": 2645,
+        "score": 210.24,
+        "timestamp": 1632404972,
+        "pclasses": [
+            "druid",
+            "monk",
+            "hunter",
+            "priest",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2502516324049275253196",
+        "pids": [
+            "5253196",
+            "8153236",
+            "2034535",
+            "3919606",
+            "6745310"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Hølyphia",
+            "Magopotabio",
+            "Jøhnygød",
+            "Zuhalhunt"
+        ],
+        "dung": 250,
+        "lvl": 25,
+        "time": 1940,
+        "score": 422.18,
+        "timestamp": 1632404927,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "mage",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2502416324043318529074",
+        "pids": [
+            "8529074",
+            "1729343",
+            "1298432",
+            "6681048",
+            "7721218"
+        ],
+        "pnames": [
+            "Raknademon",
+            "Hanamí",
+            "Dax",
+            "Roicha",
+            "Ashanhigh"
+        ],
+        "dung": 250,
+        "lvl": 24,
+        "time": 2954,
+        "score": 300.37,
+        "timestamp": 1632404331,
+        "pclasses": [
+            "demonhunter",
+            "druid",
+            "warrior",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3691616324044597336321",
+        "pids": [
+            "7336321",
+            "1121704",
+            "2312910",
+            "3887802",
+            "7684427"
+        ],
+        "pnames": [
+            "Bennythebull",
+            "Runeheart",
+            "Illumminate",
+            "Dontty",
+            "Beckmann"
+        ],
+        "dung": 369,
+        "lvl": 16,
+        "time": 1832,
+        "score": 180.54,
+        "timestamp": 1632404459,
+        "pclasses": [
+            "druid",
+            "priest",
+            "paladin",
+            "monk",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701516324046551717054",
+        "pids": [
+            "1717054",
+            "8142323",
+            "1863793",
+            "7610392",
+            "8110385"
+        ],
+        "pnames": [
+            "Sputapalline",
+            "Trhom",
+            "Pumlock",
+            "Veghde",
+            "Exultur"
+        ],
+        "dung": 370,
+        "lvl": 15,
+        "time": 1893,
+        "score": 161.22,
+        "timestamp": 1632404655,
+        "pclasses": [
+            "demonhunter",
+            "monk",
+            "warlock",
+            "warrior",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
