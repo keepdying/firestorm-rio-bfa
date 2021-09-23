@@ -174853,5 +174853,145 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2491916323641166104323",
+        "pids": [
+            "6104323",
+            "6616591",
+            "6429745",
+            "7170256",
+            "7358900"
+        ],
+        "pnames": [
+            "Avenyyer",
+            "Paparülo",
+            "Kurtîdo",
+            "Lamgel",
+            "Youhunt"
+        ],
+        "dung": 249,
+        "lvl": 19,
+        "time": 2212,
+        "score": 238.81,
+        "timestamp": 1632364116,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2462316323647447686956",
+        "pids": [
+            "7686956",
+            "3411291",
+            "7619802",
+            "8311520",
+            "8370261"
+        ],
+        "pnames": [
+            "Tibasqt",
+            "Ðarkstronger",
+            "Äshess",
+            "Queirooz",
+            "Babybolt"
+        ],
+        "dung": 246,
+        "lvl": 23,
+        "time": 3013,
+        "score": 269.94,
+        "timestamp": 1632364744,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "mage",
+            "warrior",
+            "warlock"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2482016323638506154129",
+        "pids": [
+            "6154129",
+            "5191675",
+            "8091575",
+            "8164585",
+            "8418454"
+        ],
+        "pnames": [
+            "Depressedmek",
+            "Viêntõ",
+            "Øgginonmiva",
+            "Lègolás",
+            "Alldebharan"
+        ],
+        "dung": 248,
+        "lvl": 20,
+        "time": 2277,
+        "score": 259.7,
+        "timestamp": 1632363850,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "hunter",
+            "hunter",
+            "druid"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701316323647988853479",
+        "pids": [
+            "8853479",
+            "8792714",
+            "7443285",
+            "8792759",
+            "8798023"
+        ],
+        "pnames": [
+            "Pisauvas",
+            "Torovid",
+            "Occursed",
+            "Mesååna",
+            "Fachulli"
+        ],
+        "dung": 370,
+        "lvl": 13,
+        "time": 2942,
+        "score": 99.36,
+        "timestamp": 1632364798,
+        "pclasses": [
+            "demonhunter",
+            "druid",
+            "demonhunter",
+            "demonhunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
