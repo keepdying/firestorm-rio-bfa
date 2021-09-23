@@ -182503,5 +182503,215 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2472116324187315177708",
+        "pids": [
+            "5177708",
+            "1222985",
+            "4649941",
+            "6924122",
+            "7951828"
+        ],
+        "pnames": [
+            "Stronw",
+            "Northfurion",
+            "Bøgøtá",
+            "Brokendreams",
+            "Розаробот"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 2161,
+        "score": 287.22,
+        "timestamp": 1632418731,
+        "pclasses": [
+            "warrior",
+            "priest",
+            "warrior",
+            "shaman",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2492116324188804367156",
+        "pids": [
+            "4367156",
+            "8110036",
+            "447317",
+            "5156055",
+            "7272476"
+        ],
+        "pnames": [
+            "Nyagumin",
+            "Aerodynamica",
+            "Waitscørka",
+            "Drrunewound",
+            "Bygorôx"
+        ],
+        "dung": 249,
+        "lvl": 21,
+        "time": 2200,
+        "score": 288.68,
+        "timestamp": 1632418880,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "demonhunter",
+            "deathknight",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2441816324187967330506",
+        "pids": [
+            "7330506",
+            "7656279",
+            "3180596",
+            "6657049",
+            "7995710"
+        ],
+        "pnames": [
+            "Cørdelia",
+            "Gtä",
+            "Syz",
+            "Tataescobar",
+            "Thøthø"
+        ],
+        "dung": 244,
+        "lvl": 18,
+        "time": 1317,
+        "score": 219.9,
+        "timestamp": 1632418796,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "rogue",
+            "demonhunter",
+            "druid"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3531816324189144625573",
+        "pids": [
+            "4625573",
+            "5603256",
+            "5810984",
+            "6753698",
+            "7153300"
+        ],
+        "pnames": [
+            "Tecladogamer",
+            "Nøzdørmu",
+            "Грорн",
+            "Øriginàl",
+            "Пенкуздуйка"
+        ],
+        "dung": 353,
+        "lvl": 18,
+        "time": 1687,
+        "score": 218.82,
+        "timestamp": 1632418914,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warrior",
+            "demonhunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "353161632418545165687",
+        "pids": [
+            "165687",
+            "4934065",
+            "7369240",
+            "8233106",
+            "8533555"
+        ],
+        "pnames": [
+            "Racnaros",
+            "Lyyr",
+            "Supercazador",
+            "小德完全体",
+            "如我强悍"
+        ],
+        "dung": 353,
+        "lvl": 16,
+        "time": 1816,
+        "score": 179.87,
+        "timestamp": 1632418545,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "druid",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3702116324193774056059",
+        "pids": [
+            "4056059",
+            "7959935",
+            "5224725",
+            "5495837",
+            "8189977"
+        ],
+        "pnames": [
+            "Leìtø",
+            "Эклейн",
+            "Stxfxn",
+            "Даркхантер",
+            "Pidozra"
+        ],
+        "dung": 370,
+        "lvl": 21,
+        "time": 4547,
+        "score": 181.75,
+        "timestamp": 1632419377,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "warrior",
+            "demonhunter",
+            "rogue"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
