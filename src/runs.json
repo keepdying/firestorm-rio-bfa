@@ -186318,5 +186318,320 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2452616324346525253196",
+        "pids": [
+            "5253196",
+            "8153236",
+            "2034535",
+            "6162562",
+            "7753494"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Hølyphia",
+            "Magopotabio",
+            "Benjî",
+            "Tomases"
+        ],
+        "dung": 245,
+        "lvl": 26,
+        "time": 1815,
+        "score": 462.83,
+        "timestamp": 1632434652,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "mage",
+            "hunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2452116324341222292054",
+        "pids": [
+            "2292054",
+            "6614110",
+            "7200156",
+            "7580992",
+            "7956459"
+        ],
+        "pnames": [
+            "Ratnikk",
+            "Suiivin",
+            "Èmy",
+            "Eqio",
+            "Klöuz"
+        ],
+        "dung": 245,
+        "lvl": 21,
+        "time": 1914,
+        "score": 285.97,
+        "timestamp": 1632434122,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "hunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2452016324341417486485",
+        "pids": [
+            "7486485",
+            "3922576",
+            "1099733",
+            "4883581",
+            "5836450"
+        ],
+        "pnames": [
+            "Taciturn",
+            "Tìtániä",
+            "Zigxie",
+            "Seunsh",
+            "Ðrizz"
+        ],
+        "dung": 245,
+        "lvl": 20,
+        "time": 1594,
+        "score": 264.07,
+        "timestamp": 1632434141,
+        "pclasses": [
+            "demonhunter",
+            "priest",
+            "hunter",
+            "demonhunter",
+            "monk"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "249261632435174306391",
+        "pids": [
+            "306391",
+            "1730066",
+            "5116416",
+            "7568931",
+            "7651567"
+        ],
+        "pnames": [
+            "Masoscrivere",
+            "Crazylové",
+            "Fragan",
+            "Watafaki",
+            "Campw"
+        ],
+        "dung": 249,
+        "lvl": 26,
+        "time": 2886,
+        "score": 395.93,
+        "timestamp": 1632435174,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "mage",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2511916324357558355128",
+        "pids": [
+            "8355128",
+            "2016200",
+            "8164585",
+            "8418454",
+            "8593510"
+        ],
+        "pnames": [
+            "Fudelinhas",
+            "Magalï",
+            "Lègolás",
+            "Alldebharan",
+            "Trà"
+        ],
+        "dung": 251,
+        "lvl": 19,
+        "time": 1497,
+        "score": 241.61,
+        "timestamp": 1632435755,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "druid",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2482116324342668258602",
+        "pids": [
+            "8258602",
+            "4622899",
+            "4340840",
+            "6607769",
+            "8591705"
+        ],
+        "pnames": [
+            "Elpropiø",
+            "Mátsu",
+            "Potatomasta",
+            "Polemic",
+            "Potatomastaa"
+        ],
+        "dung": 248,
+        "lvl": 21,
+        "time": 1755,
+        "score": 292.25,
+        "timestamp": 1632434266,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "mage",
+            "deathknight",
+            "warlock"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2501716324349858771257",
+        "pids": [
+            "8771257",
+            "7063632",
+            "8394062",
+            "8669131",
+            "8800621"
+        ],
+        "pnames": [
+            "Обуховская",
+            "Святоприст",
+            "Темнаялиана",
+            "Bukachka",
+            "Xasanage"
+        ],
+        "dung": 250,
+        "lvl": 17,
+        "time": 2777,
+        "score": 158.87,
+        "timestamp": 1632434985,
+        "pclasses": [
+            "deathknight",
+            "priest",
+            "deathknight",
+            "paladin",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3691816324345188685756",
+        "pids": [
+            "8685756",
+            "8523957",
+            "6306674",
+            "6376240",
+            "8673371"
+        ],
+        "pnames": [
+            "Mordelhon",
+            "Rehcow",
+            "Duplyator",
+            "Hólý",
+            "Самарез"
+        ],
+        "dung": 369,
+        "lvl": 18,
+        "time": 3239,
+        "score": 166.09,
+        "timestamp": 1632434518,
+        "pclasses": [
+            "deathknight",
+            "druid",
+            "warrior",
+            "priest",
+            "paladin"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701716324362163090803",
+        "pids": [
+            "3090803",
+            "6926246",
+            "95450",
+            "7664664",
+            "7882073"
+        ],
+        "pnames": [
+            "Legiøn",
+            "Agetroc",
+            "Zëyr",
+            "Lághertá",
+            "Spànky"
+        ],
+        "dung": 370,
+        "lvl": 17,
+        "time": 2020,
+        "score": 173.68,
+        "timestamp": 1632436216,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "hunter",
+            "paladin",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
