@@ -177291,5 +177291,215 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2492116323794583450399",
+        "pids": [
+            "3450399",
+            "6245880",
+            "6400309",
+            "7947262",
+            "8588707"
+        ],
+        "pnames": [
+            "Febvre",
+            "Pomax",
+            "Figuerex",
+            "Zanexìa",
+            "Spartanghxst"
+        ],
+        "dung": 249,
+        "lvl": 21,
+        "time": 2871,
+        "score": 246.2,
+        "timestamp": 1632379458,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "hunter",
+            "hunter",
+            "monk"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2491716323796962688452",
+        "pids": [
+            "2688452",
+            "2053300",
+            "1975285",
+            "4473338",
+            "6074523"
+        ],
+        "pnames": [
+            "Kohâku",
+            "Hingpriest",
+            "Aimnathiar",
+            "Efezor",
+            "Konkonkonkon"
+        ],
+        "dung": 249,
+        "lvl": 17,
+        "time": 2864,
+        "score": 168.27,
+        "timestamp": 1632379696,
+        "pclasses": [
+            "warrior",
+            "priest",
+            "warrior",
+            "demonhunter",
+            "rogue"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2441616323802498402823",
+        "pids": [
+            "8402823",
+            "8377354",
+            "8248167",
+            "8394858",
+            "8577575"
+        ],
+        "pnames": [
+            "Lohaeris",
+            "Spookypandaa",
+            "Neggronsama",
+            "Antraxxgg",
+            "Berzequer"
+        ],
+        "dung": 244,
+        "lvl": 16,
+        "time": 2499,
+        "score": 138.82,
+        "timestamp": 1632380249,
+        "pclasses": [
+            "demonhunter",
+            "monk",
+            "shaman",
+            "mage",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3532216323793938258602",
+        "pids": [
+            "8258602",
+            "4861430",
+            "3689677",
+            "6984619",
+            "7695225"
+        ],
+        "pnames": [
+            "Elpropiø",
+            "Holyxá",
+            "Elproctologo",
+            "Samá",
+            "Strihar"
+        ],
+        "dung": 353,
+        "lvl": 22,
+        "time": 2118,
+        "score": 314.6,
+        "timestamp": 1632379393,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warrior",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2512016323801243506537",
+        "pids": [
+            "3506537",
+            "6903742",
+            "28595",
+            "5090638",
+            "5836450"
+        ],
+        "pnames": [
+            "Warrhøf",
+            "Çýnth",
+            "Itunes",
+            "Universox",
+            "Ðrizz"
+        ],
+        "dung": 251,
+        "lvl": 20,
+        "time": 2076,
+        "score": 231.74,
+        "timestamp": 1632380124,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "paladin",
+            "hunter",
+            "monk"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2521716323800917374142",
+        "pids": [
+            "7374142",
+            "3424334",
+            "69589",
+            "2068254",
+            "7959182"
+        ],
+        "pnames": [
+            "Thebígdaddy",
+            "Zenjw",
+            "Reypavor",
+            "Warband",
+            "Kadaki"
+        ],
+        "dung": 252,
+        "lvl": 17,
+        "time": 2352,
+        "score": 196.27,
+        "timestamp": 1632380091,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "deathknight",
+            "warrior",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
