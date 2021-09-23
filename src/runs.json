@@ -181838,5 +181838,215 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2462116324169128685276",
+        "pids": [
+            "8685276",
+            "7946356",
+            "2000066",
+            "5166453",
+            "6269950"
+        ],
+        "pnames": [
+            "Bruso",
+            "Pøpcorn",
+            "Xavros",
+            "Sleazz",
+            "Søsaboy"
+        ],
+        "dung": 246,
+        "lvl": 21,
+        "time": 2537,
+        "score": 242.95,
+        "timestamp": 1632416912,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "warrior",
+            "priest",
+            "rogue"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3531916324161252042102",
+        "pids": [
+            "2042102",
+            "3064266",
+            "2547679",
+            "6181466",
+            "8210338"
+        ],
+        "pnames": [
+            "Zarador",
+            "Mistugi",
+            "Aryastark",
+            "Baik",
+            "Fraannkk"
+        ],
+        "dung": 353,
+        "lvl": 19,
+        "time": 3585,
+        "score": 171.9,
+        "timestamp": 1632416125,
+        "pclasses": [
+            "druid",
+            "monk",
+            "mage",
+            "warrior",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2511916324161145177708",
+        "pids": [
+            "5177708",
+            "1222985",
+            "4649941",
+            "5548470",
+            "6924122"
+        ],
+        "pnames": [
+            "Stronw",
+            "Northfurion",
+            "Bøgøtá",
+            "Khôty",
+            "Brokendreams"
+        ],
+        "dung": 251,
+        "lvl": 19,
+        "time": 1349,
+        "score": 243.33,
+        "timestamp": 1632416114,
+        "pclasses": [
+            "warrior",
+            "priest",
+            "warrior",
+            "hunter",
+            "shaman"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3692016324161816471343",
+        "pids": [
+            "6471343",
+            "6388072",
+            "69756",
+            "4622899",
+            "7837134"
+        ],
+        "pnames": [
+            "Couxer",
+            "Josetpm",
+            "Zhéus",
+            "Mátsu",
+            "美郎"
+        ],
+        "dung": 369,
+        "lvl": 20,
+        "time": 1505,
+        "score": 267.84,
+        "timestamp": 1632416181,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "deathknight",
+            "monk",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3702416324166845253196",
+        "pids": [
+            "5253196",
+            "8153236",
+            "2034535",
+            "3183258",
+            "3919606"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Hølyphia",
+            "Magopotabio",
+            "Kenso",
+            "Jøhnygød"
+        ],
+        "dung": 370,
+        "lvl": 24,
+        "time": 1702,
+        "score": 384.31,
+        "timestamp": 1632416684,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "mage",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701516324161625155544",
+        "pids": [
+            "5155544",
+            "7319802",
+            "5158029",
+            "7349044",
+            "7699318"
+        ],
+        "pnames": [
+            "Dartmol",
+            "Шэс",
+            "Ljalja",
+            "Тутти",
+            "Нигория"
+        ],
+        "dung": 370,
+        "lvl": 15,
+        "time": 1739,
+        "score": 162.51,
+        "timestamp": 1632416162,
+        "pclasses": [
+            "deathknight",
+            "paladin",
+            "paladin",
+            "warlock",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
