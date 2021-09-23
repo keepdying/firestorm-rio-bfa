@@ -177991,5 +177991,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "252201632388232368023",
+        "pids": [
+            "368023",
+            "8006546",
+            "444696",
+            "1649012",
+            "8240820"
+        ],
+        "pnames": [
+            "Crusnikêngel",
+            "Habymurillo",
+            "Palidho",
+            "Mirøkú",
+            "Innömbrable"
+        ],
+        "dung": 252,
+        "lvl": 20,
+        "time": 5317,
+        "score": 173.49,
+        "timestamp": 1632388232,
+        "pclasses": [
+            "deathknight",
+            "priest",
+            "paladin",
+            "warrior",
+            "monk"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701516323887682292054",
+        "pids": [
+            "2292054",
+            "8680525",
+            "5810984",
+            "8656501",
+            "8699514"
+        ],
+        "pnames": [
+            "Ratnikk",
+            "Ewá",
+            "Грорн",
+            "Kurínax",
+            "Roguetcher"
+        ],
+        "dung": 370,
+        "lvl": 15,
+        "time": 1147,
+        "score": 167.44,
+        "timestamp": 1632388768,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "warrior",
+            "hunter",
+            "rogue"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
