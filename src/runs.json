@@ -177921,5 +177921,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2442016323868556756415",
+        "pids": [
+            "6756415",
+            "8339901",
+            "7157121",
+            "7749826",
+            "8193427"
+        ],
+        "pnames": [
+            "Maryangpalad",
+            "Lilaphotica",
+            "Jeyem",
+            "Kènn",
+            "Ameråh"
+        ],
+        "dung": 244,
+        "lvl": 20,
+        "time": 2211,
+        "score": 215.92,
+        "timestamp": 1632386855,
+        "pclasses": [
+            "warrior",
+            "shaman",
+            "druid",
+            "hunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2462016323875984368117",
+        "pids": [
+            "4368117",
+            "7951977",
+            "6894521",
+            "6962304",
+            "8263370"
+        ],
+        "pnames": [
+            "Manhý",
+            "Ìñðcêñtê",
+            "Skrletjohans",
+            "Süpremewarr",
+            "Roxaroxa"
+        ],
+        "dung": 246,
+        "lvl": 20,
+        "time": 3789,
+        "score": 185.86,
+        "timestamp": 1632387598,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "demonhunter",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
