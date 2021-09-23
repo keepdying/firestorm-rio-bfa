@@ -174993,5 +174993,110 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2441916323661008403189",
+        "pids": [
+            "8403189",
+            "8403161",
+            "953209",
+            "6419941",
+            "7934462"
+        ],
+        "pnames": [
+            "Zög",
+            "Luxën",
+            "Gønønêâ",
+            "Lïän",
+            "Nithäinn"
+        ],
+        "dung": 244,
+        "lvl": 19,
+        "time": 2266,
+        "score": 194.37,
+        "timestamp": 1632366100,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "demonhunter",
+            "paladin",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2441816323653291690195",
+        "pids": [
+            "1690195",
+            "6277999",
+            "4961891",
+            "6533463",
+            "6975804"
+        ],
+        "pnames": [
+            "Mäldazzar",
+            "Greazzy",
+            "Calabhera",
+            "Leøtheraz",
+            "Degrees"
+        ],
+        "dung": 244,
+        "lvl": 18,
+        "time": 2506,
+        "score": 167.91,
+        "timestamp": 1632365329,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "warlock",
+            "demonhunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3531716323660016817500",
+        "pids": [
+            "6817500",
+            "7256381",
+            "5635334",
+            "6072858",
+            "6733401"
+        ],
+        "pnames": [
+            "Dylanfire",
+            "Nebrask",
+            "Merlius",
+            "Dracombus",
+            "Kszandris"
+        ],
+        "dung": 353,
+        "lvl": 17,
+        "time": 3287,
+        "score": 145.44,
+        "timestamp": 1632366001,
+        "pclasses": [
+            "druid",
+            "priest",
+            "mage",
+            "mage",
+            "warlock"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
