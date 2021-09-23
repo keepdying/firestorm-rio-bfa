@@ -178061,5 +178061,145 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2472016323894155620456",
+        "pids": [
+            "5620456",
+            "4901564",
+            "6015710",
+            "6508674",
+            "7993634"
+        ],
+        "pnames": [
+            "Darkneedle",
+            "Мяффка",
+            "Thayerpro",
+            "Baguetta",
+            "Kissjuhua"
+        ],
+        "dung": 247,
+        "lvl": 20,
+        "time": 2193,
+        "score": 260.63,
+        "timestamp": 1632389415,
+        "pclasses": [
+            "demonhunter",
+            "druid",
+            "mage",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3531616323901847936484",
+        "pids": [
+            "7936484",
+            "8241102",
+            "7663897",
+            "8084741",
+            "8623621"
+        ],
+        "pnames": [
+            "Ecøn",
+            "Ärtröxx",
+            "Harovy",
+            "Krèxt",
+            "Sofy"
+        ],
+        "dung": 353,
+        "lvl": 16,
+        "time": 1494,
+        "score": 182.55,
+        "timestamp": 1632390184,
+        "pclasses": [
+            "druid",
+            "priest",
+            "hunter",
+            "warrior",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2481816323908942292054",
+        "pids": [
+            "2292054",
+            "8680525",
+            "1099733",
+            "5706525",
+            "8656501"
+        ],
+        "pnames": [
+            "Ratnikk",
+            "Ewá",
+            "Zigxie",
+            "Abuseyøurdna",
+            "Kurínax"
+        ],
+        "dung": 248,
+        "lvl": 18,
+        "time": 1282,
+        "score": 223.95,
+        "timestamp": 1632390894,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "hunter",
+            "priest",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2521516323894858721215",
+        "pids": [
+            "8721215",
+            "8526907",
+            "1105553",
+            "8022841",
+            "8833438"
+        ],
+        "pnames": [
+            "Mooskau",
+            "Sëyyi",
+            "Borschevik",
+            "Krimum",
+            "Floopa"
+        ],
+        "dung": 252,
+        "lvl": 15,
+        "time": 2099,
+        "score": 163.67,
+        "timestamp": 1632389485,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "warrior",
+            "druid",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
