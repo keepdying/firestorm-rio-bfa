@@ -190935,5 +190935,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2491916324805088049894",
+        "pids": [
+            "8049894",
+            "6700330",
+            "1298432",
+            "6557558",
+            "8683155"
+        ],
+        "pnames": [
+            "Hellíos",
+            "Murphyslaw",
+            "Dax",
+            "Tuptuup",
+            "Lillymorissa"
+        ],
+        "dung": 249,
+        "lvl": 19,
+        "time": 2741,
+        "score": 207.34,
+        "timestamp": 1632480508,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "warrior",
+            "hunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2442216324812017389688",
+        "pids": [
+            "7389688",
+            "5070521",
+            "1099733",
+            "5160640",
+            "8011292"
+        ],
+        "pnames": [
+            "Bestworlld",
+            "Хемик",
+            "Zigxie",
+            "Cheplkll",
+            "Альтрида"
+        ],
+        "dung": 244,
+        "lvl": 22,
+        "time": 1602,
+        "score": 317.41,
+        "timestamp": 1632481201,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "hunter",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
