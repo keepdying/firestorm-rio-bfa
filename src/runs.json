@@ -191460,5 +191460,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "3531916324938753411291",
+        "pids": [
+            "3411291",
+            "8302043",
+            "755607",
+            "7010210",
+            "7684427"
+        ],
+        "pnames": [
+            "Ðarkstronger",
+            "Finalheaven",
+            "Srbovine",
+            "Zetabcão",
+            "Beckmann"
+        ],
+        "dung": 353,
+        "lvl": 19,
+        "time": 2525,
+        "score": 201.17,
+        "timestamp": 1632493875,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "hunter",
+            "demonhunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2482516324937097819236",
+        "pids": [
+            "7819236",
+            "7859539",
+            "1298432",
+            "6238642",
+            "8603840"
+        ],
+        "pnames": [
+            "Dylaayy",
+            "Methees",
+            "Dax",
+            "Nepabm",
+            "Yildk"
+        ],
+        "dung": 248,
+        "lvl": 25,
+        "time": 2200,
+        "score": 420.45,
+        "timestamp": 1632493709,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "warrior",
+            "hunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
