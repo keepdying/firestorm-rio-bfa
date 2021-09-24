@@ -194076,5 +194076,40 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2452316325128547026860",
+        "pids": [
+            "7026860",
+            "1222985",
+            "4649941",
+            "5548470",
+            "6806917"
+        ],
+        "pnames": [
+            "Ynulight",
+            "Northfurion",
+            "Bøgøtá",
+            "Khôty",
+            "Panzeosolo"
+        ],
+        "dung": 245,
+        "lvl": 23,
+        "time": 2259,
+        "score": 297.66,
+        "timestamp": 1632512854,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "warrior",
+            "hunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
