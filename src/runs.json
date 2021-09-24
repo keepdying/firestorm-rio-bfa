@@ -190620,5 +190620,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2461816324744756903742",
+        "pids": [
+            "6903742",
+            "6003500",
+            "4173151",
+            "8013149",
+            "8084741"
+        ],
+        "pnames": [
+            "Çýnth",
+            "Ultralight",
+            "Pikabooktm",
+            "Swagee",
+            "Krèxt"
+        ],
+        "dung": 246,
+        "lvl": 18,
+        "time": 1973,
+        "score": 215.9,
+        "timestamp": 1632474475,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "rogue",
+            "demonhunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3531716324760158030894",
+        "pids": [
+            "8030894",
+            "196303",
+            "62742",
+            "5264615",
+            "8186416"
+        ],
+        "pnames": [
+            "Énoc",
+            "Líghmaiden",
+            "Jadicator",
+            "Teñshì",
+            "Dréadful"
+        ],
+        "dung": 353,
+        "lvl": 17,
+        "time": 1830,
+        "score": 197.9,
+        "timestamp": 1632476015,
+        "pclasses": [
+            "deathknight",
+            "priest",
+            "deathknight",
+            "warrior",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
