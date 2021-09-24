@@ -191005,5 +191005,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2461816324821698043178",
+        "pids": [
+            "8043178",
+            "7683292",
+            "5850069",
+            "6411883",
+            "7781699"
+        ],
+        "pnames": [
+            "Shynga",
+            "奶酪加糖丶丶",
+            "Imortalwolfy",
+            "Kushusan",
+            "Shdzhunt"
+        ],
+        "dung": 246,
+        "lvl": 18,
+        "time": 1977,
+        "score": 215.86,
+        "timestamp": 1632482169,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "druid",
+            "monk",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2521816324826804901564",
+        "pids": [
+            "4901564",
+            "8787086",
+            "191373",
+            "5501746",
+            "8268895"
+        ],
+        "pnames": [
+            "Мяффка",
+            "Levantane",
+            "Nolose",
+            "Aronkill",
+            "Orkíd"
+        ],
+        "dung": 252,
+        "lvl": 18,
+        "time": 4893,
+        "score": 147.76,
+        "timestamp": 1632482680,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "warlock",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
