@@ -191355,5 +191355,40 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2492216324892867855479",
+        "pids": [
+            "7855479",
+            "2599766",
+            "3799266",
+            "5996826",
+            "8078311"
+        ],
+        "pnames": [
+            "Xiaojìng",
+            "Чебурекек",
+            "Løvelølz",
+            "Minxyx",
+            "Luciefear"
+        ],
+        "dung": 249,
+        "lvl": 22,
+        "time": 2898,
+        "score": 269.41,
+        "timestamp": 1632489286,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "mage",
+            "hunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
