@@ -190480,5 +190480,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2471816324679478147484",
+        "pids": [
+            "8147484",
+            "8798357",
+            "8023679",
+            "8135605",
+            "8480480"
+        ],
+        "pnames": [
+            "Ravemytsø",
+            "Seusucesso",
+            "Vladteps",
+            "Lykadisc",
+            "Rincember"
+        ],
+        "dung": 247,
+        "lvl": 18,
+        "time": 2345,
+        "score": 194.86,
+        "timestamp": 1632467947,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "warrior",
+            "priest",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2442116324678375511690",
+        "pids": [
+            "5511690",
+            "71962",
+            "1838785",
+            "2902599",
+            "7478714"
+        ],
+        "pnames": [
+            "Tyranitowx",
+            "Vigor",
+            "Twolifé",
+            "Iblacksoull",
+            "Castervill"
+        ],
+        "dung": 244,
+        "lvl": 21,
+        "time": 1742,
+        "score": 285.93,
+        "timestamp": 1632467837,
+        "pclasses": [
+            "druid",
+            "druid",
+            "shaman",
+            "demonhunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
