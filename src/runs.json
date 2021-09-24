@@ -187473,5 +187473,250 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2452416324423335253196",
+        "pids": [
+            "5253196",
+            "3791348",
+            "123385",
+            "4883581",
+            "7370740"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Aabrakadabra",
+            "Oszman",
+            "Seunsh",
+            "Träpz"
+        ],
+        "dung": 245,
+        "lvl": 24,
+        "time": 1783,
+        "score": 383.78,
+        "timestamp": 1632442333,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "demonhunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2491916324401336320354",
+        "pids": [
+            "6320354",
+            "1729343",
+            "219339",
+            "3462390",
+            "8045552"
+        ],
+        "pnames": [
+            "Drogpa",
+            "Hanamí",
+            "Roswaal",
+            "Pinocho",
+            "Kapeski"
+        ],
+        "dung": 249,
+        "lvl": 19,
+        "time": 1869,
+        "score": 241.94,
+        "timestamp": 1632440133,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "demonhunter",
+            "hunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2442016324411418529074",
+        "pids": [
+            "8529074",
+            "882499",
+            "4308074",
+            "6235748",
+            "6503097"
+        ],
+        "pnames": [
+            "Raknademon",
+            "Kezi",
+            "Jäcksaw",
+            "Cazzowarr",
+            "Milue"
+        ],
+        "dung": 244,
+        "lvl": 20,
+        "time": 2322,
+        "score": 210.97,
+        "timestamp": 1632441141,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "deathknight",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "251221632442010235749",
+        "pids": [
+            "235749",
+            "6061970",
+            "128124",
+            "184956",
+            "6869269"
+        ],
+        "pnames": [
+            "Martinez",
+            "Holycrâp",
+            "Mâfî",
+            "Xinfamous",
+            "Gingï"
+        ],
+        "dung": 251,
+        "lvl": 22,
+        "time": 2110,
+        "score": 278.18,
+        "timestamp": 1632442010,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "demonhunter",
+            "deathknight",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2511916324408218686536",
+        "pids": [
+            "8686536",
+            "5705477",
+            "2097169",
+            "2688338",
+            "3385433"
+        ],
+        "pnames": [
+            "Megganfox",
+            "Ypokamp",
+            "Teiroo",
+            "Annìe",
+            "Anrrï"
+        ],
+        "dung": 251,
+        "lvl": 19,
+        "time": 1820,
+        "score": 237.86,
+        "timestamp": 1632440821,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "hunter",
+            "mage",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2521816324423685343938",
+        "pids": [
+            "5343938",
+            "5531239",
+            "3799266",
+            "3814002",
+            "6978879"
+        ],
+        "pnames": [
+            "Timoned",
+            "Hetta",
+            "Løvelølz",
+            "Jonen",
+            "Mïtrax"
+        ],
+        "dung": 252,
+        "lvl": 18,
+        "time": 2873,
+        "score": 184.92,
+        "timestamp": 1632442368,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "mage",
+            "warrior",
+            "rogue"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2502016324407417335250",
+        "pids": [
+            "7335250",
+            "340722",
+            "4177144",
+            "5706525",
+            "8011292"
+        ],
+        "pnames": [
+            "Pakarui",
+            "Pëterpanda",
+            "Yâmani",
+            "Abuseyøurdna",
+            "Альтрида"
+        ],
+        "dung": 250,
+        "lvl": 20,
+        "time": 1723,
+        "score": 264.26,
+        "timestamp": 1632440741,
+        "pclasses": [
+            "druid",
+            "monk",
+            "mage",
+            "priest",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
