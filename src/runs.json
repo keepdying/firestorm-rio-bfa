@@ -188870,5 +188870,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "3701616324517715596911",
+        "pids": [
+            "5596911",
+            "8812528",
+            "411000",
+            "487106",
+            "4760725"
+        ],
+        "pnames": [
+            "Maaggnus",
+            "Agronna",
+            "Danyeru",
+            "Calim",
+            "Felpipe"
+        ],
+        "dung": 370,
+        "lvl": 16,
+        "time": 1865,
+        "score": 177.52,
+        "timestamp": 1632451771,
+        "pclasses": [
+            "deathknight",
+            "paladin",
+            "demonhunter",
+            "mage",
+            "priest"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701616324520197345243",
+        "pids": [
+            "7345243",
+            "6593620",
+            "3209038",
+            "5002890",
+            "8678574"
+        ],
+        "pnames": [
+            "Keyzz",
+            "Copyrate",
+            "Anärcöx",
+            "Kintosol",
+            "Mangkiko"
+        ],
+        "dung": 370,
+        "lvl": 16,
+        "time": 2092,
+        "score": 155.63,
+        "timestamp": 1632452019,
+        "pclasses": [
+            "monk",
+            "shaman",
+            "deathknight",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
