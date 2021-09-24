@@ -190690,5 +190690,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2512216324753633450399",
+        "pids": [
+            "3450399",
+            "6599219",
+            "6245880",
+            "6615721",
+            "7947262"
+        ],
+        "pnames": [
+            "Febvre",
+            "Herbalifë",
+            "Pomax",
+            "Katumm",
+            "Zanexìa"
+        ],
+        "dung": 251,
+        "lvl": 22,
+        "time": 3606,
+        "score": 221.88,
+        "timestamp": 1632475363,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "druid",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2511916324774908519344",
+        "pids": [
+            "8519344",
+            "4346782",
+            "444696",
+            "1649012",
+            "8742433"
+        ],
+        "pnames": [
+            "Artëmïsà",
+            "Niñöjësus",
+            "Palidho",
+            "Mirøkú",
+            "Allëriá"
+        ],
+        "dung": 251,
+        "lvl": 19,
+        "time": 2551,
+        "score": 192.25,
+        "timestamp": 1632477490,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "paladin",
+            "warrior",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
