@@ -191947,5 +191947,390 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2472016325009828559988",
+        "pids": [
+            "8559988",
+            "6532259",
+            "6605617",
+            "8084459",
+            "8685301"
+        ],
+        "pnames": [
+            "Crazyjohnm",
+            "Topogigia",
+            "Onehitelite",
+            "Denacine",
+            "Melanthas"
+        ],
+        "dung": 247,
+        "lvl": 20,
+        "time": 2167,
+        "score": 260.92,
+        "timestamp": 1632500982,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "mage",
+            "deathknight",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2471916324999468662576",
+        "pids": [
+            "8662576",
+            "242192",
+            "4628073",
+            "7728448",
+            "8680559"
+        ],
+        "pnames": [
+            "Cuéball",
+            "Inyx",
+            "Nêvermorexqt",
+            "Metamørphine",
+            "Okßoomer"
+        ],
+        "dung": 247,
+        "lvl": 19,
+        "time": 1955,
+        "score": 239.78,
+        "timestamp": 1632499946,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "warlock",
+            "demonhunter",
+            "druid"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2452316325019035208775",
+        "pids": [
+            "5208775",
+            "5156672",
+            "5156055",
+            "5158003",
+            "7781899"
+        ],
+        "pnames": [
+            "Crystaltear",
+            "Enthenhair",
+            "Drrunewound",
+            "Акито",
+            "Бапомат"
+        ],
+        "dung": 245,
+        "lvl": 23,
+        "time": 1934,
+        "score": 345.81,
+        "timestamp": 1632501903,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "deathknight",
+            "hunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2452116325004466989476",
+        "pids": [
+            "6989476",
+            "5979905",
+            "6587609",
+            "7094539",
+            "8316273"
+        ],
+        "pnames": [
+            "Nede",
+            "Dyzxd",
+            "Ultraescur",
+            "Conkér",
+            "Beyaquita"
+        ],
+        "dung": 245,
+        "lvl": 21,
+        "time": 1685,
+        "score": 289.32,
+        "timestamp": 1632500446,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "hunter",
+            "demonhunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2492516325006847819236",
+        "pids": [
+            "7819236",
+            "7859539",
+            "1298432",
+            "6238642",
+            "8603840"
+        ],
+        "pnames": [
+            "Dylaayy",
+            "Methees",
+            "Dax",
+            "Nepabm",
+            "Yildk"
+        ],
+        "dung": 249,
+        "lvl": 25,
+        "time": 2671,
+        "score": 371.62,
+        "timestamp": 1632500684,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "warrior",
+            "hunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2492016325014547031138",
+        "pids": [
+            "7031138",
+            "1222985",
+            "3797070",
+            "6638967",
+            "6924122"
+        ],
+        "pnames": [
+            "Skeis",
+            "Northfurion",
+            "Jjhuniot",
+            "Supream",
+            "Brokendreams"
+        ],
+        "dung": 249,
+        "lvl": 20,
+        "time": 1806,
+        "score": 266.37,
+        "timestamp": 1632501454,
+        "pclasses": [
+            "warrior",
+            "priest",
+            "deathknight",
+            "druid",
+            "shaman"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2442216325016955140431",
+        "pids": [
+            "5140431",
+            "5070521",
+            "4947469",
+            "5160640",
+            "7389688"
+        ],
+        "pnames": [
+            "Juliaoo",
+            "Хемик",
+            "Slypoodle",
+            "Cheplkll",
+            "Bestworlld"
+        ],
+        "dung": 244,
+        "lvl": 22,
+        "time": 1786,
+        "score": 314.24,
+        "timestamp": 1632501695,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "priest",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2462116324990385208775",
+        "pids": [
+            "5208775",
+            "5156672",
+            "5156055",
+            "5158003",
+            "7781899"
+        ],
+        "pnames": [
+            "Crystaltear",
+            "Enthenhair",
+            "Drrunewound",
+            "Акито",
+            "Бапомат"
+        ],
+        "dung": 246,
+        "lvl": 21,
+        "time": 1712,
+        "score": 291.01,
+        "timestamp": 1632499038,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "deathknight",
+            "hunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3532416325012796360219",
+        "pids": [
+            "6360219",
+            "3791348",
+            "5113228",
+            "7721218",
+            "8091575"
+        ],
+        "pnames": [
+            "Fruupii",
+            "Aabrakadabra",
+            "Armatrix",
+            "Ashanhigh",
+            "Øgginonmiva"
+        ],
+        "dung": 353,
+        "lvl": 24,
+        "time": 2133,
+        "score": 380.48,
+        "timestamp": 1632501279,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "priest",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3532216324997975415519",
+        "pids": [
+            "5415519",
+            "5038512",
+            "917383",
+            "8292325",
+            "8372981"
+        ],
+        "pnames": [
+            "Wêlls",
+            "Yulissá",
+            "Tangênt",
+            "Shydude",
+            "Lwym"
+        ],
+        "dung": 353,
+        "lvl": 22,
+        "time": 2154,
+        "score": 314.09,
+        "timestamp": 1632499797,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "demonhunter",
+            "hunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "250211632500681558012",
+        "pids": [
+            "558012",
+            "2497750",
+            "5115688",
+            "6819333",
+            "7045796"
+        ],
+        "pnames": [
+            "Postgres",
+            "Agidel",
+            "Deadlydance",
+            "Гецугатеншо",
+            "Singg"
+        ],
+        "dung": 250,
+        "lvl": 21,
+        "time": 2125,
+        "score": 285.47,
+        "timestamp": 1632500681,
+        "pclasses": [
+            "deathknight",
+            "priest",
+            "mage",
+            "deathknight",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
