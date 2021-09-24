@@ -191807,5 +191807,145 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2512316324982457389688",
+        "pids": [
+            "7389688",
+            "5070521",
+            "4977029",
+            "5160640",
+            "8011292"
+        ],
+        "pnames": [
+            "Bestworlld",
+            "Хемик",
+            "Violetzxc",
+            "Cheplkll",
+            "Альтрида"
+        ],
+        "dung": 251,
+        "lvl": 23,
+        "time": 2273,
+        "score": 296.84,
+        "timestamp": 1632498245,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "deathknight",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2522116324981658559988",
+        "pids": [
+            "8559988",
+            "7698393",
+            "6488830",
+            "8084459",
+            "8685301"
+        ],
+        "pnames": [
+            "Crazyjohnm",
+            "Andruiler",
+            "Ypervoreia",
+            "Denacine",
+            "Melanthas"
+        ],
+        "dung": 252,
+        "lvl": 21,
+        "time": 2766,
+        "score": 250.03,
+        "timestamp": 1632498165,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "priest",
+            "deathknight",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3702016324985604367156",
+        "pids": [
+            "4367156",
+            "6543920",
+            "447317",
+            "5113228",
+            "7269590"
+        ],
+        "pnames": [
+            "Nyagumin",
+            "Deadkó",
+            "Waitscørka",
+            "Armatrix",
+            "Awesomo"
+        ],
+        "dung": 370,
+        "lvl": 20,
+        "time": 1440,
+        "score": 265.5,
+        "timestamp": 1632498560,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "demonhunter",
+            "priest",
+            "rogue"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701716324981938852968",
+        "pids": [
+            "8852968",
+            "8492297",
+            "7212345",
+            "8354692",
+            "8535318"
+        ],
+        "pnames": [
+            "Reflecto",
+            "Районка",
+            "Depletekey",
+            "Sadkillér",
+            "Hiigo"
+        ],
+        "dung": 370,
+        "lvl": 17,
+        "time": 2004,
+        "score": 174.21,
+        "timestamp": 1632498193,
+        "pclasses": [
+            "warrior",
+            "shaman",
+            "hunter",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
