@@ -191320,5 +191320,40 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "3702016324885276903742",
+        "pids": [
+            "6903742",
+            "7953929",
+            "1241860",
+            "2228436",
+            "7543702"
+        ],
+        "pnames": [
+            "Çýnth",
+            "Drhousé",
+            "Gøldèn",
+            "Søøkie",
+            "Fragnancê"
+        ],
+        "dung": 370,
+        "lvl": 20,
+        "time": 1774,
+        "score": 260.98,
+        "timestamp": 1632488527,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "paladin",
+            "hunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
