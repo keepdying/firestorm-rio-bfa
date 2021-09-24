@@ -190585,5 +190585,40 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2461916324701586903742",
+        "pids": [
+            "6903742",
+            "4346782",
+            "1807301",
+            "6989476",
+            "8078592"
+        ],
+        "pnames": [
+            "Çýnth",
+            "Niñöjësus",
+            "Ruforse",
+            "Nede",
+            "Kyahboi"
+        ],
+        "dung": 246,
+        "lvl": 19,
+        "time": 2140,
+        "score": 236.21,
+        "timestamp": 1632470158,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "warlock",
+            "demonhunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
