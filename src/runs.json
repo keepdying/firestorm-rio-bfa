@@ -190550,5 +190550,40 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2502216324690077855479",
+        "pids": [
+            "7855479",
+            "6245880",
+            "2506381",
+            "6605236",
+            "7591835"
+        ],
+        "pnames": [
+            "Xiaojìng",
+            "Pomax",
+            "Edmé",
+            "Aströ",
+            "Tummka"
+        ],
+        "dung": 250,
+        "lvl": 22,
+        "time": 1892,
+        "score": 317.85,
+        "timestamp": 1632469007,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "paladin",
+            "demonhunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
