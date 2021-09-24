@@ -190270,5 +190270,215 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2451916324634875511690",
+        "pids": [
+            "5511690",
+            "71962",
+            "1838785",
+            "2902599",
+            "7478714"
+        ],
+        "pnames": [
+            "Tyranitowx",
+            "Vigor",
+            "Twolifé",
+            "Iblacksoull",
+            "Castervill"
+        ],
+        "dung": 245,
+        "lvl": 19,
+        "time": 1543,
+        "score": 241.08,
+        "timestamp": 1632463487,
+        "pclasses": [
+            "druid",
+            "druid",
+            "shaman",
+            "demonhunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3532016324645167988615",
+        "pids": [
+            "7988615",
+            "5979905",
+            "7414832",
+            "7695264",
+            "8163310"
+        ],
+        "pnames": [
+            "Avyzu",
+            "Dyzxd",
+            "Chiims",
+            "Mankoide",
+            "Tárcor"
+        ],
+        "dung": 353,
+        "lvl": 20,
+        "time": 3126,
+        "score": 199.02,
+        "timestamp": 1632464516,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "demonhunter",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "353181632465027368023",
+        "pids": [
+            "368023",
+            "3712037",
+            "613681",
+            "1419803",
+            "8612500"
+        ],
+        "pnames": [
+            "Crusnikêngel",
+            "Cublee",
+            "Kromkor",
+            "瞄準",
+            "Diossoberbio"
+        ],
+        "dung": 353,
+        "lvl": 18,
+        "time": 1861,
+        "score": 217.05,
+        "timestamp": 1632465027,
+        "pclasses": [
+            "deathknight",
+            "monk",
+            "warrior",
+            "hunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2482116324657165511690",
+        "pids": [
+            "5511690",
+            "71962",
+            "1838785",
+            "2902599",
+            "7478714"
+        ],
+        "pnames": [
+            "Tyranitowx",
+            "Vigor",
+            "Twolifé",
+            "Iblacksoull",
+            "Castervill"
+        ],
+        "dung": 248,
+        "lvl": 21,
+        "time": 1804,
+        "score": 291.64,
+        "timestamp": 1632465716,
+        "pclasses": [
+            "druid",
+            "druid",
+            "shaman",
+            "demonhunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3692016324650307855479",
+        "pids": [
+            "7855479",
+            "6245880",
+            "2506381",
+            "4082499",
+            "7591835"
+        ],
+        "pnames": [
+            "Xiaojìng",
+            "Pomax",
+            "Edmé",
+            "Kuro",
+            "Tummka"
+        ],
+        "dung": 369,
+        "lvl": 20,
+        "time": 1817,
+        "score": 264.28,
+        "timestamp": 1632465030,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "paladin",
+            "priest",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3691816324653108147484",
+        "pids": [
+            "8147484",
+            "4978643",
+            "6925096",
+            "7639030",
+            "8563629"
+        ],
+        "pnames": [
+            "Ravemytsø",
+            "Wellsx",
+            "Ryntar",
+            "Фарамир",
+            "Excho"
+        ],
+        "dung": 369,
+        "lvl": 18,
+        "time": 2063,
+        "score": 216.09,
+        "timestamp": 1632465310,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "deathknight",
+            "demonhunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
