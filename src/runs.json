@@ -188660,5 +188660,215 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2452516324507596104323",
+        "pids": [
+            "6104323",
+            "1729343",
+            "123385",
+            "5253196",
+            "6408404"
+        ],
+        "pnames": [
+            "Avenyyer",
+            "Hanamí",
+            "Oszman",
+            "Digistørm",
+            "Pandanick"
+        ],
+        "dung": 245,
+        "lvl": 25,
+        "time": 1857,
+        "score": 420.55,
+        "timestamp": 1632450759,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "hunter",
+            "warrior",
+            "paladin"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2492016324505688525913",
+        "pids": [
+            "8525913",
+            "8141188",
+            "8164585",
+            "8418454",
+            "8593510"
+        ],
+        "pnames": [
+            "Dkadeirante",
+            "Fudelas",
+            "Lègolás",
+            "Alldebharan",
+            "Trà"
+        ],
+        "dung": 249,
+        "lvl": 20,
+        "time": 2126,
+        "score": 263.07,
+        "timestamp": 1632450568,
+        "pclasses": [
+            "deathknight",
+            "druid",
+            "hunter",
+            "druid",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2462516324496278258602",
+        "pids": [
+            "8258602",
+            "4622899",
+            "811138",
+            "6388040",
+            "7760006"
+        ],
+        "pnames": [
+            "Elpropiø",
+            "Mátsu",
+            "Bycouxer",
+            "Jøsetpm",
+            "Arkastone"
+        ],
+        "dung": 246,
+        "lvl": 25,
+        "time": 2382,
+        "score": 365.62,
+        "timestamp": 1632449627,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "hunter",
+            "mage",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2522016324508987106539",
+        "pids": [
+            "7106539",
+            "224445",
+            "364390",
+            "2097169",
+            "4634820"
+        ],
+        "pnames": [
+            "Gókû",
+            "Cypress",
+            "Zangmoth",
+            "Teiroo",
+            "Deliriumd"
+        ],
+        "dung": 252,
+        "lvl": 20,
+        "time": 3230,
+        "score": 211.6,
+        "timestamp": 1632450898,
+        "pclasses": [
+            "demonhunter",
+            "priest",
+            "paladin",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3691916324509627335250",
+        "pids": [
+            "7335250",
+            "340722",
+            "6869955",
+            "7947341",
+            "8816360"
+        ],
+        "pnames": [
+            "Pakarui",
+            "Pëterpanda",
+            "Junê",
+            "Svestenikk",
+            "Demonictaz"
+        ],
+        "dung": 369,
+        "lvl": 19,
+        "time": 1884,
+        "score": 239.99,
+        "timestamp": 1632450962,
+        "pclasses": [
+            "druid",
+            "monk",
+            "mage",
+            "priest",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701616324509307908305",
+        "pids": [
+            "7908305",
+            "5178991",
+            "67609",
+            "5210053",
+            "6247831"
+        ],
+        "pnames": [
+            "Athá",
+            "Pachacúthec",
+            "Angheling",
+            "Hypherion",
+            "Leegoolaz"
+        ],
+        "dung": 370,
+        "lvl": 16,
+        "time": 2516,
+        "score": 142.87,
+        "timestamp": 1632450930,
+        "pclasses": [
+            "druid",
+            "druid",
+            "paladin",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
