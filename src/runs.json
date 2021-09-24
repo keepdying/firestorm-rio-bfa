@@ -191390,5 +191390,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "3691816324930834367156",
+        "pids": [
+            "4367156",
+            "5156672",
+            "6181466",
+            "6488830",
+            "6630640"
+        ],
+        "pnames": [
+            "Nyagumin",
+            "Enthenhair",
+            "Baik",
+            "Ypervoreia",
+            "Kimalia"
+        ],
+        "dung": 369,
+        "lvl": 18,
+        "time": 1303,
+        "score": 223.43,
+        "timestamp": 1632493083,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warrior",
+            "priest",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701816324936138483131",
+        "pids": [
+            "8483131",
+            "7845954",
+            "5661379",
+            "7949881",
+            "8526907"
+        ],
+        "pnames": [
+            "Deltoide",
+            "Moolyne",
+            "Dotiros",
+            "Hazè",
+            "Sëyyi"
+        ],
+        "dung": 370,
+        "lvl": 18,
+        "time": 2365,
+        "score": 178.32,
+        "timestamp": 1632493613,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "hunter",
+            "mage",
+            "priest"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
