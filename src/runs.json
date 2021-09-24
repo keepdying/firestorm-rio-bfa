@@ -192332,5 +192332,110 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2512316325023484835817",
+        "pids": [
+            "4835817",
+            "4295573",
+            "3183258",
+            "6191187",
+            "6745310"
+        ],
+        "pnames": [
+            "Voidcake",
+            "Kelpacino",
+            "Kenso",
+            "Crimedh",
+            "Zuhalhunt"
+        ],
+        "dung": 251,
+        "lvl": 23,
+        "time": 1565,
+        "score": 352.34,
+        "timestamp": 1632502348,
+        "pclasses": [
+            "monk",
+            "druid",
+            "hunter",
+            "demonhunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2521816325022024701972",
+        "pids": [
+            "4701972",
+            "6841335",
+            "2727885",
+            "5432044",
+            "7397066"
+        ],
+        "pnames": [
+            "Zemlicka",
+            "Gagagougouu",
+            "Джемпер",
+            "Owõ",
+            "Pumpkinno"
+        ],
+        "dung": 252,
+        "lvl": 18,
+        "time": 2397,
+        "score": 215.07,
+        "timestamp": 1632502202,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "druid",
+            "monk",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "36919163250225528595",
+        "pids": [
+            "28595",
+            "8680174",
+            "7021400",
+            "8286804",
+            "8683699"
+        ],
+        "pnames": [
+            "Itunes",
+            "Jahär",
+            "Zéu",
+            "Sttyxxonrage",
+            "Bankots"
+        ],
+        "dung": 369,
+        "lvl": 19,
+        "time": 2182,
+        "score": 236.99,
+        "timestamp": 1632502255,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "warrior",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
