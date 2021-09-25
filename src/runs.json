@@ -198582,5 +198582,40 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2442116325733007806777",
+        "pids": [
+            "7806777",
+            "7796212",
+            "5154574",
+            "6165624",
+            "7639030"
+        ],
+        "pnames": [
+            "Bublman",
+            "Shredenger",
+            "Альфавоин",
+            "Wingéd",
+            "Фарамир"
+        ],
+        "dung": 244,
+        "lvl": 21,
+        "time": 2196,
+        "score": 238.77,
+        "timestamp": 1632573300,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "warrior",
+            "deathknight",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
