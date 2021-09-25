@@ -198197,5 +198197,40 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "3702316325542747855479",
+        "pids": [
+            "7855479",
+            "7012491",
+            "219339",
+            "3462390",
+            "6615721"
+        ],
+        "pnames": [
+            "Xiaojìng",
+            "Poulder",
+            "Roswaal",
+            "Pinocho",
+            "Katumm"
+        ],
+        "dung": 370,
+        "lvl": 23,
+        "time": 2186,
+        "score": 297.94,
+        "timestamp": 1632554274,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "demonhunter",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
