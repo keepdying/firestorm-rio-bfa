@@ -201904,5 +201904,110 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2452416326068415163019",
+        "pids": [
+            "5163019",
+            "3429290",
+            "953209",
+            "4563462",
+            "8253417"
+        ],
+        "pnames": [
+            "Mondraggon",
+            "Phám",
+            "Gønønêâ",
+            "Nyzel",
+            "Maatí"
+        ],
+        "dung": 245,
+        "lvl": 24,
+        "time": 2295,
+        "score": 325.28,
+        "timestamp": 1632606841,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "demonhunter",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2462316326064676615721",
+        "pids": [
+            "6615721",
+            "6245880",
+            "6421745",
+            "6707281",
+            "7269590"
+        ],
+        "pnames": [
+            "Katumm",
+            "Pomax",
+            "Olórum",
+            "Võrg",
+            "Awesomo"
+        ],
+        "dung": 246,
+        "lvl": 23,
+        "time": 2197,
+        "score": 312.02,
+        "timestamp": 1632606467,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "mage",
+            "deathknight",
+            "rogue"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2522116326049693750875",
+        "pids": [
+            "3750875",
+            "358351",
+            "4646981",
+            "6071318",
+            "7486485"
+        ],
+        "pnames": [
+            "Ludocïél",
+            "Casimyr",
+            "Jamilsn",
+            "Unknownhunt",
+            "Taciturn"
+        ],
+        "dung": 252,
+        "lvl": 21,
+        "time": 2824,
+        "score": 247.91,
+        "timestamp": 1632604969,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "mage",
+            "hunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
