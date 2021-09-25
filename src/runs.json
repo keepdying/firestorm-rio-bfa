@@ -198407,5 +198407,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2442016325639947738380",
+        "pids": [
+            "7738380",
+            "8455435",
+            "5159531",
+            "6869269",
+            "7847185"
+        ],
+        "pnames": [
+            "Maargarita",
+            "Wëedeveryday",
+            "Крайхорн",
+            "Gingï",
+            "Kpasados"
+        ],
+        "dung": 244,
+        "lvl": 20,
+        "time": 1889,
+        "score": 231.66,
+        "timestamp": 1632563994,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "warrior",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701816325627008852968",
+        "pids": [
+            "8852968",
+            "6059250",
+            "2585502",
+            "6745291",
+            "8385931"
+        ],
+        "pnames": [
+            "Reflecto",
+            "Палнатурал",
+            "Suntßeat",
+            "Madricia",
+            "Schpinni"
+        ],
+        "dung": 370,
+        "lvl": 18,
+        "time": 2020,
+        "score": 191.26,
+        "timestamp": 1632562700,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "paladin",
+            "mage",
+            "warlock"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
