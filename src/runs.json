@@ -199177,5 +199177,142 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2472116325800688705320",
+        "pids": [
+            "8705320",
+            "8233106",
+            "953209",
+            "8249142",
+            "8375128"
+        ],
+        "pnames": [
+            "风雅如歌",
+            "小德完全体",
+            "Gønønêâ",
+            "邪恶镰刀",
+            "寄风秋殇"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 2416,
+        "score": 256.02,
+        "timestamp": 1632580068,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "demonhunter",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2472116325814967823403",
+        "pids": [
+            "7823403",
+            "1152254",
+            "5166453",
+            "5714634"
+        ],
+        "pnames": [
+            "Ccoc",
+            "Morddu",
+            "Sleazz",
+            "Kasbarîno"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 2721,
+        "score": 244.03,
+        "timestamp": 1632581496,
+        "pclasses": [
+            "druid",
+            "druid",
+            "priest",
+            "warlock"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2452116325809298080142",
+        "pids": [
+            "8080142",
+            "8115678",
+            "1560",
+            "104875",
+            "8738359"
+        ],
+        "pnames": [
+            "Rynxe",
+            "Vidiktion",
+            "Jefajøker",
+            "Nisokeratina",
+            "Getezetah"
+        ],
+        "dung": 245,
+        "lvl": 21,
+        "time": 2038,
+        "score": 256.32,
+        "timestamp": 1632580929,
+        "pclasses": [
+            "monk",
+            "shaman",
+            "paladin",
+            "demonhunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2462416325797767749030",
+        "pids": [
+            "7749030",
+            "5158816",
+            "5113228",
+            "6753698",
+            "6933707"
+        ],
+        "pnames": [
+            "Tomoboarr",
+            "Lightglimmer",
+            "Armatrix",
+            "Øriginàl",
+            "Nevtrende"
+        ],
+        "dung": 246,
+        "lvl": 24,
+        "time": 2358,
+        "score": 333.64,
+        "timestamp": 1632579776,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "priest",
+            "demonhunter",
+            "priest"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
