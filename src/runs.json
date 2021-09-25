@@ -198127,5 +198127,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2472116325515165020024",
+        "pids": [
+            "5020024",
+            "5997504",
+            "219339",
+            "3462390",
+            "7750493"
+        ],
+        "pnames": [
+            "Clapacino",
+            "Puchiticaa",
+            "Roswaal",
+            "Pinocho",
+            "Täly"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 2487,
+        "score": 253.23,
+        "timestamp": 1632551516,
+        "pclasses": [
+            "warrior",
+            "priest",
+            "demonhunter",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2521916325499404344110",
+        "pids": [
+            "4344110",
+            "5493018",
+            "3195978",
+            "3425278",
+            "7695225"
+        ],
+        "pnames": [
+            "Zentthic",
+            "Gurre",
+            "Lyönce",
+            "Carliego",
+            "Strihar"
+        ],
+        "dung": 252,
+        "lvl": 19,
+        "time": 2227,
+        "score": 238.67,
+        "timestamp": 1632549940,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "warrior",
+            "druid",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
