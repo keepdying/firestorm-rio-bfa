@@ -200399,5 +200399,215 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2472016325923788233664",
+        "pids": [
+            "8233664",
+            "7397529",
+            "4318502",
+            "6968674",
+            "7620296"
+        ],
+        "pnames": [
+            "Niapal",
+            "Thorundio",
+            "Wilux",
+            "Çtrol",
+            "Darksìn"
+        ],
+        "dung": 247,
+        "lvl": 20,
+        "time": 2989,
+        "score": 211.93,
+        "timestamp": 1632592378,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "priest",
+            "paladin",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2452116325921135415519",
+        "pids": [
+            "5415519",
+            "5038512",
+            "1560",
+            "7026603",
+            "8372981"
+        ],
+        "pnames": [
+            "Wêlls",
+            "Yulissá",
+            "Jefajøker",
+            "Torpore",
+            "Lwym"
+        ],
+        "dung": 245,
+        "lvl": 21,
+        "time": 1639,
+        "score": 289.99,
+        "timestamp": 1632592113,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "paladin",
+            "demonhunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2462216325926065571912",
+        "pids": [
+            "5571912",
+            "7991985",
+            "2556850",
+            "2660572",
+            "8528048"
+        ],
+        "pnames": [
+            "Ananaria",
+            "Famicartofi",
+            "Retribull",
+            "Wrâthful",
+            "Ghostfumes"
+        ],
+        "dung": 246,
+        "lvl": 22,
+        "time": 2405,
+        "score": 273.21,
+        "timestamp": 1632592606,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "paladin",
+            "demonhunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2512016325920676671144",
+        "pids": [
+            "6671144",
+            "7233031",
+            "66238",
+            "7627916",
+            "7771802"
+        ],
+        "pnames": [
+            "Lilsam",
+            "Xharú",
+            "Mälphås",
+            "Zxox",
+            "Yunyün"
+        ],
+        "dung": 251,
+        "lvl": 20,
+        "time": 2195,
+        "score": 226.45,
+        "timestamp": 1632592067,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "deathknight",
+            "demonhunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2522216325923404367156",
+        "pids": [
+            "4367156",
+            "8110036",
+            "5156055",
+            "7272476",
+            "7781899"
+        ],
+        "pnames": [
+            "Nyagumin",
+            "Aerodynamica",
+            "Drrunewound",
+            "Bygorôx",
+            "Бапомат"
+        ],
+        "dung": 252,
+        "lvl": 22,
+        "time": 2237,
+        "score": 317.48,
+        "timestamp": 1632592340,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "deathknight",
+            "mage",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3702316325921426841335",
+        "pids": [
+            "6841335",
+            "4340038",
+            "5113228",
+            "6359200",
+            "7397066"
+        ],
+        "pnames": [
+            "Gagagougouu",
+            "Holyme",
+            "Armatrix",
+            "Byos",
+            "Pumpkinno"
+        ],
+        "dung": 370,
+        "lvl": 23,
+        "time": 1954,
+        "score": 311.96,
+        "timestamp": 1632592142,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "priest",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
