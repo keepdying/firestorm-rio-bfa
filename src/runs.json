@@ -199734,5 +199734,250 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2462116325859147997171",
+        "pids": [
+            "7997171",
+            "358351",
+            "5727207",
+            "8084459",
+            "8679115"
+        ],
+        "pnames": [
+            "Allamyr",
+            "Casimyr",
+            "Alahastar",
+            "Denacine",
+            "Kaßpy"
+        ],
+        "dung": 246,
+        "lvl": 21,
+        "time": 2961,
+        "score": 225.38,
+        "timestamp": 1632585914,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "paladin",
+            "deathknight",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3532016325882361212498",
+        "pids": [
+            "1212498",
+            "7698393",
+            "8050091",
+            "8119555",
+            "8483131"
+        ],
+        "pnames": [
+            "Ultrapro",
+            "Andruiler",
+            "Waxner",
+            "Notrlyseriou",
+            "Deltoide"
+        ],
+        "dung": 353,
+        "lvl": 20,
+        "time": 2294,
+        "score": 230.55,
+        "timestamp": 1632588236,
+        "pclasses": [
+            "deathknight",
+            "druid",
+            "demonhunter",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2512216325868182685711",
+        "pids": [
+            "2685711",
+            "7946356",
+            "2945219",
+            "7026603",
+            "7662342"
+        ],
+        "pnames": [
+            "Pacciiani",
+            "Pøpcorn",
+            "Ruspafar",
+            "Torpore",
+            "Aphrö"
+        ],
+        "dung": 251,
+        "lvl": 22,
+        "time": 2015,
+        "score": 283.17,
+        "timestamp": 1632586818,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "hunter",
+            "demonhunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2512116325861316126286",
+        "pids": [
+            "6126286",
+            "4861430",
+            "1560",
+            "5090638",
+            "8372981"
+        ],
+        "pnames": [
+            "Prícé",
+            "Holyxá",
+            "Jefajøker",
+            "Universox",
+            "Lwym"
+        ],
+        "dung": 251,
+        "lvl": 21,
+        "time": 1572,
+        "score": 290.98,
+        "timestamp": 1632586131,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "paladin",
+            "hunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2502516325874357819236",
+        "pids": [
+            "7819236",
+            "7859539",
+            "6238642",
+            "6745310",
+            "8603840"
+        ],
+        "pnames": [
+            "Dylaayy",
+            "Methees",
+            "Nepabm",
+            "Zuhalhunt",
+            "Yildk"
+        ],
+        "dung": 250,
+        "lvl": 25,
+        "time": 2218,
+        "score": 376.25,
+        "timestamp": 1632587435,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "hunter",
+            "hunter",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2502116325884827760006",
+        "pids": [
+            "7760006",
+            "6444792",
+            "811138",
+            "3799266",
+            "6061970"
+        ],
+        "pnames": [
+            "Arkastone",
+            "Ëyrien",
+            "Bycouxer",
+            "Løvelølz",
+            "Holycrâp"
+        ],
+        "dung": 250,
+        "lvl": 21,
+        "time": 1929,
+        "score": 288.1,
+        "timestamp": 1632588482,
+        "pclasses": [
+            "demonhunter",
+            "druid",
+            "hunter",
+            "mage",
+            "paladin"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2502016325867048705320",
+        "pids": [
+            "8705320",
+            "8233106",
+            "107044",
+            "8100190",
+            "8637435"
+        ],
+        "pnames": [
+            "风雅如歌",
+            "小德完全体",
+            "Pyrøphøbia",
+            "Sinnaroda",
+            "Alextrassza"
+        ],
+        "dung": 250,
+        "lvl": 20,
+        "time": 2324,
+        "score": 229.33,
+        "timestamp": 1632586704,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "mage",
+            "warrior",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
