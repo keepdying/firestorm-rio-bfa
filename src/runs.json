@@ -198862,5 +198862,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2472016325775157665037",
+        "pids": [
+            "7665037",
+            "7331425",
+            "5155632",
+            "6639292",
+            "8586411"
+        ],
+        "pnames": [
+            "埃克莱恩",
+            "Фиолис",
+            "Nesicil",
+            "Охотни",
+            "Moondjinx"
+        ],
+        "dung": 247,
+        "lvl": 20,
+        "time": 3462,
+        "score": 196.57,
+        "timestamp": 1632577515,
+        "pclasses": [
+            "demonhunter",
+            "druid",
+            "warrior",
+            "mage",
+            "priest"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2462716325782125253196",
+        "pids": [
+            "5253196",
+            "8153236",
+            "2034535",
+            "3919606",
+            "7568931"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Hølyphia",
+            "Magopotabio",
+            "Jøhnygød",
+            "Watafaki"
+        ],
+        "dung": 246,
+        "lvl": 27,
+        "time": 2157,
+        "score": 505.07,
+        "timestamp": 1632578212,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "mage",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
