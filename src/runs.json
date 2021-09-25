@@ -197637,5 +197637,145 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2472016325414214660088",
+        "pids": [
+            "4660088",
+            "7353635",
+            "1291910",
+            "6971543",
+            "7591835"
+        ],
+        "pnames": [
+            "Ténzi",
+            "Singeth",
+            "Wargrigg",
+            "Neminiss",
+            "Tummka"
+        ],
+        "dung": 247,
+        "lvl": 20,
+        "time": 2575,
+        "score": 227.17,
+        "timestamp": 1632541421,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "warrior",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2442316325420255415519",
+        "pids": [
+            "5415519",
+            "5038512",
+            "123385",
+            "6094613",
+            "8372981"
+        ],
+        "pnames": [
+            "Wêlls",
+            "Yulissá",
+            "Oszman",
+            "Conexita",
+            "Lwym"
+        ],
+        "dung": 244,
+        "lvl": 23,
+        "time": 1543,
+        "score": 350.0,
+        "timestamp": 1632542025,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "warrior",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "369231632541848235749",
+        "pids": [
+            "235749",
+            "6061970",
+            "184956",
+            "6869269",
+            "7377817"
+        ],
+        "pnames": [
+            "Martinez",
+            "Holycrâp",
+            "Xinfamous",
+            "Gingï",
+            "Boóm"
+        ],
+        "dung": 369,
+        "lvl": 23,
+        "time": 1644,
+        "score": 354.76,
+        "timestamp": 1632541848,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "deathknight",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3692016325413356513454",
+        "pids": [
+            "6513454",
+            "6987295",
+            "1224468",
+            "4979023",
+            "5714678"
+        ],
+        "pnames": [
+            "Quëënt",
+            "Firetoll",
+            "Shessith",
+            "Villä",
+            "Bup"
+        ],
+        "dung": 369,
+        "lvl": 20,
+        "time": 1483,
+        "score": 268.09,
+        "timestamp": 1632541335,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "hunter",
+            "hunter",
+            "paladin"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
