@@ -197360,5 +197360,142 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2462416325367523791348",
+        "pids": [
+            "3791348",
+            "1729343",
+            "4542509",
+            "5969587"
+        ],
+        "pnames": [
+            "Aabrakadabra",
+            "Hanamí",
+            "Blurryfacè",
+            "Mesavina"
+        ],
+        "dung": 246,
+        "lvl": 24,
+        "time": 2558,
+        "score": 322.16,
+        "timestamp": 1632536752,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2512016325367574368117",
+        "pids": [
+            "4368117",
+            "7397529",
+            "3963638",
+            "5714678",
+            "7925921"
+        ],
+        "pnames": [
+            "Manhý",
+            "Thorundio",
+            "Hohenheimz",
+            "Bup",
+            "Vllaadimir"
+        ],
+        "dung": 251,
+        "lvl": 20,
+        "time": 1860,
+        "score": 260.58,
+        "timestamp": 1632536757,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "mage",
+            "paladin",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3692416325373865415519",
+        "pids": [
+            "5415519",
+            "5038512",
+            "123385",
+            "6094613",
+            "8372981"
+        ],
+        "pnames": [
+            "Wêlls",
+            "Yulissá",
+            "Oszman",
+            "Conexita",
+            "Lwym"
+        ],
+        "dung": 369,
+        "lvl": 24,
+        "time": 1713,
+        "score": 389.45,
+        "timestamp": 1632537386,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "warrior",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701716325373091253652",
+        "pids": [
+            "1253652",
+            "5531239",
+            "5635334",
+            "6072858",
+            "6086905"
+        ],
+        "pnames": [
+            "Dirtypaws",
+            "Izarta",
+            "Merlius",
+            "Dracombus",
+            "Leoús"
+        ],
+        "dung": 370,
+        "lvl": 17,
+        "time": 1638,
+        "score": 197.79,
+        "timestamp": 1632537309,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "mage",
+            "mage",
+            "paladin"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
