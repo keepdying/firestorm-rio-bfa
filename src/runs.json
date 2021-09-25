@@ -198617,5 +198617,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2512616325751835253196",
+        "pids": [
+            "5253196",
+            "8153236",
+            "2034535",
+            "3919606",
+            "7568931"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Hølyphia",
+            "Magopotabio",
+            "Jøhnygød",
+            "Watafaki"
+        ],
+        "dung": 251,
+        "lvl": 26,
+        "time": 1650,
+        "score": 466.67,
+        "timestamp": 1632575183,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "mage",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2521816325754957598396",
+        "pids": [
+            "7598396",
+            "5208403",
+            "1105553",
+            "5498607",
+            "6647359"
+        ],
+        "pnames": [
+            "Palacur",
+            "Кактусвраю",
+            "Borschevik",
+            "Arakaali",
+            "Смузихлёб"
+        ],
+        "dung": 252,
+        "lvl": 18,
+        "time": 2102,
+        "score": 217.65,
+        "timestamp": 1632575495,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "warrior",
+            "rogue",
+            "warlock"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
