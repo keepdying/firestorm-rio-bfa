@@ -198337,5 +198337,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2452016325619084667339",
+        "pids": [
+            "4667339",
+            "8693104",
+            "5158003",
+            "7272476",
+            "7781899"
+        ],
+        "pnames": [
+            "Runewound",
+            "Awfulpw",
+            "Акито",
+            "Bygorôx",
+            "Бапомат"
+        ],
+        "dung": 245,
+        "lvl": 20,
+        "time": 1299,
+        "score": 267.94,
+        "timestamp": 1632561908,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "hunter",
+            "mage",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701916325614057738380",
+        "pids": [
+            "7738380",
+            "8455435",
+            "4796022",
+            "6240990",
+            "6503097"
+        ],
+        "pnames": [
+            "Maargarita",
+            "Wëedeveryday",
+            "Sonolokko",
+            "Cazzomago",
+            "Milue"
+        ],
+        "dung": 370,
+        "lvl": 19,
+        "time": 1802,
+        "score": 237.41,
+        "timestamp": 1632561405,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "warlock",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
