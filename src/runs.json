@@ -197952,5 +197952,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2472116325463784660088",
+        "pids": [
+            "4660088",
+            "7353635",
+            "1291910",
+            "6971543",
+            "7591835"
+        ],
+        "pnames": [
+            "Ténzi",
+            "Singeth",
+            "Wargrigg",
+            "Neminiss",
+            "Tummka"
+        ],
+        "dung": 247,
+        "lvl": 21,
+        "time": 4139,
+        "score": 203.8,
+        "timestamp": 1632546378,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "warrior",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2492016325466472897055",
+        "pids": [
+            "2897055",
+            "2866506",
+            "611047",
+            "2562817",
+            "4451267"
+        ],
+        "pnames": [
+            "Cordobës",
+            "Visënya",
+            "Agmar",
+            "Süb",
+            "Donpalito"
+        ],
+        "dung": 249,
+        "lvl": 20,
+        "time": 2355,
+        "score": 260.7,
+        "timestamp": 1632546647,
+        "pclasses": [
+            "deathknight",
+            "druid",
+            "demonhunter",
+            "paladin",
+            "paladin"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
