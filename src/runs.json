@@ -67634,7 +67634,7 @@
         "dung": 246,
         "lvl": 2,
         "time": 2462,
-        "score": 0.01,
+        "score": 0.02,
         "timestamp": 1631664000,
         "pclasses": [
             "noclass",
@@ -81914,7 +81914,7 @@
         "dung": 370,
         "lvl": 5,
         "time": 3503,
-        "score": 7.03,
+        "score": 7.04,
         "timestamp": 1631664000,
         "pclasses": [
             "noclass",
@@ -82062,7 +82062,7 @@
         "dung": 370,
         "lvl": 6,
         "time": 4648,
-        "score": 3.18,
+        "score": 3.19,
         "timestamp": 1631664000,
         "pclasses": [
             "noclass",
@@ -198680,6 +198680,181 @@
             "warrior",
             "rogue",
             "warlock"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3532016325764865721764",
+        "pids": [
+            "5721764",
+            "358351",
+            "950909",
+            "953209",
+            "6090034"
+        ],
+        "pnames": [
+            "Stanced",
+            "Casimyr",
+            "Lilmasti",
+            "Gønønêâ",
+            "Dokkhos"
+        ],
+        "dung": 353,
+        "lvl": 20,
+        "time": 2787,
+        "score": 210.95,
+        "timestamp": 1632576486,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "priest",
+            "demonhunter",
+            "paladin"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2522016325762975178561",
+        "pids": [
+            "5178561",
+            "6284265",
+            "644167",
+            "7997171",
+            "8031641"
+        ],
+        "pnames": [
+            "Stajltank",
+            "Hoppín",
+            "Ishîda",
+            "Allamyr",
+            "Mookate"
+        ],
+        "dung": 252,
+        "lvl": 20,
+        "time": 1959,
+        "score": 264.79,
+        "timestamp": 1632576297,
+        "pclasses": [
+            "warrior",
+            "monk",
+            "hunter",
+            "paladin",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3692216325763917855479",
+        "pids": [
+            "7855479",
+            "7012491",
+            "6388040",
+            "7760006",
+            "8591705"
+        ],
+        "pnames": [
+            "Xiaojìng",
+            "Poulder",
+            "Jøsetpm",
+            "Arkastone",
+            "Potatomastaa"
+        ],
+        "dung": 369,
+        "lvl": 22,
+        "time": 1631,
+        "score": 322.82,
+        "timestamp": 1632576391,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "mage",
+            "demonhunter",
+            "warlock"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3692016325761527389688",
+        "pids": [
+            "7389688",
+            "5384388",
+            "5055734",
+            "8011292",
+            "8395603"
+        ],
+        "pnames": [
+            "Bestworlld",
+            "Goodheavens",
+            "Хилякало",
+            "Альтрида",
+            "Aisuro"
+        ],
+        "dung": 369,
+        "lvl": 20,
+        "time": 1897,
+        "score": 263.37,
+        "timestamp": 1632576152,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "druid",
+            "warrior",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "370191632575575411793",
+        "pids": [
+            "411793",
+            "1222985",
+            "2688371",
+            "6508674",
+            "7548098"
+        ],
+        "pnames": [
+            "Fromehel",
+            "Northfurion",
+            "Sleazzk",
+            "Baguetta",
+            "Tsink"
+        ],
+        "dung": 370,
+        "lvl": 19,
+        "time": 1808,
+        "score": 237.34,
+        "timestamp": 1632575575,
+        "pclasses": [
+            "demonhunter",
+            "priest",
+            "warlock",
+            "warrior",
+            "hunter"
         ],
         "affixes": [
             120,
