@@ -197532,5 +197532,110 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2462216325395955415519",
+        "pids": [
+            "5415519",
+            "5038512",
+            "123385",
+            "6094613",
+            "8372981"
+        ],
+        "pnames": [
+            "Wêlls",
+            "Yulissá",
+            "Oszman",
+            "Conexita",
+            "Lwym"
+        ],
+        "dung": 246,
+        "lvl": 22,
+        "time": 1712,
+        "score": 320.43,
+        "timestamp": 1632539595,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "warrior",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2462016325405394368117",
+        "pids": [
+            "4368117",
+            "7397529",
+            "3853106",
+            "3963638",
+            "4318502"
+        ],
+        "pnames": [
+            "Manhý",
+            "Thorundio",
+            "Jehtro",
+            "Hohenheimz",
+            "Wilux"
+        ],
+        "dung": 246,
+        "lvl": 20,
+        "time": 2139,
+        "score": 259.25,
+        "timestamp": 1632540539,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "deathknight",
+            "mage",
+            "priest"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3531916325398427455778",
+        "pids": [
+            "7455778",
+            "6090034",
+            "2774079",
+            "3250934",
+            "7726392"
+        ],
+        "pnames": [
+            "Saltyballz",
+            "Dokkhos",
+            "Heisennberg",
+            "Kaicerwar",
+            "Mlewirbk"
+        ],
+        "dung": 353,
+        "lvl": 19,
+        "time": 2301,
+        "score": 209.05,
+        "timestamp": 1632539842,
+        "pclasses": [
+            "deathknight",
+            "paladin",
+            "hunter",
+            "warrior",
+            "rogue"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
