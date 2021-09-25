@@ -198477,5 +198477,110 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "3532116325708776128552",
+        "pids": [
+            "6128552",
+            "6903742",
+            "6388040",
+            "6525723",
+            "7728448"
+        ],
+        "pnames": [
+            "Kelplin",
+            "Çýnth",
+            "Jøsetpm",
+            "Clønerz",
+            "Metamørphine"
+        ],
+        "dung": 353,
+        "lvl": 21,
+        "time": 2303,
+        "score": 252.92,
+        "timestamp": 1632570877,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "mage",
+            "deathknight",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2521816325708282270321",
+        "pids": [
+            "2270321",
+            "8264008",
+            "3362855",
+            "6070662",
+            "6269950"
+        ],
+        "pnames": [
+            "Wulpera",
+            "Odoyle",
+            "Theadn",
+            "Lolypopipopi",
+            "Søsaboy"
+        ],
+        "dung": 252,
+        "lvl": 18,
+        "time": 2632,
+        "score": 191.81,
+        "timestamp": 1632570828,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "deathknight",
+            "hunter",
+            "rogue"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3692016325704247806777",
+        "pids": [
+            "7806777",
+            "7796212",
+            "5495837",
+            "6165624",
+            "7639030"
+        ],
+        "pnames": [
+            "Bublman",
+            "Shredenger",
+            "Даркхантер",
+            "Wingéd",
+            "Фарамир"
+        ],
+        "dung": 369,
+        "lvl": 20,
+        "time": 2172,
+        "score": 260.23,
+        "timestamp": 1632570424,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "demonhunter",
+            "deathknight",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
