@@ -198022,5 +198022,110 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2441916325481122109481",
+        "pids": [
+            "2109481",
+            "5622802",
+            "3853106",
+            "3963638",
+            "4368117"
+        ],
+        "pnames": [
+            "Entelequia",
+            "Pachacùtec",
+            "Jehtro",
+            "Hohenheimz",
+            "Manhý"
+        ],
+        "dung": 244,
+        "lvl": 19,
+        "time": 1427,
+        "score": 240.77,
+        "timestamp": 1632548112,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "deathknight",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2462516325484387342328",
+        "pids": [
+            "7342328",
+            "7995585",
+            "219339",
+            "3462390",
+            "8224027"
+        ],
+        "pnames": [
+            "Xháru",
+            "Schuberg",
+            "Roswaal",
+            "Pinocho",
+            "Mermëlada"
+        ],
+        "dung": 246,
+        "lvl": 25,
+        "time": 2796,
+        "score": 339.5,
+        "timestamp": 1632548438,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "demonhunter",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2502016325481095020024",
+        "pids": [
+            "5020024",
+            "5997504",
+            "2902599",
+            "4542509",
+            "7750493"
+        ],
+        "pnames": [
+            "Clapacino",
+            "Puchiticaa",
+            "Iblacksoull",
+            "Blurryfacè",
+            "Täly"
+        ],
+        "dung": 250,
+        "lvl": 20,
+        "time": 1936,
+        "score": 261.7,
+        "timestamp": 1632548109,
+        "pclasses": [
+            "warrior",
+            "priest",
+            "demonhunter",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
