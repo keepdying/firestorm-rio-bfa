@@ -200714,5 +200714,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2492516325950867819236",
+        "pids": [
+            "7819236",
+            "7859539",
+            "6238642",
+            "6745310",
+            "7948198"
+        ],
+        "pnames": [
+            "Dylaayy",
+            "Methees",
+            "Nepabm",
+            "Zuhalhunt",
+            "Scorkaa"
+        ],
+        "dung": 249,
+        "lvl": 25,
+        "time": 2188,
+        "score": 423.4,
+        "timestamp": 1632595086,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "hunter",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2482416325953175415519",
+        "pids": [
+            "5415519",
+            "5038512",
+            "1560",
+            "4622899",
+            "8372981"
+        ],
+        "pnames": [
+            "Wêlls",
+            "Yulissá",
+            "Jefajøker",
+            "Mátsu",
+            "Lwym"
+        ],
+        "dung": 248,
+        "lvl": 24,
+        "time": 1973,
+        "score": 385.96,
+        "timestamp": 1632595317,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "paladin",
+            "monk",
+            "deathknight"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
