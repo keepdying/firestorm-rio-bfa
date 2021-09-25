@@ -198232,5 +198232,75 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2522116325569544344110",
+        "pids": [
+            "4344110",
+            "5865155",
+            "3462390",
+            "6045199",
+            "7695225"
+        ],
+        "pnames": [
+            "Zentthic",
+            "Ricany",
+            "Pinocho",
+            "Llyön",
+            "Strihar"
+        ],
+        "dung": 252,
+        "lvl": 21,
+        "time": 1742,
+        "score": 293.95,
+        "timestamp": 1632556954,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "paladin",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701816325569008637435",
+        "pids": [
+            "8637435",
+            "6199242",
+            "6557521",
+            "8078311",
+            "8297589"
+        ],
+        "pnames": [
+            "Alextrassza",
+            "Palanangs",
+            "Onehitdelete",
+            "Luciefear",
+            "Coffeeticks"
+        ],
+        "dung": 370,
+        "lvl": 18,
+        "time": 4017,
+        "score": 143.61,
+        "timestamp": 1632556900,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "hunter",
+            "deathknight",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
