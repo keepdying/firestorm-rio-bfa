@@ -197777,5 +197777,145 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2462316325449387342328",
+        "pids": [
+            "7342328",
+            "7995585",
+            "219339",
+            "3462390",
+            "8224027"
+        ],
+        "pnames": [
+            "Xháru",
+            "Schuberg",
+            "Roswaal",
+            "Pinocho",
+            "Mermëlada"
+        ],
+        "dung": 246,
+        "lvl": 23,
+        "time": 2101,
+        "score": 345.96,
+        "timestamp": 1632544938,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "demonhunter",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2462216325423147342328",
+        "pids": [
+            "7342328",
+            "7995585",
+            "219339",
+            "3462390",
+            "8224027"
+        ],
+        "pnames": [
+            "Xháru",
+            "Schuberg",
+            "Roswaal",
+            "Pinocho",
+            "Mermëlada"
+        ],
+        "dung": 246,
+        "lvl": 22,
+        "time": 2098,
+        "score": 314.89,
+        "timestamp": 1632542314,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "demonhunter",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2462116325450936505242",
+        "pids": [
+            "6505242",
+            "5493018",
+            "1598068",
+            "3286991",
+            "3933636"
+        ],
+        "pnames": [
+            "Biglioss",
+            "Gurre",
+            "Srescrabaluz",
+            "Shelaine",
+            "Danadrield"
+        ],
+        "dung": 246,
+        "lvl": 21,
+        "time": 2635,
+        "score": 238.78,
+        "timestamp": 1632545093,
+        "pclasses": [
+            "druid",
+            "monk",
+            "warrior",
+            "paladin",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2512116325448502109481",
+        "pids": [
+            "2109481",
+            "5622802",
+            "3853106",
+            "3963638",
+            "4368117"
+        ],
+        "pnames": [
+            "Entelequia",
+            "Pachacùtec",
+            "Jehtro",
+            "Hohenheimz",
+            "Manhý"
+        ],
+        "dung": 251,
+        "lvl": 21,
+        "time": 2477,
+        "score": 235.92,
+        "timestamp": 1632544850,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "deathknight",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
