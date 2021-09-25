@@ -200784,5 +200784,215 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2452016325970337760006",
+        "pids": [
+            "7760006",
+            "196303",
+            "811138",
+            "3799266",
+            "4675080"
+        ],
+        "pnames": [
+            "Arkastone",
+            "Líghmaiden",
+            "Bycouxer",
+            "Løvelølz",
+            "Ehnzo"
+        ],
+        "dung": 245,
+        "lvl": 20,
+        "time": 1344,
+        "score": 267.35,
+        "timestamp": 1632597033,
+        "pclasses": [
+            "demonhunter",
+            "priest",
+            "hunter",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2502516325975667819236",
+        "pids": [
+            "7819236",
+            "7859539",
+            "6238642",
+            "6745310",
+            "7948198"
+        ],
+        "pnames": [
+            "Dylaayy",
+            "Methees",
+            "Nepabm",
+            "Zuhalhunt",
+            "Scorkaa"
+        ],
+        "dung": 250,
+        "lvl": 25,
+        "time": 1917,
+        "score": 422.61,
+        "timestamp": 1632597566,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "hunter",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2502116325973818681891",
+        "pids": [
+            "8681891",
+            "6444792",
+            "4311702",
+            "6869269",
+            "7305214"
+        ],
+        "pnames": [
+            "Leryene",
+            "Ëyrien",
+            "Mäfî",
+            "Gingï",
+            "Martínez"
+        ],
+        "dung": 250,
+        "lvl": 21,
+        "time": 2147,
+        "score": 285.17,
+        "timestamp": 1632597381,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "monk",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2502016325976701036626",
+        "pids": [
+            "1036626",
+            "8565902",
+            "1148820",
+            "1564323",
+            "6539811"
+        ],
+        "pnames": [
+            "Strátø",
+            "Kacipal",
+            "Unbeliever",
+            "Xawwen",
+            "Ønehanded"
+        ],
+        "dung": 250,
+        "lvl": 20,
+        "time": 2581,
+        "score": 218.86,
+        "timestamp": 1632597670,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "paladin",
+            "druid",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3692216325968995154574",
+        "pids": [
+            "5154574",
+            "7796212",
+            "1199734",
+            "4324913",
+            "7371054"
+        ],
+        "pnames": [
+            "Альфавоин",
+            "Shredenger",
+            "Zerren",
+            "Шадоуз",
+            "Lounger"
+        ],
+        "dung": 369,
+        "lvl": 22,
+        "time": 1598,
+        "score": 323.27,
+        "timestamp": 1632596899,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "demonhunter",
+            "warlock",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3702216325977215177708",
+        "pids": [
+            "5177708",
+            "1222985",
+            "479000",
+            "6924122",
+            "8189977"
+        ],
+        "pnames": [
+            "Stronw",
+            "Northfurion",
+            "Misiifus",
+            "Brokendreams",
+            "Pidozra"
+        ],
+        "dung": 370,
+        "lvl": 22,
+        "time": 2022,
+        "score": 279.49,
+        "timestamp": 1632597721,
+        "pclasses": [
+            "warrior",
+            "priest",
+            "hunter",
+            "shaman",
+            "rogue"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
