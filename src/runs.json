@@ -200609,5 +200609,110 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2442216325928117335250",
+        "pids": [
+            "7335250",
+            "7012491",
+            "5706525",
+            "5969587",
+            "8683699"
+        ],
+        "pnames": [
+            "Pakarui",
+            "Poulder",
+            "Abuseyøurdna",
+            "Mesavina",
+            "Bankots"
+        ],
+        "dung": 244,
+        "lvl": 22,
+        "time": 2114,
+        "score": 266.87,
+        "timestamp": 1632592811,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "priest",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2482216325945536841335",
+        "pids": [
+            "6841335",
+            "4340038",
+            "6359200",
+            "6994754",
+            "7397066"
+        ],
+        "pnames": [
+            "Gagagougouu",
+            "Holyme",
+            "Byos",
+            "Nosica",
+            "Pumpkinno"
+        ],
+        "dung": 248,
+        "lvl": 22,
+        "time": 1752,
+        "score": 321.79,
+        "timestamp": 1632594553,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "370201632593709235749",
+        "pids": [
+            "235749",
+            "6061970",
+            "128124",
+            "2097169",
+            "8404366"
+        ],
+        "pnames": [
+            "Martinez",
+            "Holycrâp",
+            "Mâfî",
+            "Teiroo",
+            "Deaandree"
+        ],
+        "dung": 370,
+        "lvl": 20,
+        "time": 1742,
+        "score": 261.41,
+        "timestamp": 1632593709,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "demonhunter",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
