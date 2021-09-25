@@ -197497,5 +197497,40 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "251231632538106235749",
+        "pids": [
+            "235749",
+            "6061970",
+            "184956",
+            "6869269",
+            "7377817"
+        ],
+        "pnames": [
+            "Martinez",
+            "Holycrâp",
+            "Xinfamous",
+            "Gingï",
+            "Boóm"
+        ],
+        "dung": 251,
+        "lvl": 23,
+        "time": 1865,
+        "score": 347.03,
+        "timestamp": 1632538106,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "deathknight",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
