@@ -199979,5 +199979,110 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2471816325887308662576",
+        "pids": [
+            "8662576",
+            "8286726",
+            "5107471",
+            "8380508",
+            "8762984"
+        ],
+        "pnames": [
+            "Cuéball",
+            "Yuimn",
+            "Lcf",
+            "Кисунэ",
+            "Mîstake"
+        ],
+        "dung": 247,
+        "lvl": 18,
+        "time": 1936,
+        "score": 217.8,
+        "timestamp": 1632588730,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "paladin",
+            "hunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3532116325896297335250",
+        "pids": [
+            "7335250",
+            "1450392",
+            "5969587",
+            "6998166",
+            "8838874"
+        ],
+        "pnames": [
+            "Pakarui",
+            "Sttyxx",
+            "Mesavina",
+            "Imbottom",
+            "Bänkots"
+        ],
+        "dung": 353,
+        "lvl": 21,
+        "time": 2051,
+        "score": 286.46,
+        "timestamp": 1632589629,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "warrior",
+            "hunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2482816325887795253196",
+        "pids": [
+            "5253196",
+            "8153236",
+            "2034535",
+            "6888836",
+            "7568931"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Hølyphia",
+            "Magopotabio",
+            "Reysse",
+            "Watafaki"
+        ],
+        "dung": 248,
+        "lvl": 28,
+        "time": 3187,
+        "score": 440.65,
+        "timestamp": 1632588779,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "mage",
+            "demonhunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
