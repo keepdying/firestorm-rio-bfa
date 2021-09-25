@@ -199594,5 +199594,145 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2471916325836252458603",
+        "pids": [
+            "2458603",
+            "8669317",
+            "6697549",
+            "6728787",
+            "7685649"
+        ],
+        "pnames": [
+            "Agrar",
+            "Evanight",
+            "Gildarella",
+            "Edwardngate",
+            "Marò"
+        ],
+        "dung": 247,
+        "lvl": 19,
+        "time": 3726,
+        "score": 174.06,
+        "timestamp": 1632583625,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "shaman",
+            "warrior",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "2452716325849125253196",
+        "pids": [
+            "5253196",
+            "8153236",
+            "2034535",
+            "6888836",
+            "7568931"
+        ],
+        "pnames": [
+            "Digistørm",
+            "Hølyphia",
+            "Magopotabio",
+            "Reysse",
+            "Watafaki"
+        ],
+        "dung": 245,
+        "lvl": 27,
+        "time": 1766,
+        "score": 510.51,
+        "timestamp": 1632584912,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "mage",
+            "demonhunter",
+            "hunter"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3692316325858687749030",
+        "pids": [
+            "7749030",
+            "5158816",
+            "5113228",
+            "5158003",
+            "6933707"
+        ],
+        "pnames": [
+            "Tomoboarr",
+            "Lightglimmer",
+            "Armatrix",
+            "Акито",
+            "Nevtrende"
+        ],
+        "dung": 369,
+        "lvl": 23,
+        "time": 2020,
+        "score": 348.99,
+        "timestamp": 1632585868,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "priest",
+            "hunter",
+            "priest"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
+    },
+    {
+        "rid": "3701916325854096128552",
+        "pids": [
+            "6128552",
+            "8265436",
+            "6118663",
+            "6138430",
+            "7327762"
+        ],
+        "pnames": [
+            "Kelplin",
+            "Dixgell",
+            "Zambany",
+            "Tomboii",
+            "Raployy"
+        ],
+        "dung": 370,
+        "lvl": 19,
+        "time": 2999,
+        "score": 175.03,
+        "timestamp": 1632585409,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "druid",
+            "deathknight",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
