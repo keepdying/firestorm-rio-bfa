@@ -197917,5 +197917,40 @@
             8,
             14
         ]
+    },
+    {
+        "rid": "2502216325456306513454",
+        "pids": [
+            "6513454",
+            "6987295",
+            "1224468",
+            "4979023",
+            "5480135"
+        ],
+        "pnames": [
+            "Quëënt",
+            "Firetoll",
+            "Shessith",
+            "Villä",
+            "Soulfast"
+        ],
+        "dung": 250,
+        "lvl": 22,
+        "time": 2417,
+        "score": 272.64,
+        "timestamp": 1632545630,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "hunter",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            120,
+            10,
+            8,
+            14
+        ]
     }
 ]
