@@ -33,6 +33,32 @@ $text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000
                 margin-left: 5px;
                 display: inline-block;
             }
+            &.timer {
+                position: relative;
+                .completed{
+                    position: absolute;
+                    background-color: #ffffff;
+                    padding: 5px 10px;
+                    border-radius: 5px;
+                    width: 150px;
+                    left: -25px;
+                    bottom: 25px;
+                    color: #000000;
+                    text-shadow: none;
+                    font-size: 12px;
+                    font-weight: bold;
+                    &::after{
+                        content: '';
+                        position: absolute;
+                        left: 75px;
+                        top: 100%;
+                        border-left: 10px solid transparent;
+                        border-right: 10px solid transparent;
+                        border-top: 10px solid #ffffff;
+                        clear: both;
+                    }
+                }
+            }
         }
         .group{
             width: calc(50% - 30px);
