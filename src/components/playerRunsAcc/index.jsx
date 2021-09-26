@@ -1,6 +1,6 @@
-import React from "react";
+import React, { useState } from "react";
 
-import { idToDungeon, secondsToHMS, timerCalculator } from "../../utils";
+import { idToDungeon, secondsToHMS, timerCalculator, timeConverter } from "../../utils";
 
 import * as styles from "./styles.module.scss";
 
@@ -42,6 +42,7 @@ const getAffixImage = (affix) => {
   }
 }
 const PlayerRunsAcc = ({ playerRun }) => {
+  const [ timer, setTimer ] = useState(false);
     return (
       <div className={styles.accordionAltItem}>
         <div className={styles.accordionAltTitle}>
@@ -53,7 +54,10 @@ const PlayerRunsAcc = ({ playerRun }) => {
             {playerRun["lvl"]}
             <span className={styles.stars}>{timerCalculator(playerRun["dung"], playerRun["time"])}</span> 
           </span>
-          <span>{secondsToHMS(playerRun["time"])}</span>
+          <span onMouseLeave={() => setTimer(false)} onMouseEnter={() => setTimer(true)} className={styles.timer}>
+              {secondsToHMS(playerRun["time"])}
+              { timer && <span className={styles.completed}>Completed on: {timeConverter(playerRun["timestamp"])}</span>}
+          </span>
           <span>
             {
               playerRun["affixes"] && 
