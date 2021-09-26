@@ -48,18 +48,23 @@ $text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.
         color: #ffffff;
         display: flex;
         flex-wrap: wrap;
-        padding: 8px;
+        padding: 0px 8px;
         .mainHeader{
             text-align: left;
             display: unset;
         }
         strong {
+            padding: 8px 0px;
+            cursor: pointer;
             width: 10%;
             font-size: 14px;
             text-align: center;
             display: flex;
             align-items: center;
             justify-content: center;
+            &.activeSort{
+                border-bottom: 3px solid #ffffff;
+            }
             img{
                 width: 24px;
                 height: 24px;
