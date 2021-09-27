@@ -44,7 +44,7 @@ const getAffixImage = (affix) => {
 const PlayerRunsAcc = ({ playerRun }) => {
   const [ timer, setTimer ] = useState(false);
     return (
-      <div className={styles.accordionAltItem}>
+      <div id={playerRun.rid} className={styles.accordionAltItem}>
         <div className={styles.accordionAltTitle}>
           <span className={styles.mainItem}>
             <img src={getDungeonImage(idToDungeon(playerRun["dung"]))} alt={idToDungeon(playerRun["dung"])} />

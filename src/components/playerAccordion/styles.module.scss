@@ -10,15 +10,6 @@ $text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.
     &:nth-child(odd){
         background-color: #2b2b2b;
     }
-    &.player1{
-        background: linear-gradient(#DFBD69, #926F34);
-    }
-    &.player2{
-        background: linear-gradient(#bbc2cc  , #979c9f );
-    }
-    &.player3{
-        background: linear-gradient(#a97142  , #cd7f32 );
-    }
     .accordionTitle {
         font-size: medium;
         align-items: flex-start;

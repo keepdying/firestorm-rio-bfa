@@ -21,10 +21,19 @@ const PlayerAccordion = ({ player, currentRuns, index }) => {
       }
     }
 
+    const getColorByPosition = (position) => {
+      if (position <= 3) return "#e6cc80";
+      if (position <= 10) return "#ff8000";
+      if (position <= 50) return "#a335ee";
+      if (position <= 250) return "#0070dd";
+      if (position <= 1000) return "#1eff00";
+      return "#ffffff";
+    }
+
     return (
-      <div key={`player_${index}`} className={`${styles.accordionItem} ${styles[`player${player.position}`]}`}>
+      <div key={`player_${index}`} className={`${styles.accordionItem}`}>
         <div className={styles.accordionTitle} onClick={() => setIsActive(!isActive)}>
-          <div>{player.position}</div>
+          <div style={{ color: getColorByPosition(player.position)}}>{player.position}</div>
           <div className={`${styles[`color_${player.pclass}`]}`}>{player.name}</div>
           <div>{player.fsio}</div>
           {/* <div>{isActive ? '-' : '+'}</div> */}
