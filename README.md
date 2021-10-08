@@ -6,7 +6,7 @@ https://keepdying.github.io/firestorm-rio/
 ## Frequently Asked Questions
 
 ### How does this work?
-Every 30 minutes, **runs that can be seen on [Firestorm Ranking PvE](https://firestorm-servers.com/en/challenge/index) page** gets saved into database. If your run doesn't make it to that page, I won't have information about it and **It won't be added**. This is because **I don't have access to any data from Firestorm**.
+**Every 2 hours**, **runs that can be seen on [Firestorm Ranking PvE](https://firestorm-servers.com/en/challenge/index) page** gets saved into database. If your run doesn't make it to that page, I won't have information about it and **It won't be added**. This is because **I don't have access to any internal data from Firestorm**.
 
 ### How do you score runs?
 
