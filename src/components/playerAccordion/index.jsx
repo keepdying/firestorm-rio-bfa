@@ -22,8 +22,8 @@ const PlayerAccordion = ({ player, currentRuns, index }) => {
     }
 
     const getColorByPosition = (position) => {
-      if (position <= 3) return "#e6cc80";
-      if (position <= 10) return "#ff8000";
+      if (position <= 5) return "#e6cc80";
+      if (position <= 15) return "#ff8000";
       if (position <= 50) return "#a335ee";
       if (position <= 250) return "#0070dd";
       if (position <= 1000) return "#1eff00";

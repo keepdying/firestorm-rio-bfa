@@ -18,7 +18,13 @@ header {
   text-align: center;
   flex-direction: column;
   font-weight: bold;
-  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+a{
+  color: #ff8000;
+}
+a:visited {
+  color: #e6cc80;
 }
 
 h1 {
