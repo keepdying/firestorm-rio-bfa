@@ -1,4 +1,4 @@
-# !!!No longer maintained, SL version in development!!!.
+# !!!No longer maintained, SL version in development!!!
 
 # Firestorm RIO BfA
 
