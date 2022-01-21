@@ -1,4 +1,6 @@
-# Firestorm RIO
+# !!!No longer maintained, SL version in development!!!.
+
+# Firestorm RIO BfA
 
 A raider.io like M+ scoring system for Firestorm Servers.
 https://keepdying.github.io/firestorm-rio/
