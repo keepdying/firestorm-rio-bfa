@@ -3,7 +3,7 @@
 # Firestorm RIO BfA
 
 A raider.io like M+ scoring system for Firestorm Servers.
-https://keepdying.github.io/firestorm-rio/
+https://keepdying.github.io/firestorm-rio-bfa/
 
 ## Frequently Asked Questions
 
