@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/firestorm-rio/static/css/main.de4a34fb.chunk.css",
-    "main.js": "/firestorm-rio/static/js/main.593691ed.chunk.js",
-    "main.js.map": "/firestorm-rio/static/js/main.593691ed.chunk.js.map",
-    "runtime-main.js": "/firestorm-rio/static/js/runtime-main.eec6af3f.js",
-    "runtime-main.js.map": "/firestorm-rio/static/js/runtime-main.eec6af3f.js.map",
-    "static/js/2.89ee0eda.chunk.js": "/firestorm-rio/static/js/2.89ee0eda.chunk.js",
-    "static/js/2.89ee0eda.chunk.js.map": "/firestorm-rio/static/js/2.89ee0eda.chunk.js.map",
-    "index.html": "/firestorm-rio/index.html",
-    "static/css/main.de4a34fb.chunk.css.map": "/firestorm-rio/static/css/main.de4a34fb.chunk.css.map",
-    "static/js/2.89ee0eda.chunk.js.LICENSE.txt": "/firestorm-rio/static/js/2.89ee0eda.chunk.js.LICENSE.txt"
+    "main.css": "/firestorm-rio-bfa/static/css/main.de4a34fb.chunk.css",
+    "main.js": "/firestorm-rio-bfa/static/js/main.55607f97.chunk.js",
+    "main.js.map": "/firestorm-rio-bfa/static/js/main.55607f97.chunk.js.map",
+    "runtime-main.js": "/firestorm-rio-bfa/static/js/runtime-main.34cfd96c.js",
+    "runtime-main.js.map": "/firestorm-rio-bfa/static/js/runtime-main.34cfd96c.js.map",
+    "static/js/2.75680edf.chunk.js": "/firestorm-rio-bfa/static/js/2.75680edf.chunk.js",
+    "static/js/2.75680edf.chunk.js.map": "/firestorm-rio-bfa/static/js/2.75680edf.chunk.js.map",
+    "index.html": "/firestorm-rio-bfa/index.html",
+    "static/css/main.de4a34fb.chunk.css.map": "/firestorm-rio-bfa/static/css/main.de4a34fb.chunk.css.map",
+    "static/js/2.75680edf.chunk.js.LICENSE.txt": "/firestorm-rio-bfa/static/js/2.75680edf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eec6af3f.js",
-    "static/js/2.89ee0eda.chunk.js",
+    "static/js/runtime-main.34cfd96c.js",
+    "static/js/2.75680edf.chunk.js",
     "static/css/main.de4a34fb.chunk.css",
-    "static/js/main.593691ed.chunk.js"
+    "static/js/main.55607f97.chunk.js"
   ]
 }
